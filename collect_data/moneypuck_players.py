@@ -10,9 +10,18 @@ sys.path.append(dirname)
 from common_data_pull import download_csv
 
 
-def read_in_season_players_stats(season: int):
+class TypeException(Exception):
+    def __init__(self, *args: object) -> None:
+        super().__init__(*args)
+
+
+def read_in_season_players_stats(season: int, type: str):
+    if type not in ["regular", "playoffs"]:
+        raise TypeException(
+            f"Stats type must be in 'regular' or 'playoffs', '{type}' given."
+        )
     # Moneypuck player data url
-    file_url = f"https://www.moneypuck.com/moneypuck/playerData/seasonSummary/{season}/regular/skaters.csv"
+    file_url = f"https://www.moneypuck.com/moneypuck/playerData/seasonSummary/{season}/{type}/skaters.csv"
 
     # Location to save data
     folder_path = os.path.join(dirname, "../data", "moneypuck", "player_data")
@@ -21,12 +30,11 @@ def read_in_season_players_stats(season: int):
     # Final filepath of csv
     filepath = os.path.join(
         folder_path,
-        f"skater_stats_{season}.csv",
+        f"skater_stats_{season}_{type}.csv",
     )
     download_csv(file_url, filepath)
 
 
 if __name__ == "__main__":
-    # data = test(2023)
-    # exit()
-    data = read_in_season_players_stats(2023)
+    read_in_season_players_stats(2023, "regular")
+    read_in_season_players_stats(2023, "playoffs")
