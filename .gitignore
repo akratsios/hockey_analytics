@@ -164,3 +164,4 @@ cython_debug/
 
 # Other files
 env_hockey_analytics/
+.DS_Store
