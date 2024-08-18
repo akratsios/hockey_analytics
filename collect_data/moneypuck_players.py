@@ -16,6 +16,15 @@ class TypeException(Exception):
 
 
 def read_in_season_players_stats(season: int, type: str):
+    """Pulls the skater data for a given season from moneypuck and stores it.
+
+    Args:
+        season (int): Season to pull data for. 2023-2024 is 2023.
+        type (str): Season type. Only accepts regular or playoffs.
+
+    Raises:
+        TypeException: Parameter type must be regular or playoffs.
+    """
     if type not in ["regular", "playoffs"]:
         raise TypeException(
             f"Stats type must be in 'regular' or 'playoffs', '{type}' given."
@@ -35,6 +44,14 @@ def read_in_season_players_stats(season: int, type: str):
     download_csv(file_url, filepath)
 
 
+def read_in_all_seasons_players_stats():
+    # Moneypuck has data from 2008 to 2024
+    seasons = range(2008, 2024)
+    # For each season pull regular season and playoff data
+    for season in seasons:
+        read_in_season_players_stats(season, "regular")
+        read_in_season_players_stats(season, "playoffs")
+
+
 if __name__ == "__main__":
-    read_in_season_players_stats(2023, "regular")
-    read_in_season_players_stats(2023, "playoffs")
+    read_in_all_seasons_players_stats()
