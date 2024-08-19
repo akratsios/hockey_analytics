@@ -1,4 +1,5 @@
 import os
+import sys
 
 import pandas as pd
 
@@ -12,14 +13,10 @@ def read_in_all_mp_data(season_type: str):
 
     if season_type in ["playoffs", "regular"]:
         mp_files = [f for f in mp_files if season_type in f]
-    print(mp_files)
 
+    all_data = []
+    for file in mp_files:
+        all_data.append(pd.read_csv(os.path.join(mp_player_data_filepath, file)))
 
-def create_target_variable_data():
-    mp_playoff_data = read_in_all_mp_data("playoffs")
-    print(mp_playoff_data)
-
-
-if __name__ == "__main__":
-    print(DIRNAME)
-    create_target_variable_data()
+    all_data = pd.concat(all_data)
+    return all_data.sort_values(by=["season", "playerId"], ascending=True)
