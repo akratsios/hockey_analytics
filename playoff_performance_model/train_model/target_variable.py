@@ -100,14 +100,14 @@ def create_target_variable_data(start_year: int, min_games_played: int, situatio
     # Only keep years start_year and later for training and testing model
     mp_playoff_data = mp_playoff_data.loc[mp_playoff_data["season"] >= start_year]
 
-    # Get game score per second of time on ice
-    mp_playoff_data["gamescore_toi"] = create_gamescore_toi(
-        mp_playoff_data["gameScore"].values, mp_playoff_data["icetime"].values
-    )
-
     # Action date is the end of the previous season
     mp_playoff_data["action_date"] = mp_playoff_data["season"].apply(
         lambda x: create_action_date_target_data(x)
+    )
+
+    # Get game score per second of time on ice
+    mp_playoff_data["gamescore_toi"] = create_gamescore_toi(
+        mp_playoff_data["gameScore"].values, mp_playoff_data["icetime"].values
     )
 
     mp_playoff_data = mp_playoff_data.reset_index(drop=True)
