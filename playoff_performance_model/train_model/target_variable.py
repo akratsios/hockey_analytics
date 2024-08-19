@@ -52,13 +52,31 @@ def calc_corsi_against(on_ice_sa_f: int, on_ice_sa_a: int) -> float:
 
 
 def create_gamescore_toi(gamescore: float, time_on_ice: float) -> float:
+    """Create the game score per second of time on ice variable.
+    It is scaled by 100k to give the score a range in the low hundreds.
+
+    Args:
+        gamescore (float): Game score from MoneyPuck.
+        time_on_ice (float): Time on ice in seconds.
+
+    Returns:
+        float: Game score per second of ice time scaled.
+    """
     # Gt game score per second of time on ice
     # Multiply gs_toi by 100k to make score more readable
-    gs_toi = np.round(gamescore / time_on_ice * 100000)
-    return gs_toi
+    return np.round(gamescore / time_on_ice * 100000)
 
 
 def create_action_date_target_data(playoff_season_year: int) -> datetime:
+    """Create the action date for the target data. Use the last
+    day of the season (including playoffs) for the action date.
+
+    Args:
+        playoff_season_year (int): Target variable season.
+
+    Returns:
+        datetime: Action date.
+    """
     # End date of each NHL season
     season_end_dates = {
         2008: "2009-06-12",
@@ -82,7 +100,20 @@ def create_action_date_target_data(playoff_season_year: int) -> datetime:
     return datetime.strptime(season_end_dates[playoff_season_year - 1], "%Y-%m-%d")
 
 
-def create_target_variable_data(start_year: int, min_games_played: int, situation: str):
+def create_target_variable_data(
+    start_year: int, min_games_played: int, situation: str
+) -> pd.DataFrame:
+    """Create the target variable data for model training.
+    Uses MoneyPuck player playoff data.
+
+    Args:
+        start_year (int): First season to get data for.
+        min_games_played (int): Minimum number of games played in season to be included.
+        situation (str): In game situation (e.g. all, 5on5, etc.).
+
+    Returns:
+        pd.DataFrame: Target variable data.
+    """
     # Read in all moneypuck player playoff data
     mp_playoff_data = read_in_all_mp_data("playoffs")
 
