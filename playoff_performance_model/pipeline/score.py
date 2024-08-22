@@ -1,3 +1,4 @@
+import json
 import os
 from pathlib import Path
 
@@ -15,13 +16,36 @@ DIRNAME = os.path.dirname(os.path.realpath(__file__))
 
 def score_players(pipeline_folder_path: str, model_version: str) -> pd.DataFrame:
     # Read in player feature data
-    player_data = pd.read_pickle(os.path.join(pipeline_folder_path, "feature_data.pkl"))
-    print(player_data)
+    X = pd.read_pickle(os.path.join(pipeline_folder_path, "feature_data.pkl"))
+
+    # Save identifier data
+    identifier_data = X.loc[:, ["playerId", "action_season", "action_date"]]
+    identifier_data = identifier_data.reset_index()
+
+    # Load in saved xgboost model
+    model_path = os.path.join(DIRNAME, "../models", model_version)
+    model = xgb.XGBRegressor()
+    model.load_model(os.path.join(model_path, "model.json"))
+
+    # Read in feature names
+    with open(os.path.join(model_path, "feature_names.json")) as f:
+        cols_when_model_builds = json.load(f)
+    X = X.loc[:, cols_when_model_builds]
+
+    # Compute model prediction
+    y_pred = model.predict(X)
+    # Add model prediction to feature data
+    identifier_data.loc[:, "prediction"] = y_pred
+    X = X.reset_index()
+    all_scored_data = pd.merge(identifier_data, X, how="inner", on="index")
+
+    # Save scored date
+    all_scored_data.to_csv(os.path.join(pipeline_folder_path, "scored_data.csv"))
 
 
 if __name__ == "__main__":
     # Test pipeline results
-    batch_name = ""
+    batch_name = "batch_2023-06-28"
     pipeline_folder_path = os.path.join(DIRNAME, "../pipeline_results", batch_name)
 
     # Score contracts in pipeline

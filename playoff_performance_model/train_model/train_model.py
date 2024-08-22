@@ -1,3 +1,4 @@
+import json
 import os
 from pathlib import Path
 
@@ -16,7 +17,7 @@ DIRNAME = os.path.dirname(os.path.realpath(__file__))
 def train_model(model_version: str):
     # Read in data
     all_data = pd.read_pickle(
-        os.path.join(DIRNAME, "training_data", "model_training_data.pkl")
+        os.path.join(DIRNAME, "training_data", "training_feature_data.pkl")
     )
 
     # Identifier data will not be included in training or scoring
@@ -41,7 +42,7 @@ def train_model(model_version: str):
     # max_depth     "Maximum depth of a tree. Increasing this value will make
     #                the model more complex and more likely to overfit."
     # =========================================================================
-    regressor = xgb.XGBRegressor(
+    model = xgb.XGBRegressor(
         eval_metric="rmse",
         enable_categorical=True,
     )
@@ -58,23 +59,37 @@ def train_model(model_version: str):
     }
 
     # try out every combination of the above values
-    search = GridSearchCV(regressor, param_grid, cv=5).fit(X_train, y_train)
+    search = GridSearchCV(model, param_grid, cv=5).fit(X_train, y_train)
 
     print("The best hyperparameters are ", search.best_params_)
 
-    regressor = xgb.XGBRegressor(
+    model = xgb.XGBRegressor(
         learning_rate=search.best_params_["learning_rate"],
         n_estimators=search.best_params_["n_estimators"],
         max_depth=search.best_params_["max_depth"],
         eval_metric="rmse",
         enable_categorical=True,
     )
-    regressor.fit(X_train, y_train)
+    model.fit(X_train, y_train)
 
     # Save the model
     model_path = os.path.join(DIRNAME, "../models", model_version)
     Path(model_path).mkdir(parents=True, exist_ok=True)
-    regressor.save_model(os.path.join(model_path, "model.json"))
+    model.save_model(os.path.join(model_path, "model.json"))
+
+    # Save the feature names (preserve order)
+    feature_names = model.get_booster().feature_names
+    with open(os.path.join(model_path, "feature_names.json"), "w") as f:
+        json.dump(feature_names, f)
+
+    # Save model params to json file
+    params = model.get_xgb_params()
+    # np.int64 can't be dumped to json
+    for key, value in params.items():
+        if type(value) == np.int64:
+            params[key] = int(value)
+    with open(os.path.join(model_path, "params.json"), "w") as f:
+        json.dump(params, f)
     print("Finished training model.")
 
     # =========================================================================
@@ -90,11 +105,11 @@ def train_model(model_version: str):
     # =========================================================================
     # use the model to predict the prices for the test data
     # =========================================================================
-    predictions = regressor.predict(X_train)
+    predictions = model.predict(X_train)
     rmse_train = np.sqrt(root_mean_squared_error(y_train, predictions))
     print("The RMSE train score is %.5f" % rmse_train)
 
-    predictions = regressor.predict(X_test)
+    predictions = model.predict(X_test)
     rmse_test = np.sqrt(root_mean_squared_error(y_test, predictions))
     print("The RMSE test score is %.5f" % rmse_test)
 
@@ -103,7 +118,8 @@ def train_model(model_version: str):
     plt.rcParams.update({"font.size": 16})
 
     fig, ax = plt.subplots(figsize=(12, 6))
-    plot_importance(regressor, max_num_features=8, ax=ax)
+    plot_importance(model, max_num_features=8, ax=ax)
+    # plt.savefig(os.path.join(model_path, "feature_importance_xgboost.png"))
     plt.show()
 
 

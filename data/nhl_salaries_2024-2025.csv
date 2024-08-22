@@ -1,0 +1,1766 @@
+index,player,current_cap_hit,current_salary,contract_length,age,position,clause,ufa_year,signing_status,expiry_status,expiry_year,agent
+1,"Matthews, Auston","$13,250,000","$16,700,000",4,26,C,NMC,2023,UFA,UFA,2027-28,Judd Moldaver
+2,"MacKinnon, Nathan","$12,600,000","$16,500,000",8,28,C,NMC,2020,UFA,UFA,2030-31,Pat Brisson
+3,"McDavid, Connor","$12,500,000","$10,000,000",8,27,C,NMC,2022,RFA,UFA,2025-26,Judd Moldaver
+4,"Panarin, Artemi","$11,642,857","$10,000,000",7,32,LW,NMC,2019,UFA,UFA,2025-26,Paul Theofanous
+5,"Pettersson, Elias","$11,600,000","$14,500,000",8,25,C,,2025,RFA +arb,UFA,2031-32,Pat Brisson
+6,"Karlsson, Erik","$11,500,000","$11,000,000",8,34,D,NMC,2017,UFA,UFA,2026-27,Craig Oster
+7,"Nylander, William","$11,500,000","$13,500,000",8,28,C,NMC,2023,UFA,UFA,2031-32,Lewis Gross
+8,"Pastrnak, David","$11,250,000","$13,000,000",8,28,RW,NMC,2021,UFA,UFA,2030-31,J.P. Barry
+9,"Doughty, Drew","$11,000,000","$11,000,000",8,34,D,M-NTC,2015,UFA,UFA,2026-27,Drew Doughty
+10,"Dahlin, Rasmus","$11,000,000","$13,000,000",8,24,D,,2025,RFA +arb,UFA,2031-32,Craig Oster
+11,"Tavares, John","$11,000,000","$7,950,000",7,33,C,NMC,2016,UFA,UFA,2024-25,Pat Brisson
+12,"Marner, Mitchell","$10,903,000","$8,025,000",6,27,RW,NMC,2023,RFA,UFA,2024-25,Darren Ferris
+13,"Huberdeau, Jonathan","$10,500,000","$10,500,000",8,31,LW,NMC,2020,UFA,UFA,2030-31,Allan Walsh
+14,"Price, Carey","$10,500,000","$7,500,000",8,37,G,NMC,2014,UFA,UFA,2025-26,Gerry Johannson
+15,"Bobrovsky, Sergei","$10,000,000","$6,500,000",7,35,G,M-NTC,2016,UFA,UFA,2025-26,Paul Theofanous
+16,"Eichel, Jack","$10,000,000","$10,000,000",8,27,C,NMC,2024,RFA,UFA,2025-26,Peter Fish
+17,"Barkov, Aleksander","$10,000,000","$12,000,000",8,28,C,NMC,2020,UFA,UFA,2029-30,Mark Gandler & Todd Diamond
+18,"Seguin, Tyler","$9,850,000","$8,000,000",8,32,C,NMC,2017,UFA,UFA,2026-27,Ian Pulver
+19,"Aho, Sebastian","$9,750,000","$12,000,000",8,27,C,NMC,2023,UFA,UFA,2031-32,Mika Rautakallio
+20,"Gaudreau, Johnny","$9,750,000","$9,750,000",7,31,LW,NMC,2021,UFA,UFA,2028-29,Lewis Gross
+21,"Werenski, Zach","$9,583,333","$11,500,000",6,27,D,NMC,2025,RFA +arb,UFA,2027-28,Judd Moldaver
+22,"Kucherov, Nikita","$9,500,000","$9,000,000",8,31,RW,M-NTC,2020,RFA,UFA,2026-27,Daniel Milstein
+23,"McAvoy, Charlie","$9,500,000","$11,500,000",8,26,D,NMC,2024,RFA +arb,UFA,2029-30,Michael Curran
+24,"Tkachuk, Matthew","$9,500,000","$11,250,000",8,26,LW,NMC,2023,RFA +arb,UFA,2029-30,Craig Oster
+25,"Vasilevskiy, Andrei","$9,500,000","$10,000,000",8,30,G,NMC,2021,RFA +arb,UFA,2027-28,Daniel Milstein
+26,"Benn, Jamie","$9,500,000","$6,500,000",8,35,LW,NMC,2016,UFA,UFA,2024-25,Richard Evans
+27,"Jones, Seth","$9,500,000","$12,500,000",8,29,D,NMC,2020,UFA,UFA,2029-30,Pat Brisson
+28,"Point, Brayden","$9,500,000","$12,000,000",8,28,C,NMC,2023,RFA +arb,UFA,2029-30,Gerry Johannson
+29,"Stone, Mark","$9,500,000","$11,000,000",8,32,RW,NMC,2019,UFA,UFA,2026-27,Craig Oster
+30,"Ovechkin, Alex","$9,500,000","$11,000,000",5,38,LW,"M-NTC
+NMC",2012,UFA,UFA,2025-26,Stephen Screnci
+31,"Fox, Adam","$9,500,000","$12,000,000",7,26,D,,2025,RFA +arb,UFA,2028-29,Matt Keator
+32,"Nurse, Darnell","$9,250,000","$12,000,000",8,29,D,NMC,2022,UFA,UFA,2029-30,Paul Capizzano
+33,"Rantanen, Mikko","$9,250,000","$6,000,000",6,27,C,M-NTC,2023,RFA,UFA,2024-25,Andy Scott
+34,"Backstrom, Nicklas","$9,200,000","$8,000,000",5,36,C,M-NTC,2014,UFA,UFA,2024-25,Nicklas Backstrom
+35,"Barzal, Mathew","$9,150,000","$9,150,000",8,27,C,M-NTC,2024,RFA +arb,UFA,2030-31,J.P. Barry
+36,"Josi, Roman","$9,059,000","$9,000,000",8,34,D,NMC,2017,UFA,UFA,2027-28,Judd Moldaver
+37,"Guentzel, Jake","$9,000,000","$13,263,157",7,29,LW,NMC,2022,UFA,UFA,2030-31,Ben Hankinson
+38,"Hamilton, Dougie","$9,000,000","$12,600,000",7,31,D,NMC,2019,UFA,UFA,2027-28,J.P. Barry
+39,"Makar, Cale","$9,000,000","$10,600,000",6,25,D,,2026,RFA,UFA,2026-27,Brian & Scott Bartlett
+40,"Kaprizov, Kirill","$9,000,000","$10,000,000",5,27,LW,NMC,2024,RFA,UFA,2025-26,Paul Theofanous
+41,"Meier, Timo","$8,800,000","$11,100,000",8,27,LW,NMC,2024,RFA +arb,UFA,2030-31,Claude Lemieux
+42,"Pietrangelo, Alex","$8,800,000","$12,500,000",7,34,D,NMC,2017,UFA,UFA,2026-27,Donald Meehan
+43,"Crosby, Sidney","$8,700,000","$3,000,000",12,37,C,NMC,2014,UFA,UFA,2024-25,Pat Brisson
+44,"Larkin, Dylan","$8,700,000","$11,000,000",8,28,C,NTC,2022,UFA,UFA,2030-31,Pat Brisson
+45,"Laine, Patrik","$8,700,000","$9,100,000",4,26,LW,M-NTC,2023,RFA +arb,UFA,2025-26,Andy Scott
+46,"Reinhart, Sam","$8,625,000","$11,000,000",8,28,C,"M-NTC
+NMC",2022,UFA,UFA,2031-32,Craig Oster
+47,"Hellebuyck, Connor","$8,500,000","$10,000,000",7,31,G,NMC,2020,UFA,UFA,2030-31,Ray (Raynold) Petkau
+48,"Zibanejad, Mika","$8,500,000","$10,500,000",8,31,C,NMC,2019,UFA,UFA,2029-30,Monir Kalgoum
+49,"Dubois, Pierre-Luc","$8,500,000","$11,250,000",8,26,C,NMC,2024,RFA +arb,UFA,2030-31,Pat Brisson
+50,"Draisaitl, Leon","$8,500,000","$8,000,000",8,28,C,"M-NTC
+NMC",2022,RFA,UFA,2024-25,Andy Scott
+51,"Horvat, Bo","$8,500,000","$8,500,000",8,29,C,NTC,2021,UFA,UFA,2030-31,Patrick Morris
+52,"Scheifele, Mark","$8,500,000","$10,000,000",7,31,C,NMC,2020,UFA,UFA,2030-31,Craig Oster
+53,"Sergachev, Mikhail","$8,500,000","$11,050,000",8,26,D,NTC,2024,RFA +arb,UFA,2030-31,Daniel Milstein
+54,"Forsberg, Filip","$8,500,000","$10,000,000",8,30,C,NMC,2022,UFA,UFA,2029-30,J.P. Barry
+55,"Heiskanen, Miro","$8,450,000","$11,000,000",8,25,D,,2025,RFA,UFA,2028-29,Ian Pulver
+56,"Hintz, Roope","$8,450,000","$11,250,000",8,27,C,NMC,2024,RFA +arb,UFA,2030-31,Markus Lehto
+57,"Power, Owen","$8,350,000","$8,350,000",7,21,D,,2029,RFA,UFA,2030-31,Pat Brisson
+58,"Stutzle, Tim","$8,350,000","$6,500,000",8,22,LW,,2027,RFA,UFA,2030-31,Ben Hankinson
+59,"Voracek, Jakub","$8,250,000","$7,500,000",8,35,RW,,2015,UFA,UFA,2023-24,
+60,"Sorokin, Ilya","$8,250,000","$8,250,000",8,29,G,NMC,2023,UFA,UFA,2031-32,Daniel Milstein
+61,"Tkachuk, Brady","$8,205,714","$10,500,000",7,24,LW,,2025,RFA,UFA,2027-28,Craig Oster
+62,"Hertl, Tomas","$8,137,500","$10,250,000",8,30,C,NMC,2021,UFA,UFA,2029-30,Craig Oster
+63,"Kyrou, Jordan","$8,125,000","$10,900,000",8,26,C,,2025,RFA +arb,UFA,2030-31,David Gagner
+64,"Thomas, Robert","$8,125,000","$10,900,000",8,25,C,,2026,RFA +arb,UFA,2030-31,Craig Oster
+65,"Sanderson, Jake","$8,050,000","$8,050,000",8,22,D,,2029,RFA,UFA,2031-32,Pat Brisson
+66,"Stamkos, Steven","$8,000,000","$9,500,000",4,34,C,NMC,2016,UFA,UFA,2027-28,Donald Meehan
+67,"Carlson, John","$8,000,000","$6,000,000",8,34,D,M-NTC,2017,UFA,UFA,2025-26,Richard Curran
+68,"Trouba, Jacob","$8,000,000","$6,000,000",7,30,D,M-NTC,2020,RFA,UFA,2025-26,Kurt Overhardt
+69,"Couture, Logan","$8,000,000","$7,000,000",8,35,C,M-NTC,2016,UFA,UFA,2026-27,John Thornton
+70,"Chabot, Thomas","$8,000,000","$10,000,000",8,27,D,M-NTC,2024,RFA,UFA,2027-28,Ian Pulver
+71,"Hughes, Jack","$8,000,000","$8,500,000",8,23,C,,2026,RFA,UFA,2029-30,Pat Brisson
+72,"Johansen, Ryan","$8,000,000","$8,000,000",8,32,C,,2018,RFA,UFA,2024-25,Kurt Overhardt
+73,"Miller, J.T.","$8,000,000","$9,000,000",7,31,C,NMC,2020,UFA,UFA,2029-30,Brian & Scott Bartlett
+74,"Burns, Brent","$8,000,000","$5,000,000",8,39,D,M-NTC,2012,UFA,UFA,2024-25,Ron Salcer
+75,"Norris, Joshua","$7,950,000","$9,500,000",8,25,C,,2026,RFA,UFA,2029-30,Craig Oster
+76,"Bratt, Jesper","$7,875,000","$9,000,000",8,26,LW,NMC,2024,RFA +arb,UFA,2030-31,Joakim Persson
+77,"Suzuki, Nick","$7,875,000","$10,000,000",8,25,C,,2026,RFA,UFA,2029-30,David Gagner
+78,"Fiala, Kevin","$7,875,000","$8,750,000",7,28,C,NMC,2023,RFA +arb,UFA,2028-29,Craig Oster
+79,"Hedman, Victor","$7,875,000","$7,000,000",8,33,D,M-NTC,2016,UFA,UFA,2024-25,Peter Wallen
+80,"Debrincat, Alex","$7,875,000","$8,250,000",4,26,LW,M-NTC,2024,RFA +arb,UFA,2026-27,David Gagner
+81,"Weber, Shea","$7,857,143","$1,000,000",14,39,D,,2013,RFA,UFA,2025-26,Jarrett Bousquet
+82,"Hughes, Quinn","$7,850,000","$9,500,000",6,24,D,,2026,RFA,UFA,2026-27,Pat Brisson
+83,"Caufield, Cole","$7,850,000","$9,975,000",8,23,LW,,2028,RFA,UFA,2030-31,Pat Brisson
+84,"Kuznetsov, Evgeny","$7,800,000","$8,000,000",8,32,C,M-NTC,2019,RFA,UFA,2024-25,Craig Oster
+85,"Orlov, Dmitry","$7,750,000","$7,750,000",2,33,D,,2019,UFA,UFA,2024-25,Mark Gandler & Todd Diamond
+86,"Robertson, Jason","$7,750,000","$9,200,000",4,25,LW,,2027,RFA,RFA +arb,2025-26,Pat Brisson
+87,"Couturier, Sean","$7,750,000","$9,000,000",8,31,C,NMC,2018,UFA,UFA,2029-30,Erik Lupien
+88,"Lindholm, Elias","$7,750,000","$10,000,000",7,29,C,NMC,2020,UFA,UFA,2030-31,Craig Oster
+89,"Svechnikov, Andrei","$7,750,000","$9,000,000",8,24,RW,,2025,RFA,UFA,2028-29,Mark Gandler & Todd Diamond
+90,"Spurgeon, Jared","$7,575,000","$8,000,000",7,34,D,M-NTC,2017,UFA,UFA,2026-27,Eustace King
+91,"Ekblad, Aaron","$7,500,000","$7,000,000",8,28,D,M-NTC,2022,RFA,UFA,2024-25,David Gagner
+92,"Rielly, Morgan","$7,500,000","$10,000,000",8,30,D,NMC,2020,UFA,UFA,2029-30,J.P. Barry
+93,"Hanifin, Noah","$7,350,000","$9,500,000",8,27,D,NTC,2022,UFA,UFA,2031-32,Pat Brisson
+94,"Dunn, Vince","$7,350,000","$8,000,000",4,27,D,NTC,2024,RFA +arb,UFA,2026-27,Patrick Morris
+95,"Hischier, Nico","$7,250,000","$7,750,000",7,25,C,M-NTC,2025,RFA,UFA,2026-27,Allain Roy
+96,"Toews, Devon","$7,250,000","$7,750,000",7,30,D,NMC,2021,UFA,UFA,2030-31,Ross Gurney
+97,"Hronek, Filip","$7,250,000","$9,500,000",8,26,D,,2025,RFA +arb,UFA,2031-32,Allan Walsh
+98,"Keller, Clayton","$7,150,000","$7,000,000",8,26,RW,NTC,2024,RFA,UFA,2027-28,Brian & Scott Bartlett
+99,"Connor, Kyle","$7,142,857","$7,500,000",7,27,LW,M-NTC,2024,RFA,UFA,2025-26,Richard Evans
+100,"Thompson, Tage","$7,142,857","$7,142,857",7,26,C,M-NTC,2025,RFA +arb,UFA,2029-30,Jerry Buckley
+101,"Montour, Brandon","$7,142,857","$8,000,000",7,30,D,NTC,2021,UFA,UFA,2030-31,Matt Keator
+102,"Hayes, Kevin","$7,142,857","$5,250,000",7,32,C,M-NTC,2019,UFA,UFA,2025-26,Robert Murray
+103,"Cozens, Dylan","$7,100,000","$7,100,000",7,23,C,,2027,RFA,UFA,2029-30,Allain Roy
+104,"Kopitar, Anze","$7,000,000","$7,000,000",2,36,C,NMC,2013,UFA,UFA,2025-26,Pat Brisson
+105,"Landeskog, Gabriel","$7,000,000","$9,000,000",8,31,LW,NMC,2019,UFA,UFA,2028-29,Peter Wallen
+106,"Lee, Anders","$7,000,000","$5,850,000",7,34,LW,M-NTC,2018,UFA,UFA,2025-26,Neil Sheehy
+107,"Boldy, Matt","$7,000,000","$9,700,000",7,23,LW,,2028,RFA,UFA,2029-30,Brian & Scott Bartlett
+108,"Vlasic, Marc-Edouard","$7,000,000","$7,000,000",8,37,D,M-NTC,2013,UFA,UFA,2025-26,Robert Sauve
+109,"Kadri, Nazem","$7,000,000","$7,000,000",7,33,C,NMC,2018,UFA,UFA,2028-29,Darren Ferris
+110,"Skjei, Brady","$7,000,000","$10,000,000",7,30,D,"M-NTC
+NMC",2021,UFA,UFA,2030-31,Wade Arnott
+111,"Terry, Troy","$7,000,000","$7,000,000",7,26,RW,,2025,RFA +arb,UFA,2029-30,Kurt Overhardt
+112,"Seabrook, Brent","$6,875,000","$9,000,000",8,39,D,NMC,2012,UFA,UFA,2023-24,Gerry Johannson
+113,"Provorov, Ivan","$6,750,000","$8,625,000",6,27,D,,2023,RFA,UFA,2024-25,Mark Gandler & Todd Diamond
+114,"McDonagh, Ryan","$6,750,000","$6,930,000",7,35,D,NTC,2016,UFA,UFA,2025-26,Ben Hankinson
+115,"Boeser, Brock","$6,650,000","$6,650,000",3,27,RW,M-NTC,2024,RFA +arb,UFA,2024-25,Ben Hankinson
+116,"Parayko, Colton","$6,500,000","$8,000,000",8,31,D,NTC,2020,UFA,UFA,2029-30,Gerry Johannson
+117,"Krug, Torey","$6,500,000","$8,500,000",7,33,D,NTC,2018,UFA,UFA,2026-27,Lewis Gross
+118,"Schenn, Brayden","$6,500,000","$8,000,000",8,32,C,NTC,2018,UFA,UFA,2027-28,Ben Hankinson
+119,"Gallagher, Brendan","$6,500,000","$9,000,000",6,32,RW,"M-NTC
+NMC",2019,UFA,UFA,2026-27,Gerry Johannson
+120,"Giroux, Claude","$6,500,000","$5,500,000",3,36,C,NMC,2015,UFA,UFA,2024-25,Pat Brisson
+121,"Kreider, Chris","$6,500,000","$5,000,000",7,33,LW,M-NTC,2018,UFA,UFA,2026-27,Matt Keator
+122,"Hagel, Brandon","$6,500,000","$9,000,000",8,25,LW,,2026,RFA +arb,UFA,2031-32,Allain Roy
+123,"Fowler, Cam","$6,500,000","$7,500,000",8,32,D,M-NTC,2018,UFA,UFA,2025-26,Pat Brisson
+124,"Lindholm, Hampus","$6,500,000","$8,000,000",8,30,D,NMC,2020,UFA,UFA,2029-30,Claude Lemieux
+125,"Faulk, Justin","$6,500,000","$4,750,000",7,32,D,NTC,2019,UFA,UFA,2026-27,Brian & Scott Bartlett
+126,"Necas, Martin","$6,500,000","$6,000,000",2,25,C,,2026,RFA +arb,UFA,2025-26,Michael Deutsch
+127,"Wilson, Tom","$6,500,000","$9,000,000",7,30,RW,M-NTC,2020,UFA,UFA,2030-31,Patrick Morris
+128,"Gibson, John","$6,400,000","$6,400,000",8,31,G,M-NTC,2020,RFA +arb,UFA,2026-27,Kurt Overhardt
+129,"Ellis, Ryan","$6,250,000","$6,500,000",8,33,D,,2018,UFA,UFA,2026-27,Richard Curran
+130,"Ekholm, Mattias","$6,250,000","$6,500,000",4,34,D,,2017,UFA,UFA,2025-26,Kurt Overhardt
+131,"Morrissey, Josh","$6,250,000","$6,400,000",8,29,D,NMC,2022,RFA +arb,UFA,2027-28,Gerry Johannson
+132,"Weegar, MacKenzie","$6,250,000","$6,250,000",8,30,D,NTC,2021,UFA,UFA,2030-31,Matthew Ebbs
+133,"Byfield, Quinton","$6,250,000","$6,275,000",5,22,C,,2028,RFA,UFA,2028-29,David Gagner
+134,"Stephenson, Chandler","$6,250,000","$6,250,000",7,30,C,NMC,2021,UFA,UFA,2030-31,Jason Davidson
+135,"Sanheim, Travis","$6,250,000","$8,125,000",8,28,D,NTC,2023,UFA,UFA,2030-31,Craig Oster
+136,"Killorn, Alex","$6,250,000","$6,250,000",4,34,C,NTC,2017,UFA,UFA,2026-27,Matt Keator
+137,"Cirelli, Anthony","$6,250,000","$8,125,000",8,27,C,,2025,RFA +arb,UFA,2030-31,Patrick Morris
+138,"Petry, Jeff","$6,250,000","$5,000,000",4,36,D,M-NTC,2015,UFA,UFA,2024-25,Wade Arnott
+139,"Severson, Damon","$6,250,000","$8,000,000",8,30,D,NTC,2021,UFA,UFA,2030-31,Jason Davidson
+140,"Tippett, Owen","$6,200,000","$6,000,000",8,25,RW,,2026,RFA +arb,UFA,2031-32,Murray Koontz
+141,"Pulock, Ryan","$6,150,000","$6,150,000",8,29,D,NTC,2022,UFA,UFA,2029-30,Jarrett Bousquet
+142,"Nichushkin, Valeri","$6,125,000","$8,000,000",8,29,RW,NMC,2022,UFA,UFA,2029-30,Mark Gandler & Todd Diamond
+143,"Marchand, Brad","$6,125,000","$4,000,000",8,36,C,M-NTC,2015,UFA,UFA,2024-25,Wade Arnott
+144,"Malkin, Evgeni","$6,100,000","$5,600,000",4,38,C,NMC,2014,UFA,UFA,2025-26,J.P. Barry
+145,"Letang, Kris","$6,100,000","$6,200,000",6,37,D,NMC,2014,UFA,UFA,2027-28,Philippe Lecavalier
+146,"Brodin, Jonas","$6,000,000","$8,000,000",7,31,D,NMC,2019,UFA,UFA,2027-28,Peter Wallen
+147,"Binnington, Jordan","$6,000,000","$7,500,000",6,31,G,M-NTC,2021,UFA,UFA,2026-27,Robert Hooper
+148,"Ehlers, Nikolaj","$6,000,000","$6,750,000",7,28,LW,M-NTC,2022,RFA,UFA,2024-25,Andre Rufener
+149,"Hall, Taylor","$6,000,000","$5,250,000",4,32,LW,M-NTC,2017,UFA,UFA,2024-25,Darren Ferris
+150,"Palat, Ondrej","$6,000,000","$4,950,000",5,33,LW,NMC,2018,UFA,UFA,2026-27,Craig Oster
+151,"Nelson, Brock","$6,000,000","$4,000,000",6,32,C,M-NTC,2019,UFA,UFA,2024-25,Ben Hankinson
+152,"Toffoli, Tyler","$6,000,000","$6,000,000",4,32,C,NTC,2019,UFA,UFA,2027-28,Pat Brisson
+153,"Durzi, Sean","$6,000,000","$7,100,000",4,25,D,,2026,RFA +arb,UFA,2027-28,Allan Walsh
+154,"Markstrom, Jacob","$6,000,000","$6,000,000",6,34,G,NMC,2017,UFA,UFA,2025-26,Patrick Morris
+155,"Karlsson, William","$5,900,000","$5,600,000",8,31,C,M-NTC,2020,RFA,UFA,2026-27,Michael Deutsch
+156,"Grubauer, Philipp","$5,900,000","$6,800,000",6,32,G,M-NTC,2019,UFA,UFA,2026-27,Allain Roy
+157,"Gavrikov, Vladislav","$5,875,000","$5,250,000",2,28,D,NMC,2023,UFA,UFA,2024-25,Daniel Milstein
+158,"Pionk, Neal","$5,875,000","$6,000,000",4,29,D,M-NTC,2023,RFA +arb,UFA,2024-25,Pete Rutili
+159,"Schmaltz, Nick","$5,850,000","$8,450,000",7,28,C,M-NTC,2023,RFA,UFA,2025-26,Kurt Overhardt
+160,"Mangiapane, Andrew","$5,800,000","$5,800,000",3,28,C,M-NTC,2023,RFA +arb,UFA,2024-25,Ritchie Winter
+161,"Lindell, Esa","$5,800,000","$5,000,000",6,30,D,NMC,2021,RFA +arb,UFA,2024-25,Markus Lehto
+162,"Buchnevich, Pavel","$5,800,000","$6,300,000",4,29,RW,M-NTC,2022,RFA +arb,UFA,2024-25,Mark Gandler & Todd Diamond
+163,"Pelech, Adam","$5,750,000","$5,750,000",8,30,D,NTC,2022,RFA +arb,UFA,2028-29,Paul Capizzano
+164,"Oshie, T.J.","$5,750,000","$4,000,000",8,37,RW,M-NTC,2014,UFA,UFA,2024-25,Matthew Oates
+165,"Forsling, Gustav","$5,750,000","$6,525,000",8,28,D,NMC,2023,UFA,UFA,2031-32,Joakim Persson
+166,"Roy, Matt","$5,750,000","$7,000,000",6,29,D,M-NTC,2022,UFA,UFA,2029-30,Richard Evans
+167,"Zegras, Trevor","$5,750,000","$5,750,000",3,23,C,,2028,RFA,RFA +arb,2025-26,Pat Brisson
+168,"Mittelstadt, Casey","$5,750,000","$5,750,000",3,25,C,,2026,RFA +arb,UFA,2026-27,Neil Sheehy
+169,"Shesterkin, Igor","$5,666,667","$6,666,667",4,28,G,M-NTC,2023,RFA +arb,UFA,2024-25,Maxim Moliver
+170,"Copp, Andrew","$5,625,000","$6,250,000",5,30,C,M-NTC,2022,UFA,UFA,2026-27,Kurt Overhardt
+171,"Muzzin, Jake","$5,625,000","$4,000,000",4,35,D,NTC,2016,UFA,UFA,2023-24,Joseph Resnick
+172,"Trocheck, Vincent","$5,625,000","$6,375,000",7,31,C,NMC,2021,UFA,UFA,2028-29,Stephen F. Reich
+173,"Anderson, Josh","$5,500,000","$7,000,000",7,30,RW,M-NTC,2021,RFA +arb,UFA,2026-27,Darren Ferris
+174,"DeBrusk, Jake","$5,500,000","$6,500,000",7,27,LW,NMC,2024,UFA,UFA,2030-31,Rick Valette
+175,"Konecny, Travis","$5,500,000","$7,000,000",6,27,RW,,2023,RFA,UFA,2024-25,Patrick Morris
+176,"Schwartz, Jaden","$5,500,000","$6,000,000",5,32,LW,M-NTC,2019,UFA,UFA,2025-26,Brian & Scott Bartlett
+177,"Danault, Phillip","$5,500,000","$6,750,000",6,31,C,M-NTC,2020,UFA,UFA,2026-27,Donald Meehan
+178,"Kuzmenko, Andrei","$5,500,000","$5,500,000",2,28,LW,M-NTC,2023,UFA,UFA,2024-25,Daniel Milstein
+179,"Kempe, Adrian","$5,500,000","$5,500,000",4,27,C,M-NTC,2024,RFA +arb,UFA,2025-26,J.P. Barry
+180,"Hyman, Zach","$5,500,000","$7,700,000",7,32,C,NMC,2019,UFA,UFA,2027-28,Todd Reynolds
+181,"Marchessault, Jonathan","$5,500,000","$7,000,000",5,33,LW,"M-NTC
+NMC",2018,UFA,UFA,2028-29,Pat Brisson
+182,"Monahan, Sean","$5,500,000","$7,000,000",5,29,C,NMC,2020,UFA,UFA,2028-29,Patrick Morris
+183,"Burakovsky, Andre","$5,500,000","$6,250,000",5,29,LW,M-NTC,2021,UFA,UFA,2026-27,Kevin Epp
+184,"Bertuzzi, Tyler","$5,500,000","$7,000,000",4,29,LW,M-NTC,2022,UFA,UFA,2027-28,Todd Reynolds
+185,"Pesce, Brett","$5,500,000","$7,000,000",6,29,D,NTC,2022,UFA,UFA,2029-30,Judd Moldaver
+186,"Bjorkstrand, Oliver","$5,400,000","$5,900,000",5,29,RW,M-NTC,2022,RFA +arb,UFA,2025-26,Peter Fish
+187,"Merzlikins, Elvis","$5,400,000","$6,000,000",5,30,G,M-NTC,2021,UFA,UFA,2026-27,Gerry Johannson
+188,"Teravainen, Teuvo","$5,400,000","$6,200,000",3,29,C,M-NTC,2022,UFA,UFA,2026-27,Markus Lehto
+189,"Jarry, Tristan","$5,375,000","$6,400,000",5,29,G,M-NTC,2022,UFA,UFA,2027-28,Craig Oster
+190,"Slavin, Jaccob","$5,300,000","$5,200,000",7,30,D,M-NTC,2021,RFA,UFA,2024-25,Kurt Overhardt
+191,"Little, Bryan","$5,291,666","$3,750,000",6,36,C,M-NTC,2014,UFA,UFA,2023-24,Paul Capizzano
+192,"Silfverberg, Jakob","$5,250,000","$5,250,000",5,33,RW,M-NTC,2018,UFA,UFA,2023-24,Kevin Epp
+193,"Eriksson Ek, Joel","$5,250,000","$9,000,000",8,27,C,"M-NTC
+NMC",2024,RFA +arb,UFA,2028-29,Claude Lemieux
+194,"Vrana, Jakub","$5,250,000","$5,250,000",3,28,LW,,2023,RFA +arb,UFA,2023-24,J.P. Barry
+195,"Kuemper, Darcy","$5,250,000","$6,000,000",5,34,G,M-NTC,2017,UFA,UFA,2026-27,Ben Hankinson
+196,"Coyle, Charlie","$5,250,000","$4,500,000",6,32,C,"M-NTC
+NMC",2019,UFA,UFA,2025-26,Robert Norton
+197,"Cernak, Erik","$5,200,000","$6,760,000",8,27,D,NTC,2024,RFA +arb,UFA,2030-31,Craig Oster
+198,"Theodore, Shea","$5,200,000","$5,200,000",7,29,D,M-NTC,2023,RFA,UFA,2024-25,Craig Oster
+199,"Gourde, Yanni","$5,166,667","$5,100,000",6,32,C,M-NTC,2019,UFA,UFA,2024-25,Paul Corbeil
+200,"Rust, Bryan","$5,125,000","$6,100,000",6,32,RW,NMC,2019,UFA,UFA,2027-28,Brian & Scott Bartlett
+201,"Nugent-Hopkins, Ryan","$5,125,000","$6,250,000",8,31,C,NMC,2018,UFA,UFA,2028-29,Rick Valette
+202,"Kane, Evander","$5,125,000","$4,750,000",4,33,LW,"M-NTC
+NMC",2017,UFA,UFA,2025-26,Daniel Milstein
+203,"Compher, J.T.","$5,100,000","$5,500,000",5,29,C,M-NTC,2022,UFA,UFA,2027-28,Kevin Magnuson
+204,"Ristolainen, Rasmus","$5,100,000","$6,500,000",5,29,D,,2021,UFA,UFA,2026-27,Andy Scott
+205,"Johnson, Tyler","$5,000,000","$5,000,000",7,34,C,,2018,RFA,UFA,2023-24,J.P. Barry
+206,"Petersen, Cal","$5,000,000","$6,000,000",3,29,G,M-NTC,2022,UFA,UFA,2024-25,Pete Rutili
+207,"Lundell, Anton","$5,000,000","$5,900,000",6,22,C,,2028,RFA,UFA,2029-30,Markus Lehto
+208,"Strome, Dylan","$5,000,000","$6,000,000",5,27,C,,2024,RFA +arb,UFA,2027-28,Patrick Morris
+209,"Granlund, Mikael","$5,000,000","$5,000,000",4,32,C,,2019,UFA,UFA,2024-25,Mark Gandler & Todd Diamond
+210,"Bailey, Josh","$5,000,000","$3,500,000",6,34,RW,,2016,UFA,UFA,2023-24,Patrick Morris
+211,"Zucker, Jason","$5,000,000","$5,000,000",1,32,LW,,2019,UFA,UFA,2024-25,Eustace King
+212,"Farabee, Joel","$5,000,000","$5,000,000",6,24,LW,,2026,RFA,UFA,2027-28,Shawn Hunwick
+213,"Lehner, Robin","$5,000,000","$4,500,000",5,33,G,M-NTC,2017,UFA,UFA,2024-25,Craig Oster
+214,"Rakell, Rickard","$5,000,000","$6,000,000",6,31,C,M-NTC,2020,UFA,UFA,2027-28,Claude Lemieux
+215,"Saros, Juuse","$5,000,000","$5,000,000",4,29,G,,2022,RFA +arb,UFA,2024-25,Kevin Epp
+216,"Strome, Ryan","$5,000,000","$5,000,000",5,31,C,,2021,UFA,UFA,2026-27,Patrick Morris
+217,"Smith, Reilly","$5,000,000","$4,000,000",3,33,RW,M-NTC,2018,UFA,UFA,2024-25,Paul Capizzano
+218,"Palmieri, Kyle","$5,000,000","$5,000,000",4,33,RW,M-NTC,2018,UFA,UFA,2024-25,Brian & Scott Bartlett
+219,"Pageau, Jean-Gabriel","$5,000,000","$4,000,000",6,31,C,M-NTC,2020,UFA,UFA,2025-26,Craig Oster
+220,"Barbashev, Ivan","$5,000,000","$5,400,000",5,28,C,M-NTC,2023,UFA,UFA,2027-28,Daniel Milstein
+221,"McCann, Jared","$5,000,000","$5,500,000",5,28,C,M-NTC,2023,RFA +arb,UFA,2026-27,Joseph Resnick
+222,"Ullmark, Linus","$5,000,000","$4,500,000",4,31,G,M-NTC,2021,UFA,UFA,2024-25,Joakim Persson
+223,"Wennberg, Alexander","$5,000,000","$5,000,000",2,29,C,NTC,2021,UFA,UFA,2025-26,Pat Brisson
+224,"Zadorov, Nikita","$5,000,000","$6,000,000",6,29,D,NMC,2022,UFA,UFA,2029-30,Daniel Milstein
+225,"Demko, Thatcher","$5,000,000","$6,000,000",5,28,G,,2023,RFA +arb,UFA,2025-26,Jordan Neumann & George Bazos
+226,"Girard, Samuel","$5,000,000","$5,000,000",7,26,D,M-NTC,2024,RFA,UFA,2026-27,Pat Brisson
+227,"Batherson, Drake","$4,975,000","$5,400,000",6,26,RW,,2025,RFA,UFA,2026-27,Paul Capizzano
+228,"Garland, Conor","$4,950,000","$6,000,000",5,28,RW,,2023,RFA +arb,UFA,2025-26,Judd Moldaver
+229,"Demelo, Dylan","$4,900,000","$5,500,000",4,31,D,M-NTC,2020,UFA,UFA,2027-28,Brian MacDonald
+230,"Coleman, Blake","$4,900,000","$4,900,000",6,32,C,M-NTC,2019,UFA,UFA,2026-27,Brian & Scott Bartlett
+231,"Hill, Adin","$4,900,000","$4,200,000",2,28,G,M-NTC,2023,UFA,UFA,2024-25,Gerry Johannson
+232,"Matheson, Mike","$4,875,000","$6,500,000",8,30,D,M-NTC,2021,RFA,UFA,2025-26,Philippe Lecavalier
+233,"Kotkaniemi, Jesperi","$4,820,000","$4,820,000",8,24,C,,2026,RFA +arb,UFA,2029-30,Markus Lehto
+234,"Chiarot, Ben","$4,750,000","$5,250,000",4,33,D,M-NTC,2018,UFA,UFA,2025-26,Craig Oster
+235,"Luukkonen, Ukko-Pekka","$4,750,000","$4,750,000",5,25,G,,2026,RFA +arb,UFA,2028-29,Markus Lehto
+236,"Tarasenko, Vladimir","$4,750,000","$4,750,000",2,32,RW,NTC,2019,UFA,UFA,2025-26,Pat Brisson
+237,"Tuch, Alex","$4,750,000","$4,750,000",7,28,RW,M-NTC,2023,RFA,UFA,2025-26,Brian & Scott Bartlett
+238,"Eberle, Jordan","$4,750,000","$4,750,000",2,34,RW,NTC,2017,UFA,UFA,2025-26,Craig Oster
+239,"Zacha, Pavel","$4,750,000","$4,750,000",4,27,C,M-NTC,2023,UFA,UFA,2026-27,Paul Capizzano
+240,"Mikheyev, Ilya","$4,750,000","$5,150,000",4,29,RW,M-NTC,2022,UFA,UFA,2025-26,Daniel Milstein
+241,"Husso, Ville","$4,750,000","$4,750,000",3,29,G,M-NTC,2022,UFA,UFA,2024-25,Mark Gandler & Todd Diamond
+242,"Labanc, Kevin","$4,725,000","$5,875,000",4,28,RW,,2023,RFA +arb,UFA,2023-24,Michael Curran
+243,"Vlasic, Alex","$4,600,000","$6,000,000",6,23,D,,2028,RFA +arb,UFA,2029-30,Brian & Scott Bartlett
+244,"Chychrun, Jakob","$4,600,000","$7,000,000",6,26,D,M-NTC,2023,RFA,UFA,2024-25,Andy Scott
+245,"Sandin, Rasmus","$4,600,000","$5,000,000",5,24,D,,2027,RFA +arb,UFA,2028-29,Lewis Gross
+246,"Oleksiak, Jamie","$4,600,000","$5,500,000",5,31,D,M-NTC,2020,UFA,UFA,2025-26,Wade Arnott
+247,"Zub, Artyom","$4,600,000","$4,800,000",4,28,D,M-NTC,2023,UFA,UFA,2026-27,Daniel Milstein
+248,"Broberg, Philip","$4,580,917","$4,580,917",2,23,D,,2028,RFA,RFA +arb,2025-26,Darren Ferris
+249,"Andersson, Rasmus","$4,550,000","$4,550,000",6,27,D,M-NTC,2024,RFA,UFA,2025-26,Claude Lemieux
+250,"Graves, Ryan","$4,500,000","$5,500,000",6,29,D,M-NTC,2022,UFA,UFA,2028-29,Allain Roy
+251,"Zaitsev, Nikita","$4,500,000","$4,500,000",7,32,D,,2019,RFA,UFA,2023-24,Daniel Milstein
+252,"Backlund, Mikael","$4,500,000","$4,500,000",2,35,C,NMC,2016,UFA,UFA,2025-26,J.P. Barry
+253,"Hoffman, Mike","$4,500,000","$5,000,000",3,34,LW,,2017,UFA,UFA,2023-24,Robert Hooper
+254,"Manson, Josh","$4,500,000","$4,000,000",4,32,D,M-NTC,2019,UFA,UFA,2025-26,Ross Gurney
+255,"Saad, Brandon","$4,500,000","$4,375,000",5,31,LW,NTC,2019,UFA,UFA,2025-26,Lewis Gross
+256,"O'Reilly, Ryan","$4,500,000","$5,000,000",4,33,C,,2017,UFA,UFA,2026-27,Patrick Morris
+257,"Barrie, Tyson","$4,500,000","$5,000,000",3,33,D,,2019,UFA,UFA,2023-24,Pat Brisson
+258,"Lehkonen, Artturi","$4,500,000","$4,500,000",5,29,LW,M-NTC,2023,RFA +arb,UFA,2026-27,Mika Rautakallio
+259,"Tanev, Christopher","$4,500,000","$6,000,000",6,34,D,NMC,2017,UFA,UFA,2029-30,Wade Arnott
+260,"Marchment, Mason","$4,500,000","$3,600,000",4,29,LW,M-NTC,2022,UFA,UFA,2025-26,Paul Capizzano
+261,"Foligno, Nick","$4,500,000","$5,100,000",2,36,LW,,2014,UFA,UFA,2025-26,Patrick Morris
+262,"Knight, Spencer","$4,500,000","$4,500,000",3,23,G,,2027,RFA,RFA +arb,2025-26,Jordan Neumann & George Bazos
+263,"Bunting, Michael","$4,500,000","$4,500,000",3,28,LW,M-NTC,2023,UFA,UFA,2025-26,Paul Capizzano
+264,"Lindgren, Ryan","$4,500,000","$4,500,000",1,26,D,,2025,RFA +arb,UFA,2024-25,Wade Arnott
+265,"Dvorak, Christian","$4,450,000","$5,750,000",6,28,LW,M-NTC,2023,RFA,UFA,2024-25,Kevin Magnuson
+266,"Chytil, Filip","$4,437,500","$4,625,000",4,24,C,,2025,RFA +arb,UFA,2026-27,J.P. Barry
+267,"Bennett, Sam","$4,425,000","$5,000,000",4,28,C,,2022,RFA +arb,UFA,2024-25,Darren Ferris
+268,"Marino, John","$4,400,000","$6,150,000",6,27,D,M-NTC,2024,RFA +arb,UFA,2026-27,Peter Fish
+269,"Murphy, Connor","$4,400,000","$5,150,000",4,31,D,M-NTC,2020,UFA,UFA,2025-26,Brian & Scott Bartlett
+270,"Crouse, Lawson","$4,300,000","$4,600,000",5,27,LW,,2024,RFA +arb,UFA,2026-27,Robert Hooper
+271,"Samuelsson, Mattias","$4,285,714","$4,285,714",7,24,D,,2027,RFA,UFA,2029-30,Pat Brisson
+272,"Athanasiou, Andreas","$4,250,000","$4,250,000",2,30,C,,2022,UFA,UFA,2024-25,Darren Ferris
+273,"Dickinson, Jason","$4,250,000","$4,850,000",2,29,C,,2023,UFA,UFA,2025-26,Patrick Morris
+274,"Mrazek, Petr","$4,250,000","$4,850,000",2,32,G,,2019,UFA,UFA,2025-26,Gerry Johannson
+275,"Moore, Trevor","$4,200,000","$4,500,000",5,29,C,,2022,UFA,UFA,2027-28,Murray Koontz
+276,"Verhaeghe, Carter","$4,166,667","$4,500,000",3,29,C,,2023,RFA +arb,UFA,2024-25,Ian Pulver
+277,"Klingberg, John","$4,150,000","$4,150,000",1,32,D,M-NTC,2020,UFA,UFA,2023-24,Craig Oster
+278,"Anderson, Mikey","$4,125,000","$4,200,000",8,25,D,,2026,RFA +arb,UFA,2030-31,Jay Grossman
+279,"Zuccarello, Mats","$4,125,000","$4,700,000",2,36,RW,NMC,2015,UFA,UFA,2025-26,Craig Oster
+280,"Carlo, Brandon","$4,100,000","$5,450,000",6,27,D,M-NTC,2024,RFA +arb,UFA,2026-27,Craig Oster
+281,"Jensen, Nick","$4,050,000","$4,150,000",3,33,D,,2018,UFA,UFA,2025-26,Ben Hankinson
+282,"Pettersson, Marcus","$4,025,175","$4,025,175",5,28,D,M-NTC,2023,RFA +arb,UFA,2024-25,Peter Wallen
+283,"Larsson, Adam","$4,000,000","$4,500,000",4,31,D,M-NTC,2020,UFA,UFA,2024-25,J.P. Barry
+284,"Colton, Ross","$4,000,000","$4,000,000",4,27,C,NTC,2024,RFA +arb,UFA,2026-27,Lewis Gross
+285,"Korpisalo, Joonas","$4,000,000","$5,000,000",5,30,G,M-NTC,2021,UFA,UFA,2027-28,Markus Lehto
+286,"Leddy, Nick","$4,000,000","$3,500,000",4,33,D,NTC,2017,UFA,UFA,2025-26,Neil Sheehy
+287,"Kane, Patrick","$4,000,000","$4,000,000",1,35,RW,NTC,2014,UFA,UFA,2024-25,Pat Brisson
+288,"Niederreiter, Nino","$4,000,000","$4,500,000",3,31,RW,,2019,UFA,UFA,2026-27,Andre Rufener
+289,"Perron, David","$4,000,000","$4,000,000",2,36,LW,M-NTC,2015,UFA,UFA,2025-26,Allan Walsh
+290,"Gudbranson, Erik","$4,000,000","$3,500,000",4,32,D,M-NTC,2019,UFA,UFA,2025-26,Patrick Morris
+291,"Iafallo, Alex","$4,000,000","$3,700,000",4,30,LW,,2021,UFA,UFA,2024-25,Lewis Gross
+292,"Dobson, Noah","$4,000,000","$4,000,000",3,24,D,,2027,RFA,RFA +arb,2024-25,Andrew Maloney
+293,"Dillon, Brenden","$4,000,000","$5,000,000",3,33,D,NTC,2018,UFA,UFA,2026-27,Allain Roy
+294,"Oettinger, Jake","$4,000,000","$4,800,000",3,25,G,,2026,RFA,RFA +arb,2024-25,Ben Hankinson
+295,"Fabbri, Robby","$4,000,000","$4,250,000",3,28,C,,2022,UFA,UFA,2024-25,Patrick Morris
+296,"Foligno, Marcus","$4,000,000","$5,000,000",4,33,LW,NMC,2019,UFA,UFA,2027-28,Patrick Morris
+297,"Martinez, Alec","$4,000,000","$4,000,000",1,37,D,,2015,UFA,UFA,2024-25,Shawn Hunwick
+298,"Gudas, Radko","$4,000,000","$4,000,000",3,34,D,M-NTC,2017,UFA,UFA,2025-26,Allain Roy
+299,"Arvidsson, Viktor","$4,000,000","$4,000,000",2,31,RW,,2020,UFA,UFA,2025-26,Kurt Overhardt
+300,"Hartman, Ryan","$4,000,000","$5,000,000",3,29,RW,NMC,2022,UFA,UFA,2026-27,Matthew Oates
+301,"McCabe, Jake","$4,000,000","$5,000,000",4,30,D,M-NTC,2021,UFA,UFA,2024-25,Daniel Plante
+302,"Hart, Carter","$3,979,000","$3,979,000",3,26,G,,2025,RFA,UFA no QO,2023-24,Judd Moldaver
+303,"Bouchard, Evan","$3,900,000","$4,300,000",2,24,D,,2027,RFA,RFA +arb,2024-25,David Gagner
+304,"Miller, K'Andre","$3,872,000","$4,646,000",2,24,D,,2027,RFA,RFA +arb,2024-25,Ian Pulver
+305,"Marchenko, Kirill","$3,850,000","$3,600,000",3,24,RW,,2028,RFA +arb,RFA +arb,2026-27,Daniel Milstein
+306,"Byram, Bowen","$3,850,000","$4,620,000",2,23,D,,2028,RFA,RFA +arb,2024-25,Kevin Epp
+307,"Edmundson, Joel","$3,850,000","$4,500,000",4,31,D,M-NTC,2020,UFA,UFA,2027-28,Darren Ferris
+308,"Allen, Jake","$3,850,000","$3,300,000",2,34,G,M-NTC,2018,UFA,UFA,2024-25,Allain Roy
+309,"Dumba, Matt","$3,750,000","$4,000,000",2,30,D,,2022,UFA,UFA,2025-26,Craig Oster
+310,"Brodie, TJ","$3,750,000","$4,275,000",2,34,D,,2017,UFA,UFA,2025-26,Paul Capizzano
+311,"Gustavsson, Filip","$3,750,000","$4,000,000",3,26,G,,2025,RFA +arb,UFA,2025-26,Kurt Overhardt
+312,"Jenner, Boone","$3,750,000","$3,750,000",4,31,C,M-NTC,2020,UFA,UFA,2025-26,Joseph Resnick
+313,"Pinto, Shane","$3,750,000","$2,500,000",2,23,C,,2028,RFA +arb,RFA +arb,2025-26,Lewis Gross
+314,"Domi, Max","$3,750,000","$5,000,000",4,29,C,M-NTC,2022,UFA,UFA,2027-28,Judd Moldaver
+315,"Carrier, Alexandre","$3,750,000","$4,600,000",3,27,D,,2024,UFA,UFA,2026-27,Philippe Lecavalier
+316,"Vatrano, Frank","$3,650,000","$3,650,000",3,30,C,,2021,UFA,UFA,2024-25,Peter Fish
+317,"Goodrow, Barclay","$3,641,667","$5,000,000",6,31,C,M-NTC,2020,UFA,UFA,2026-27,Ian Pulver
+318,"Walker, Sean","$3,600,000","$5,000,000",5,29,D,M-NTC,2022,UFA,UFA,2028-29,Cameron Stewart
+319,"Mayfield, Scott","$3,500,000","$3,500,000",7,31,D,NTC,2020,UFA,UFA,2029-30,Matt Keator
+320,"Duclair, Anthony","$3,500,000","$3,500,000",4,28,C,NTC,2022,UFA,UFA,2027-28,Anthony Duclair
+321,"Savard, David","$3,500,000","$2,800,000",4,33,D,,2018,UFA,UFA,2024-25,Ian Pulver
+322,"Foegele, Warren","$3,500,000","$4,000,000",3,28,LW,M-NTC,2023,UFA,UFA,2026-27,Joseph Resnick
+323,"Pavelski, Joe","$3,500,000","$3,500,000",1,40,C,NMC,2012,UFA,UFA,2023-24,Daniel Plante
+324,"Ekman-Larsson, Oliver","$3,500,000","$4,500,000",4,33,D,M-NTC,2017,UFA,UFA,2027-28,Kevin Epp
+325,"Kerfoot, Alexander","$3,500,000","$4,000,000",2,30,C,M-NTC,2022,UFA,UFA,2024-25,J.P. Barry
+326,"Tanev, Brandon","$3,500,000","$3,500,000",6,32,LW,M-NTC,2019,UFA,UFA,2024-25,Wade Arnott
+327,"Trenin, Yakov","$3,500,000","$4,000,000",4,27,C,,2024,UFA,UFA,2027-28,Renat Mamashev
+328,"Mantha, Anthony","$3,500,000","$3,500,000",1,29,RW,M-NTC,2022,UFA,UFA,2024-25,Olivier Fortier
+329,"Novak, Thomas","$3,500,000","$3,500,000",3,27,C,,2024,UFA,UFA,2026-27,Ben Hankinson
+330,"Tolvanen, Eeli","$3,475,000","$3,475,000",2,25,RW,,2026,RFA +arb,UFA,2025-26,Michael Curran
+331,"Swayman, Jeremy","$3,475,000","$3,475,000",1,25,G,,2026,RFA +arb,RFA +arb,2023-24,Lewis Gross
+332,"Vilardi, Gabriel","$3,437,500","$3,600,000",2,25,C,,2027,RFA +arb,RFA +arb,2024-25,Andy Scott
+333,"Maccelli, Matias","$3,425,000","$3,025,000",3,23,LW,,2028,RFA,RFA +arb,2025-26,Ian Pulver
+334,"Armia, Joel","$3,400,000","$3,800,000",4,31,RW,,2020,UFA,UFA,2024-25,Mika Rautakallio
+335,"Georgiev, Alexandar","$3,400,000","$2,900,000",3,28,G,,2023,RFA +arb,UFA,2024-25,Gerry Johannson
+336,"Vanecek, Vitek","$3,400,000","$2,900,000",3,28,G,,2023,RFA +arb,UFA,2024-25,Gerry Johannson
+337,"Andersen, Frederik","$3,400,000","$3,100,000",2,34,G,M-NTC,2017,UFA,UFA,2024-25,Claude Lemieux
+338,"Siegenthaler, Jonas","$3,400,000","$4,000,000",5,27,D,M-NTC,2024,RFA +arb,UFA,2027-28,Allain Roy
+339,"Walman, Jake","$3,400,000","$3,400,000",3,28,D,,2023,UFA,UFA,2025-26,Wade Arnott
+340,"Holl, Justin","$3,400,000","$3,400,000",3,32,D,M-NTC,2019,UFA,UFA,2025-26,Brian & Scott Bartlett
+341,"Protas, Aliaksei","$3,375,000","$4,000,000",5,23,C,,2028,RFA,UFA,2028-29,Daniel Milstein
+342,"Jérôme Moser, Janis","$3,375,000","$2,700,000",2,24,D,,2027,RFA +arb,RFA +arb,2025-26,Patrick Morris
+343,"Dach, Kirby","$3,362,500","$2,850,000",4,23,C,,2027,RFA,RFA +arb,2025-26,Gerry Johannson
+344,"Clifton, Connor","$3,333,333","$3,333,333",3,29,D,,2022,UFA,UFA,2025-26,Eric Quinlan & Nicholas Martino
+345,"Brossoit, Laurent","$3,300,000","$3,300,000",2,31,G,,2020,UFA,UFA,2025-26,Ray (Raynold) Petkau
+346,"Fedotov, Ivan","$3,275,000","$3,275,000",2,27,G,,2024,UFA,UFA,2025-26,J.P. Barry
+347,"Scandella, Marco","$3,275,000","$3,850,000",4,34,D,,2017,UFA,UFA,2023-24,Philippe Lecavalier
+348,"Lowry, Adam","$3,250,000","$3,500,000",5,31,C,M-NTC,2020,UFA,UFA,2025-26,Craig Oster
+349,"Faksa, Radek","$3,250,000","$2,750,000",5,30,C,M-NTC,2021,RFA +arb,UFA,2024-25,Allan Walsh
+350,"Pearson, Tanner","$3,250,000","$3,000,000",3,32,LW,M-NTC,2020,UFA,UFA,2023-24,Joseph Resnick
+351,"Ceci, Cody","$3,250,000","$3,500,000",4,30,D,,2020,UFA,UFA,2024-25,J.P. Barry
+352,"Ferraro, Mario","$3,250,000","$3,250,000",4,25,D,,2026,RFA,UFA,2025-26,Peter Wallen
+353,"Soucy, Carson","$3,250,000","$3,250,000",3,30,D,NTC,2022,UFA,UFA,2025-26,Gerry Johannson
+354,"Lyubushkin, Ilya","$3,250,000","$4,000,000",3,30,D,,2021,UFA,UFA,2026-27,Craig Oster
+355,"Joshua, Dakota","$3,250,000","$4,250,000",4,28,C,M-NTC,2023,UFA,UFA,2027-28,Richard Evans
+356,"Gostisbehere, Shayne","$3,200,000","$4,000,000",3,31,D,M-NTC,2020,UFA,UFA,2026-27,Marc Levine
+357,"Kassian, Zack","$3,200,000","$2,300,000",4,33,RW,,2018,UFA,UFA,2023-24,Richard Curran
+358,"Rasmussen, Michael","$3,200,000","$2,550,000",4,25,C,,2026,RFA +arb,UFA,2027-28,Dave Cowan
+359,"Nyquist, Gustav","$3,185,000","$3,185,000",2,34,C,,2017,UFA,UFA,2024-25,Wade Arnott
+360,"Haula, Erik","$3,150,000","$3,150,000",3,33,LW,NTC,2018,UFA,UFA,2025-26,Allain Roy
+361,"Montembeault, Sam","$3,150,000","$4,000,000",3,27,G,,2024,UFA,UFA,2026-27,Paul Corbeil
+362,"Dumoulin, Brian","$3,150,000","$3,000,000",2,32,D,M-NTC,2019,UFA,UFA,2024-25,Lewis Gross
+363,"Paul, Nick","$3,150,000","$3,250,000",7,29,LW,NTC,2022,UFA,UFA,2028-29,Paul Capizzano
+364,"Carter, Jeff","$3,125,000","$3,000,000",2,39,C,NMC,2012,UFA,UFA,2023-24,Richard Curran
+365,"Cole, Ian","$3,100,000","$3,100,000",1,35,D,,2016,UFA,UFA,2024-25,Kevin Magnuson
+366,"Sharangovich, Yegor","$3,100,000","$3,100,000",2,26,C,,2025,RFA +arb,UFA,2024-25,Daniel Milstein
+367,"Jokiharju, Henri","$3,100,000","$3,100,000",1,25,D,,2025,RFA +arb,UFA,2024-25,
+368,"Martinook, Jordan","$3,050,000","$3,800,000",3,32,C,M-NTC,2020,UFA,UFA,2026-27,Jeff Helperl
+369,"van Riemsdyk, Trevor","$3,000,000","$3,000,000",3,33,D,,2019,UFA,UFA,2025-26,Judd Moldaver
+370,"Rodrigues, Evan","$3,000,000","$3,000,000",4,31,C,,2021,UFA,UFA,2026-27,Darren Ferris
+371,"Luostarinen, Eetu","$3,000,000","$3,500,000",3,25,C,,2026,RFA +arb,UFA,2026-27,Simo Niiranen
+372,"Greenway, Jordan","$3,000,000","$3,000,000",3,27,LW,M-NTC,2024,RFA +arb,UFA,2024-25,Brian & Scott Bartlett
+373,"Schultz, Justin","$3,000,000","$3,000,000",2,34,D,M-NTC,2018,UFA,UFA,2023-24,Ray (Raynold) Petkau
+374,"Liljegren, Timothy","$3,000,000","$3,400,000",2,25,D,,2026,RFA +arb,UFA,2025-26,Peter Wallen
+375,"Myers, Tyler","$3,000,000","$3,800,000",3,34,D,NMC,2017,UFA,UFA,2026-27,J.P. Barry
+376,"Engvall, Pierre","$3,000,000","$3,000,000",7,28,LW,M-NTC,2023,UFA,UFA,2029-30,Claude Lemieux
+377,"Roy, Nicolas","$3,000,000","$3,000,000",5,27,C,,2024,RFA +arb,UFA,2026-27,Pat Brisson
+378,"Chatfield, Jalen","$3,000,000","$3,750,000",3,28,D,NMC,2023,UFA,UFA,2026-27,Darren Ferris
+379,"Skinner, Jeff","$3,000,000","$3,000,000",1,32,LW,NMC,2017,UFA,UFA,2024-25,Donald Meehan
+380,"Henrique, Adam","$3,000,000","$3,000,000",2,34,C,,2017,UFA,UFA,2025-26,John Thornton
+381,"Duchene, Matt","$3,000,000","$3,000,000",1,33,C,NTC,2016,UFA,UFA,2024-25,Pat Brisson
+382,"Laughton, Scott","$3,000,000","$3,625,000",5,30,C,,2021,UFA,UFA,2025-26,Patrick Morris
+383,"Maatta, Olli","$3,000,000","$3,000,000",2,29,D,,2021,UFA,UFA,2024-25,J.P. Barry
+384,"Joseph, Mathieu","$2,950,000","$3,300,000",4,27,RW,,2024,RFA +arb,UFA,2025-26,Olivier Fortier
+385,"Newhook, Alex","$2,900,000","$3,300,000",4,23,C,,2028,RFA,RFA +arb,2026-27,Paul Capizzano
+386,"Staal, Jordan","$2,900,000","$3,410,000",4,35,C,NMC,2013,UFA,UFA,2026-27,Richard Curran
+387,"Sissons, Colton","$2,857,143","$2,300,000",7,30,C,,2021,RFA +arb,UFA,2025-26,Murray Koontz
+388,"McNabb, Brayden","$2,850,000","$2,200,000",3,33,D,M-NTC,2018,UFA,UFA,2024-25,Dean Grillo
+389,"Roslovic, Jack","$2,800,000","$2,800,000",1,27,C,,2024,UFA,UFA,2024-25,Claude Lemieux
+390,"Noesen, Stefan","$2,750,000","$2,750,000",3,31,RW,M-NTC,2020,UFA,UFA,2026-27,Wade Arnott
+391,"Varlamov, Semyon","$2,750,000","$2,750,000",4,36,G,NTC,2015,UFA,UFA,2026-27,Paul Theofanous
+392,"Schenn, Luke","$2,750,000","$2,750,000",3,34,D,,2015,UFA,UFA,2025-26,Ben Hankinson
+393,"Rutta, Jan","$2,750,000","$2,500,000",3,34,D,,2018,UFA,UFA,2024-25,Allan Walsh
+394,"Grzelcyk, Matt","$2,750,000","$2,750,000",1,30,D,,2021,UFA,UFA,2024-25,Peter Fish
+395,"Kulak, Brett","$2,750,000","$2,500,000",4,30,D,,2021,UFA,UFA,2025-26,Gerry Johannson
+396,"Kunin, Luke","$2,750,000","$2,750,000",1,26,C,,2025,RFA +arb,UFA,2024-25,Pete Rutili
+397,"Peeke, Andrew","$2,750,000","$2,750,000",3,26,D,,2025,RFA +arb,UFA,2025-26,Serge Payer
+398,"Whitecloud, Zach","$2,750,000","$2,750,000",6,27,D,,2024,RFA +arb,UFA,2027-28,Dean Grillo
+399,"Forsberg, Anton","$2,750,000","$2,750,000",3,31,G,,2020,UFA,UFA,2024-25,Mika Rautakallio
+400,"McGinn, Brock","$2,750,000","$2,750,000",4,30,LW,,2021,UFA,UFA,2024-25,Thane Campbell
+401,"Vejmelka, Karel","$2,725,000","$2,775,000",3,28,G,,2023,RFA +arb,UFA,2024-25,Ryan Barnes
+402,"Seeler, Nick","$2,700,000","$2,700,000",4,31,D,NTC,2020,UFA,UFA,2027-28,Pat Brisson
+403,"Borgen, William","$2,700,000","$2,900,000",2,27,D,,2024,RFA +arb,UFA,2024-25,Dean Grillo
+404,"Fehervary, Martin","$2,675,000","$2,550,000",3,24,D,,2027,RFA,RFA +arb,2025-26,Claude Lemieux
+405,"Jeannot, Tanner","$2,665,000","$2,285,000",2,27,LW,M-NTC,2024,RFA +arb,UFA,2024-25,Michael Kaye
+406,"Hayton, Barrett","$2,650,000","$2,650,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Patrick Morris
+407,"Cates, Noah","$2,625,000","$2,625,000",2,25,LW,,2026,RFA +arb,RFA +arb,2024-25,Ben Hankinson
+408,"Skinner, Stuart","$2,600,000","$2,500,000",3,25,G,,2026,RFA +arb,UFA,2025-26,J.P. Barry
+409,"Amadio, Michael","$2,600,000","$2,500,000",3,28,C,,2023,UFA,UFA,2026-27,Joseph Resnick
+410,"Wood, Miles","$2,500,000","$3,250,000",6,28,LW,M-NTC,2023,UFA,UFA,2028-29,Peter Fish
+411,"Kubalik, Dominik","$2,500,000","$2,500,000",2,28,LW,,2023,UFA no QO,UFA,2023-24,Jiri Hamal
+412,"Okposo, Kyle","$2,500,000","$2,500,000",1,36,RW,,2015,UFA,UFA,2023-24,Pat Brisson
+413,"Nedeljkovic, Alex","$2,500,000","$2,500,000",2,28,G,,2023,UFA,UFA,2025-26,Richard Evans
+414,"Nemeth, Patrik","$2,500,000","$3,500,000",3,32,D,M-NTC,2019,UFA,UFA,2023-24,Claude Lemieux
+415,"Barabanov, Alexander","$2,500,000","$2,500,000",2,30,LW,M-NTC,2021,UFA,UFA,2023-24,Daniel Milstein
+416,"Fleury, Marc-Andre","$2,500,000","$2,500,000",1,39,G,NMC,2011,UFA,UFA,2024-25,Allan Walsh
+417,"Stolarz, Anthony","$2,500,000","$2,750,000",2,30,G,,2021,UFA,UFA,2025-26,Allain Roy
+418,"Lindblom, Oskar","$2,500,000","$2,500,000",2,28,LW,,2024,RFA +arb,UFA,2023-24,Kevin Epp
+419,"Romanov, Alexander","$2,500,000","$2,500,000",3,24,D,,2027,RFA,RFA +arb,2024-25,Daniel Milstein
+420,"Cizikas, Casey","$2,500,000","$2,500,000",6,33,C,,2018,UFA,UFA,2026-27,Patrick Morris
+421,"Talbot, Cam","$2,500,000","$2,500,000",2,37,G,,2015,UFA,UFA,2025-26,Jordan Neumann & George Bazos
+422,"Poolman, Tucker","$2,500,000","$3,000,000",4,31,D,,2020,UFA,UFA,2024-25,Dean Grillo
+423,"Kuraly, Sean","$2,500,000","$2,500,000",4,31,C,M-NTC,2020,UFA,UFA,2024-25,Justin Duberman
+424,"Glass, Cody","$2,500,000","$2,500,000",2,25,C,,2026,RFA +arb,RFA +arb,2024-25,Murray Koontz
+425,"Drouin, Jonathan","$2,500,000","$2,500,000",1,29,LW,M-NTC,2022,UFA,UFA,2024-25,Allan Walsh
+426,"Fabbro, Dante","$2,500,000","$2,500,000",1,26,D,,2025,RFA +arb,UFA,2024-25,J.P. Barry
+427,"Mikkola, Niko","$2,500,000","$2,500,000",3,28,D,,2023,UFA,UFA,2025-26,Markus Lehto
+428,"Middleton, Jacob","$2,450,000","$2,050,000",3,28,D,,2023,RFA +arb,UFA,2024-25,Joseph Resnick
+429,"Eller, Lars","$2,450,000","$2,450,000",2,35,C,,2016,UFA,UFA,2024-25,Craig Oster
+430,"Kakko, Kaapo","$2,400,000","$2,400,000",1,23,RW,,2026,RFA +arb,RFA +arb,2024-25,Andy Scott
+431,"Kampf, David","$2,400,000","$2,400,000",4,29,C,M-NTC,2022,UFA,UFA,2026-27,J.P. Barry
+432,"Fast, Jesper","$2,400,000","$2,400,000",2,32,RW,"NTC
+M-NTC",2019,UFA,UFA,2024-25,Kurt Overhardt
+433,"Hathaway, Garnet","$2,375,000","$2,050,000",2,32,RW,,2019,UFA,UFA,2024-25,Matt Keator
+434,"Blackwood, MacKenzie","$2,350,000","$2,500,000",2,27,G,,2024,UFA no QO,UFA,2024-25,Andy Scott
+435,"Lafreniere, Alexis","$2,325,000","$2,650,000",2,22,LW,,2027,RFA,RFA +arb,2024-25,Olivier Fortier
+436,"Frederic, Trent","$2,300,000","$2,300,000",2,26,C,,2025,RFA +arb,UFA,2024-25,Allain Roy
+437,"Dube, Dillon","$2,300,000","$2,200,000",3,26,LW,,2026,RFA,UFA no QO,2023-24,Dave Cowan
+438,"Drysdale, Jamie","$2,300,000","$2,300,000",3,22,D,,2028,RFA,RFA +arb,2025-26,David Gagner
+439,"Hague, Nicolas","$2,294,150","$2,700,000",3,25,D,,2026,RFA,RFA +arb,2024-25,Murray Koontz
+440,"Holloway, Dylan","$2,290,457","$2,290,457",2,22,LW,,2029,RFA,RFA +arb,2025-26,Blake Robson
+441,"Veleno, Joseph","$2,275,000","$2,275,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Philippe Lecavalier
+442,"Simek, Radim","$2,250,000","$1,950,000",4,31,D,,2020,UFA,UFA,2023-24,Marc Levine
+443,"Kurashev, Philipp","$2,250,000","$2,250,000",2,24,C,,2027,RFA +arb,RFA +arb,2024-25,Pat Brisson
+444,"Heinen, Danton","$2,250,000","$2,500,000",2,29,LW,M-NTC,2023,UFA,UFA,2025-26,Allain Roy
+445,"Dadonov, Evgenii","$2,250,000","$2,250,000",2,35,RW,M-NTC,2016,UFA,UFA,2024-25,Maxim Moliver
+446,"Vladar, Dan","$2,200,000","$2,200,000",2,27,G,,2025,RFA +arb,UFA,2024-25,Daniel Milstein
+447,"Schneider, Braden","$2,200,000","$1,760,000",2,22,D,,2028,RFA,RFA,2025-26,Jason Davidson
+448,"Appleton, Mason","$2,166,667","$2,250,000",3,28,C,,2023,RFA +arb,UFA,2024-25,Ritchie Winter
+449,"Texier, Alexandre","$2,100,000","$2,100,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Daniel Milstein
+450,"McLeod, Ryan","$2,100,000","$2,100,000",2,24,C,,2027,RFA +arb,RFA +arb,2024-25,Joseph Resnick
+451,"Gaudreau, Frederick","$2,100,000","$2,240,000",5,31,C,M-NTC,2020,UFA,UFA,2027-28,Pat Brisson
+452,"Bjugstad, Nick","$2,100,000","$2,100,000",2,32,C,,2020,UFA,UFA,2024-25,Ben Hankinson
+453,"Jarnkrok, Calle","$2,100,000","$2,100,000",4,32,C,M-NTC,2019,UFA,UFA,2025-26,Craig Oster
+454,"Chinakhov, Yegor","$2,100,000","$2,100,000",2,23,C,,2028,RFA,RFA,2025-26,Shumi Babaev
+455,"Frost, Morgan","$2,100,000","$2,400,000",2,25,C,,2026,RFA,RFA +arb,2024-25,Darren Ferris
+456,"McMichael, Connor","$2,100,000","$2,100,000",2,23,C,,2028,RFA,RFA,2025-26,David Gagner
+457,"Bear, Ethan","$2,062,500","$2,750,000",2,27,D,,2024,UFA no QO,UFA,2024-25,Jason Davidson
+458,"Acciari, Noel","$2,000,000","$2,000,000",3,32,C,M-NTC,2019,UFA,UFA,2025-26,Lewis Gross
+459,"Namestnikov, Vladislav","$2,000,000","$2,000,000",2,31,C,,2020,UFA,UFA,2024-25,Daniel Milstein
+460,"Lomberg, Ryan","$2,000,000","$2,000,000",2,29,LW,,2022,UFA,UFA,2025-26,Brian & Scott Bartlett
+461,"Kochetkov, Pyotr","$2,000,000","$1,750,000",4,25,G,,2026,RFA +arb,UFA,2026-27,Daniel Milstein
+462,"Goligoski, Alex","$2,000,000","$2,000,000",2,39,D,NMC,2013,UFA,UFA,2023-24,Ben Hankinson
+463,"Johansson, Marcus","$2,000,000","$2,000,000",2,33,C,NTC,2018,UFA,UFA,2024-25,J.P. Barry
+464,"Desharnais, Vincent","$2,000,000","$2,275,000",2,28,D,,2023,UFA,UFA,2025-26,Philippe Lecavalier
+465,"Stenlund, Kevin","$2,000,000","$2,000,000",2,27,C,,2024,UFA,UFA,2025-26,Jarrett Bousquet
+466,"Donato, Ryan","$2,000,000","$2,000,000",2,28,C,,2023,UFA,UFA,2024-25,Matt Keator
+467,"Lankinen, Kevin","$2,000,000","$2,000,000",1,29,G,,2022,UFA,UFA,2023-24,Mark Gandler & Todd Diamond
+468,"Carrier, William","$2,000,000","$2,500,000",6,29,LW,NMC,2022,UFA,UFA,2029-30,Philippe Lecavalier
+469,"Lafferty, Sam","$2,000,000","$2,000,000",2,29,C,,2022,UFA,UFA,2025-26,Pete Rutili
+470,"Francouz, Pavel","$2,000,000","$2,250,000",2,34,G,,2017,UFA,UFA,2023-24,Craig Oster
+471,"Gustafsson, Erik","$2,000,000","$2,000,000",2,32,D,,2019,UFA,UFA,2025-26,Craig Oster
+472,"Geekie, Morgan","$2,000,000","$2,000,000",2,26,C,,2026,UFA no QO,RFA +arb,2024-25,Judd Moldaver
+473,"Lauzon, Jeremy","$2,000,000","$2,000,000",4,27,D,,2024,RFA +arb,UFA,2025-26,Pat Brisson
+474,"Sturm, Nico","$2,000,000","$2,000,000",3,29,C,,2022,UFA,UFA,2024-25,Matt Keator
+475,"Pacioretty, Max","$2,000,000","$2,000,000",1,35,LW,NMC,2016,UFA,UFA,2023-24,Allan Walsh
+476,"Kostin, Klim","$2,000,000","$2,200,000",2,25,LW,,2026,UFA no QO,RFA +arb,2024-25,Paul Theofanous
+477,"Sheary, Conor","$2,000,000","$2,000,000",3,32,LW,M-NTC,2019,UFA,UFA,2025-26,Lewis Gross
+478,"Valimaki, Juuso","$2,000,000","$2,000,000",2,25,D,,2026,RFA +arb,UFA,2025-26,Dave Cowan
+479,"Ingram, Connor","$1,950,000","$1,950,000",3,27,G,,2024,RFA +arb,UFA,2025-26,Jason Davidson
+480,"Milano, Sonny","$1,900,000","$1,900,000",3,28,LW,,2023,UFA,UFA,2025-26,Richard Evans
+481,"Howden, Brett","$1,900,000","$1,650,000",2,26,C,,2025,RFA +arb,UFA,2024-25,J.P. Barry
+482,"Poehling, Ryan","$1,900,000","$1,900,000",2,25,C,,2026,RFA +arb,UFA,2025-26,Dean Grillo
+483,"Lizotte, Blake","$1,850,000","$1,850,000",2,26,C,,2025,UFA no QO,UFA,2025-26,Daniel Plante
+484,"Duhaime, Brandon","$1,850,000","$2,000,000",2,27,RW,,2024,UFA,UFA,2025-26,Richard Evans
+485,"Dorofeyev, Pavel","$1,835,000","$2,070,000",2,23,LW,,2028,RFA +arb,RFA +arb,2025-26,Rick Komarow
+486,"Samsonov, Ilya","$1,800,000","$1,800,000",1,27,G,,2024,UFA,UFA,2024-25,Donald Meehan
+487,"Grundstrom, Carl","$1,800,000","$1,750,000",2,26,RW,,2025,RFA +arb,UFA,2025-26,J.P. Barry
+488,"Blueger, Teddy","$1,800,000","$1,950,000",2,30,C,M-NTC,2022,UFA,UFA,2025-26,Ben Hankinson
+489,"Tatar, Tomas","$1,800,000","$1,800,000",1,33,LW,,2018,UFA,UFA,2024-25,Craig Oster
+490,"Johnson, Kent","$1,800,000","$1,600,000",3,21,LW,,2029,RFA,RFA,2026-27,Pat Brisson
+491,"Clutterbuck, Cal","$1,750,000","$1,750,000",2,36,RW,,2015,UFA,UFA,2023-24,Patrick Morris
+492,"Bean, Jake","$1,750,000","$1,750,000",2,26,D,,2025,UFA no QO,UFA,2025-26,Judd Moldaver
+493,"Deslauriers, Nicolas","$1,750,000","$1,500,000",4,33,LW,,2018,UFA,UFA,2025-26,Philippe Lecavalier
+494,"Drury, Jack","$1,725,000","$1,775,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Pat Brisson
+495,"Zamula, Yegor","$1,700,000","$1,500,000",2,24,D,,2027,RFA +arb,RFA +arb,2025-26,Shumi Babaev
+496,"Evans, Jake","$1,700,000","$1,700,000",3,28,C,,2023,RFA +arb,UFA,2024-25,Brian MacDonald
+497,"DeAngelo, Tony","$1,675,000","$1,675,000",1,28,D,,2023,UFA,UFA,2023-24,Pat Brisson
+498,"York, Cameron","$1,600,000","$1,600,000",2,23,D,,2028,RFA,RFA +arb,2024-25,Pat Brisson
+499,"Suter, Pius","$1,600,000","$1,600,000",2,28,C,,2023,UFA,UFA,2024-25,Georges Mueller
+500,"McBain, Jack","$1,599,999","$1,599,999",2,24,C,,2027,RFA,RFA +arb,2024-25,Patrick Morris
+501,"Yamamoto, Kailer","$1,500,000","$1,500,000",1,25,RW,,2026,UFA,UFA no QO,2023-24,J.P. Barry
+502,"Sherwood, Kiefer","$1,500,000","$1,700,000",2,29,C,,2022,UFA,UFA,2025-26,Allain Roy
+503,"Brink, Bobby","$1,500,000","$1,500,000",2,23,RW,,2029,RFA +arb,RFA +arb,2025-26,Ben Hankinson
+504,"Aube-Kubel, Nicolas","$1,500,000","$1,500,000",1,28,RW,,2023,UFA,UFA,2024-25,Philippe Lecavalier
+505,"Hakanpaa, Jani","$1,500,000","$1,500,000",2,32,D,,2019,UFA,UFA,2025-26,Mika Rautakallio
+506,"Raanta, Antti","$1,500,000","$1,500,000",1,35,G,,2016,UFA,UFA,2023-24,Kevin Epp
+507,"Miller, Colin","$1,500,000","$1,500,000",2,31,D,,2020,UFA,UFA,2025-26,Wade Arnott
+508,"Spence, Jordan","$1,500,000","$1,300,000",2,23,D,,2028,RFA,RFA,2025-26,Peter MacTavish
+509,"Martin, Matt","$1,500,000","$1,500,000",4,35,LW,,2016,UFA,UFA,2023-24,Patrick Morris
+510,"Lundestrom, Isac","$1,500,000","$1,500,000",1,24,C,,2027,RFA +arb,RFA +arb,2024-25,Peter Wallen
+511,"Sundqvist, Oskar","$1,500,000","$1,500,000",2,30,C,,2021,UFA,UFA,2025-26,Claude Lemieux
+512,"Forbort, Derek","$1,500,000","$1,500,000",1,32,D,,2019,UFA,UFA,2024-25,Ben Hankinson
+513,"Wedgewood, Scott","$1,500,000","$1,500,000",2,32,G,,2020,UFA,UFA,2025-26,Jordan Neumann & George Bazos
+514,"Zetterlund, Fabian","$1,450,000","$1,500,000",2,24,LW,,2027,RFA +arb,RFA +arb,2024-25,Claude Lemieux
+515,"Ersson, Samuel","$1,450,000","$1,300,000",2,24,G,,2027,RFA,RFA,2025-26,Lewis Gross
+516,"Janmark, Mattias","$1,450,000","$1,750,000",3,31,C,M-NTC,2020,UFA,UFA,2026-27,Peter Wallen
+517,"McLeod, Michael","$1,400,000","$1,400,000",1,26,C,,2025,UFA no QO,UFA no QO,2023-24,Joseph Resnick
+518,"Samberg, Dylan","$1,400,000","$1,500,000",2,25,D,,2026,RFA +arb,RFA +arb,2024-25,Daniel Plante
+519,"Harris, Jordan","$1,400,000","$1,400,000",2,24,D,,2028,RFA +arb,RFA +arb,2024-25,Eric Quinlan & Nicholas Martino
+520,"Kesselring, Michael","$1,400,000","$1,400,000",2,24,D,,2027,RFA +arb,RFA +arb,2025-26,Matt Keator
+521,"Kolesar, Keegan","$1,400,000","$1,400,000",3,27,RW,,2024,RFA +arb,UFA,2024-25,Craig Oster
+522,"McMann, Bobby","$1,350,000","$1,350,000",2,28,C,,2023,UFA,UFA,2025-26,Brian & Scott Bartlett
+523,"Malenstyn, Beck","$1,350,000","$1,350,000",2,26,LW,,2025,RFA +arb,UFA,2025-26,J.P. Barry
+524,"Barron, Morgan","$1,350,000","$1,400,000",2,25,C,,2026,RFA +arb,RFA +arb,2024-25,Wade Arnott
+525,"Bastian, Nathan","$1,350,000","$1,350,000",2,26,RW,,2025,UFA no QO,UFA,2024-25,David Gagner
+526,"Benoit, Simon","$1,350,000","$1,350,000",3,25,D,,2026,RFA +arb,UFA,2026-27,Philippe Lecavalier
+527,"Reaves, Ryan","$1,350,000","$1,350,000",3,37,RW,,2014,UFA,UFA,2025-26,Kevin Epp
+528,"Rooney, Kevin","$1,300,000","$1,300,000",1,31,C,,2020,UFA,UFA,2024-25,Peter Fish
+529,"Maroon, Pat","$1,300,000","$1,300,000",1,36,LW,,2015,UFA,UFA,2024-25,Ben Hankinson
+530,"Dowd, Nic","$1,300,000","$1,000,000",3,34,C,,2017,UFA,UFA,2024-25,Dean Grillo
+531,"Xhekaj, Arber","$1,300,000","$1,300,000",2,23,D,,2028,RFA,RFA,2025-26,Brian & Scott Bartlett
+532,"Dellandrea, Ty","$1,300,000","$1,300,000",2,24,C,,2028,RFA +arb,RFA +arb,2025-26,Todd Reynolds
+533,"Quick, Jonathan","$1,275,000","$1,275,000",1,38,G,M-NTC,2013,UFA,UFA,2024-25,Jordan Neumann & George Bazos
+534,"Reilly, Mike","$1,250,000","$1,250,000",1,31,D,,2021,UFA,UFA,2024-25,Pat Brisson
+535,"Toropchenko, Alexei","$1,250,000","$1,250,000",2,25,RW,,2026,RFA +arb,RFA +arb,2024-25,Patrick Morris
+536,"Beauvillier, Anthony","$1,250,000","$1,250,000",1,27,C,,2023,UFA,UFA,2024-25,Philippe Lecavalier
+537,"Bogosian, Zach","$1,250,000","$1,250,000",2,34,D,,2018,UFA,UFA,2025-26,Darren Ferris
+538,"Stanley, Logan","$1,250,000","$1,000,000",2,26,D,,2025,RFA +arb,UFA,2025-26,Craig Oster
+539,"Miromanov, Daniil","$1,250,000","$1,250,000",2,27,D,,2025,UFA-Group6 +arb,UFA,2025-26,Daniel Milstein
+540,"Benning, Matt","$1,250,000","$1,250,000",4,30,D,,2021,UFA,UFA,2025-26,Justin Duberman
+541,"Tinordi, Jarred","$1,250,000","$1,250,000",1,32,D,,2019,UFA,UFA,2023-24,Wade Arnott
+542,"Lundkvist, Nils","$1,250,000","$1,250,000",1,24,D,,2028,UFA no QO,RFA +arb,2024-25,Claude Lemieux
+543,"Reichel, Lukas","$1,200,000","$1,100,000",2,22,LW,,2029,RFA,RFA,2025-26,Allain Roy
+544,"Daccord, Joey","$1,200,000","$1,200,000",2,28,G,,2024,UFA-Group6,UFA,2024-25,Jerry Buckley
+545,"Merrill, Jon","$1,200,000","$1,200,000",3,32,D,,2019,UFA,UFA,2024-25,Shawn Hunwick
+546,"Steel, Sam","$1,200,000","$1,200,000",1,26,C,,2025,UFA no QO +arb,UFA,2024-25,Gerry Johannson
+547,"Dewar, Connor","$1,180,000","$1,180,000",1,25,C,,2026,RFA +arb,RFA +arb,2024-25,Tobin Wright
+548,"Perunovich, Scott","$1,150,000","$1,150,000",1,26,D,,2026,RFA +arb,RFA +arb,2024-25,Ian Pulver
+549,"MacDermid, Kurtis","$1,150,000","$1,250,000",3,30,LW,,2021,UFA,UFA,2026-27,Ian Pulver
+550,"Perry, Corey","$1,150,000","$1,150,000",1,39,RW,,2012,UFA,UFA,2024-25,Patrick Morris
+551,"Barron, Justin","$1,150,000","$1,100,000",2,22,D,,2029,RFA,RFA,2025-26,Wade Arnott
+552,"Kulikov, Dmitry","$1,150,000","$1,400,000",4,33,D,,2017,UFA,UFA,2027-28,Craig Oster
+553,"Zboril, Jakub","$1,137,500","$1,300,000",2,27,D,,2024,UFA,UFA,2023-24,Allan Walsh
+554,"Perbix, Nicklaus","$1,125,000","$1,125,000",2,26,D,,2025,RFA +arb,UFA,2024-25,Brian & Scott Bartlett
+555,"Fischer, Christian","$1,125,000","$1,125,000",1,27,RW,,2024,UFA,UFA,2024-25,Craig Oster
+556,"Burroughs, Kyle","$1,100,000","$1,100,000",3,29,D,,2023,UFA,UFA,2025-26,Ross Gurney
+557,"Hoglander, Nils","$1,100,000","$1,200,000",2,23,LW,,2028,RFA,RFA +arb,2024-25,Allain Roy
+558,"Pitlick, Rem","$1,100,000","$1,100,000",2,27,C,,2024,UFA no QO,UFA,2023-24,
+559,"Lindgren, Charlie","$1,100,000","$1,000,000",3,30,G,,2021,UFA,UFA,2024-25,Ben Hankinson
+560,"Cousins, Nick","$1,100,000","$1,100,000",2,31,C,,2021,UFA,UFA,2023-24,Andy Scott
+561,"Danforth, Justin","$1,100,000","$1,100,000",1,31,RW,,2020,UFA,UFA,2024-25,Jay Grossman
+562,"Harvey-Pinard, Rafael","$1,100,000","$1,000,000",2,25,LW,,2026,RFA +arb,RFA +arb,2024-25,Philippe Lecavalier
+563,"Timmins, Conor","$1,100,000","$1,100,000",2,25,D,,2026,RFA +arb,RFA +arb,2024-25,Paul Capizzano
+564,"Hamonic, Travis","$1,100,000","$1,100,000",2,34,D,NMC,2017,UFA,UFA,2024-25,Kevin Epp
+565,"Olivier, Mathieu","$1,100,000","$1,100,000",2,27,RW,,2024,RFA +arb,UFA,2024-25,Philippe Lecavalier
+566,"Johnston, Ross","$1,100,000","$1,100,000",4,30,LW,,2021,UFA,UFA,2025-26,Doug Shepherd
+567,"Vaakanainen, Urho","$1,100,000","$1,100,000",1,25,D,,2026,UFA no QO,RFA +arb,2024-25,Mika Rautakallio
+568,"Zadina, Filip","$1,100,000","$1,100,000",1,24,RW,,2027,RFA +arb,UFA no QO,2023-24,Darren Ferris
+569,"Staal, Marc","$1,100,000","$1,100,000",1,37,D,,2014,UFA,UFA,2023-24,Richard Curran
+570,"Olofsson, Victor","$1,075,000","$1,075,000",1,29,LW,,2023,UFA,UFA,2024-25,Claude Lemieux
+571,"Lorentz, Steven","$1,050,000","$1,150,000",2,28,C,,2023,RFA +arb,UFA,2023-24,Robert Hooper
+572,"Bahl, Kevin","$1,050,000","$1,200,000",2,24,D,,2027,RFA,RFA +arb,2024-25,David Gagner
+573,"Leason, Brett","$1,050,000","$1,050,000",1,25,RW,,2026,UFA no QO,RFA +arb,2024-25,J.P. Barry
+574,"O'Connor, Logan","$1,050,000","$1,250,000",3,28,RW,,2024,RFA +arb,UFA,2024-25,Allain Roy
+575,"Tarasov, Daniil","$1,050,000","$1,350,000",3,25,G,,2026,RFA,RFA +arb,2024-25,J.P. Barry
+576,"Kylington, Oliver","$1,050,000","$1,050,000",1,27,D,,2024,UFA,UFA,2024-25,J.P. Barry
+577,"Shattenkirk, Kevin","$1,050,000","$1,050,000",1,35,D,,2016,UFA,UFA,2023-24,Jordan Neumann & George Bazos
+578,"Johnson, Erik","$1,000,000","$1,000,000",1,36,D,,2015,UFA,UFA,2024-25,Pat Brisson
+579,"Kapanen, Kasperi","$1,000,000","$1,000,000",1,28,RW,,2024,UFA,UFA,2024-25,Markus Lehto
+580,"Brown, Connor","$1,000,000","$1,000,000",1,30,RW,,2021,UFA,UFA,2024-25,David Gagner
+581,"DeSmith, Casey","$1,000,000","$1,200,000",3,33,G,,2019,UFA,UFA,2026-27,Jordan Neumann & George Bazos
+582,"O'Brien, Liam","$1,000,000","$1,000,000",3,30,C,,2022,UFA,UFA,2026-27,Andrew Maloney
+583,"Pospisil, Martin","$1,000,000","$1,000,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Daniel Milstein
+584,"Podkolzin, Vasily","$1,000,000","$1,000,000",2,23,RW,,2028,RFA,RFA,2025-26,Craig Oster
+585,"Jones, Max","$1,000,000","$1,000,000",2,26,LW,,2025,UFA no QO,UFA,2025-26,Kurt Overhardt
+586,"Kahkonen, Kaapo","$1,000,000","$1,000,000",1,28,G,,2024,UFA,UFA,2024-25,Andy Scott
+587,"Lazar, Curtis","$1,000,000","$1,000,000",3,29,C,,2022,UFA,UFA,2024-25,J.P. Barry
+588,"Kupari, Rasmus","$1,000,000","$1,100,000",2,24,C,,2027,RFA,RFA +arb,2024-25,
+589,"Smith, Brendan","$1,000,000","$1,000,000",1,35,D,,2016,UFA,UFA,2024-25,Matthew Oates
+590,"Brown, Josh","$1,000,000","$1,025,000",3,30,D,,2021,UFA,UFA,2026-27,Jason Harshaw
+591,"Lucic, Milan","$1,000,000","$1,000,000",1,36,LW,NMC,2014,UFA,UFA,2023-24,Gerry Johannson
+592,"Rittich, David","$1,000,000","$1,000,000",1,32,G,,2020,UFA,UFA,2024-25,Craig Oster
+593,"Reimer, James","$1,000,000","$1,000,000",1,36,G,,2015,UFA,UFA,2024-25,Ray (Raynold) Petkau
+594,"Smith, Craig","$1,000,000","$1,000,000",1,34,RW,,2017,UFA,UFA,2024-25,Kevin Magnuson
+595,"van Riemsdyk, James","$1,000,000","$1,000,000",1,35,LW,,2016,UFA,UFA,2023-24,Judd Moldaver
+596,"Chisholm, Declan","$1,000,000","$1,000,000",1,24,D,,2027,RFA +arb,UFA-Group6,2024-25,Richard Evans
+597,"Englund, Andreas","$1,000,000","$1,000,000",2,28,D,,2023,UFA,UFA,2024-25,J.P. Barry
+598,"Pickard, Calvin","$1,000,000","$1,000,000",2,32,G,,2019,UFA,UFA,2025-26,Ritchie Winter
+599,"Blais, Sammy","$1,000,000","$1,000,000",1,28,LW,,2023,UFA,UFA,2023-24,Philippe Lecavalier
+600,"Raddysh, Taylor","$1,000,000","$1,000,000",1,26,RW,,2025,UFA no QO,UFA,2024-25,David Gagner
+601,"Smith, Cole","$1,000,000","$1,000,000",2,28,LW,,2023,UFA,UFA,2025-26,Eustace King
+602,"Thrun, Henry","$1,000,000","$975,000",2,23,D,,2028,RFA,RFA,2025-26,Matt Keator
+603,"Wahlstrom, Oliver","$1,000,000","$1,000,000",1,24,RW,,2027,RFA +arb,RFA +arb,2024-25,Pat Brisson
+604,"Carrick, Sam","$1,000,000","$1,000,000",3,32,C,,2019,UFA,UFA,2026-27,Todd Reynolds
+605,"Hutton, Ben","$975,000","$975,000",2,31,D,,2020,UFA,UFA,2025-26,Andy Scott
+606,"Dickinson, Sam","$975,000","$975,000",3,18,D,,2033,,RFA,2026-27,David Gagner
+607,"Beaudoin, Cole","$975,000","$975,000",3,18,C,,2033,,RFA,2026-27,Eric Faion
+608,"Parekh, Zayne","$975,000","$975,000",3,18,D,,2033,,RFA,2026-27,Daniel Milstein
+609,"Levshunov, Artyom","$975,000","$975,000",3,18,D,,2033,,RFA,2026-27,Daniel Milstein
+610,"Hemming, Emil","$975,000","$975,000",3,18,RW,,2033,,RFA,2026-27,Claude Lemieux
+611,"Helenius, Konsta","$975,000","$975,000",3,18,C,,2033,,RFA,2026-27,Mark Gandler & Todd Diamond
+612,"Yakemchuk, Carter","$975,000","$975,000",3,18,D,,2033,,RFA,2026-27,Vlad Shushkovsky
+613,"Jiříček, Adam","$975,000","$975,000",3,18,D,,2033,,RFA,2026-27,Allan Walsh
+614,"Sprong, Daniel","$975,000","$975,000",1,27,RW,,2024,UFA,UFA,2024-25,Pat Brisson
+615,"Luchanko, Jett","$975,000","$975,000",3,17,C,,2034,,RFA,2026-27,John Walters
+616,"Solberg, Stian","$975,000","$975,000",3,18,D,,2033,,RFA,2026-27,Craig Oster
+617,"Catton, Berkly","$975,000","$975,000",3,18,C,,2033,,RFA,2026-27,Pat Brisson
+618,"Gridin, Matvei","$975,000","$975,000",3,18,RW,,2033,,RFA,2026-27,Daniel Milstein
+619,"Parascak, Terik","$975,000","$975,000",3,18,RW,,2033,,RFA,2026-27,Michael Kaye
+620,"Sennecke, Beckett","$975,000","$975,000",3,18,RW,,2033,,RFA,2026-27,Ian Pulver
+621,"Celebrini, Macklin","$975,000","$975,000",3,18,C,,2033,,RFA,2026-27,Pat Brisson
+622,"Vanacker, Marek","$975,000","$975,000",3,18,LW,,2033,,RFA,2026-27,Paul Capizzano
+623,"Iginla, Tij","$975,000","$975,000",3,18,LW,,2034,,RFA,2026-27,Pat Brisson
+624,"Greentree, Liam","$975,000","$975,000",3,18,RW,,2033,,RFA,2026-27,J.P. Barry
+625,"Brandsegg-Nygård, Michael","$975,000","$975,000",3,18,RW,,2033,,RFA,2026-27,Brian & Scott Bartlett
+626,"Raddysh, Darren","$975,000","$1,114,000",2,28,D,,2023,UFA,UFA,2025-26,David Gagner
+627,"Chernyshov, Igor","$966,667","$950,000",3,18,LW,,2033,,RFA,2026-27,Daniel Milstein
+628,"Danford, Ben","$964,000","$957,000",3,18,D,,2033,,RFA,2026-27,Ian Pulver
+629,"Soderblom, Arvid","$962,500","$1,000,000",2,25,G,,2027,RFA +arb,RFA +arb,2024-25,Jarrett Bousquet
+630,"Dionicio, Rodwin","$950,000","$950,000",3,20,D,,2031,,RFA,2026-27,Gregory Landry
+631,"Lindstein, Theo","$950,000","$950,000",3,19,D,,2032,,RFA,2026-27,Peter Wallen
+632,"Tolopilo, Nikita","$950,000","$950,000",2,24,G,,2027,,RFA,2024-25,Brian & Scott Bartlett
+633,"Berglund, Carl","$950,000","$950,000",2,24,C,,2027,,RFA,2024-25,Matt Keator
+634,"Miroshnichenko, Ivan","$950,000","$950,000",3,20,LW,,2031,,RFA,2025-26,Mark Gandler & Todd Diamond
+635,"Heim, Andre","$950,000","$950,000",1,26,C,,2025,,RFA,2023-24,Allain Roy
+636,"Tsyplakov, Maxim","$950,000","$950,000",1,25,RW,,2026,,RFA +arb,2024-25,
+637,"Duda, Artem","$950,000","$950,000",3,20,D,,2031,,RFA,2026-27,Daniel Milstein
+638,"Waeber, Ludovic","$950,000","$950,000",1,28,G,,2024,,UFA,2023-24,Allain Roy
+639,"Bortuzzo, Robert","$950,000","$950,000",2,35,D,,2016,UFA,UFA,2023-24,Robert Hooper
+640,"Gauthier, Cutter","$950,000","$950,000",3,20,LW,,2031,,RFA,2025-26,Kurt Overhardt
+641,"Casey, Seamus","$950,000","$950,000",3,20,D,,2031,,RFA,2026-27,
+642,"Ritchie, Calum","$950,000","$950,000",3,19,C,,2032,,RFA,2026-27,Wade Arnott
+643,"Heidt, Riley","$950,000","$950,000",3,19,C,,2032,,RFA,2026-27,
+644,"Carlsson, Leo","$950,000","$950,000",3,19,C,,2030,,RFA,2025-26,Matt Keator
+645,"Smith, Will","$950,000","$950,000",3,19,C,,2032,,RFA,2026-27,Sean Coffey
+646,"Michkov, Matvei","$950,000","$950,000",3,19,RW,,2032,,RFA,2026-27,J.P. Barry
+647,"Lindstrom, Gustav","$950,000","$950,000",1,25,D,,2026,UFA no QO,UFA no QO,2023-24,Craig Oster
+648,"Sandin Pellikka, Axel","$950,000","$950,000",3,19,D,,2032,,RFA,2026-27,Pat Brisson
+649,"Joseph, Pierre-Olivier","$950,000","$950,000",1,25,D,,2027,UFA no QO,RFA +arb,2024-25,Olivier Fortier
+650,"Mayo, Dysin","$950,000","$1,000,000",3,28,D,,2024,UFA,UFA,2024-25,Brian & Scott Bartlett
+651,"McDonald, Hunter","$950,000","$950,000",2,22,D,,2029,,RFA,2025-26,Pete Rutili
+652,"Robinson, Eric","$950,000","$950,000",1,29,LW,,2022,UFA,UFA,2024-25,Todd Reynolds
+653,"Stenberg, Otto","$950,000","$950,000",3,19,C,,2032,,RFA,2026-27,Patrik Aronsson
+654,"Brindley, Gavin","$950,000","$950,000",3,19,RW,,2032,,RFA,2025-26,Pat Brisson
+655,"Emberson, Ty","$950,000","$950,000",1,24,D,,2027,RFA +arb,UFA-Group6,2024-25,Daniel Plante
+656,"McKown, Hunter","$950,000","$950,000",3,22,C,,2030,,RFA,2024-25,Jordan Neumann & George Bazos
+657,"Diotte, Mikael","$950,000","$950,000",3,21,D,,2030,,RFA,2026-27,
+658,"Steeves, Ben","$950,000","$950,000",2,22,LW,,2029,,RFA,2025-26,
+659,"Black, Cooper","$950,000","$950,000",2,23,G,,2028,,RFA,2025-26,John Kofi Osei-Tutu
+660,"Slafkovský, Juraj","$950,000","$950,000",3,20,RW,,2030,,RFA,2024-25,Gerry Johannson
+661,"Cooley, Logan","$950,000","$950,000",3,20,C,,2030,,RFA,2025-26,Brian & Scott Bartlett
+662,"Benson, Zach","$950,000","$950,000",3,19,LW,,2030,,RFA,2025-26,Ross Gurney
+663,"Bedard, Connor","$950,000","$950,000",3,19,C,,2030,,RFA,2025-26,Gregory Landry
+664,"Eklind, Oscar","$950,000","$950,000",1,26,C,,2026,,RFA +arb,2024-25,Allain Roy
+665,"Nazar, Frank","$950,000","$950,000",3,20,C,,2031,,RFA,2025-26,Kevin Magnuson
+666,"Pulli, Valtteri","$950,000","$950,000",2,23,D,,2028,,RFA +arb,2024-25,Murray Koontz
+667,"Yager, Brayden","$950,000","$950,000",3,19,C,,2032,,RFA,2026-27,Gerry Johannson
+668,"Fantilli, Adam","$950,000","$950,000",3,19,C,,2030,,RFA,2025-26,Pat Brisson
+669,"Hovorka, Mikulas","$950,000","$950,000",2,23,D,,2029,,RFA,2025-26,
+670,"Brzustewicz, Hunter","$950,000","$950,000",3,19,D,,,,RFA,2026-27,Ryan Barnes
+671,"Halliday, Stephen","$950,000","$950,000",2,22,C,,2030,,RFA,2025-26,Kurt Overhardt
+672,"Hutson, Lane","$950,000","$950,000",3,20,D,,2031,,RFA,2025-26,Sean Coffey
+673,"Graf, Collin","$941,667","$950,000",3,21,RW,,2030,,RFA,2025-26,Jerry Buckley
+674,"Muggli, Leon","$940,833","$872,500",3,18,D,,2034,,RFA,2026-27,Claude Lemieux
+675,"Amirov, Rodion","$925,000","$925,000",3,22,LW,,2029,,RFA,2023-24,Daniel Milstein
+676,"Knies, Matthew","$925,000","$925,000",3,21,LW,,2030,,RFA,2024-25,Matt Federico
+677,"Morozov, Ivan","$925,000","$925,000",2,24,C,,2027,,RFA +arb,2023-24,Mark Gandler & Todd Diamond
+678,"Doan, Josh","$925,000","$925,000",3,22,RW,,2029,,RFA,2025-26,Allain Roy
+679,"Berggren, Jonatan","$925,000","$925,000",3,24,RW,,2028,,RFA +arb,2023-24,Brian & Scott Bartlett
+680,"Helleson, Drew","$925,000","$925,000",3,23,D,,2028,,RFA,2024-25,Pat Brisson
+681,"Voronkov, Dmitri","$925,000","$925,000",2,23,C,,2028,,RFA +arb,2024-25,
+682,"Kolosov, Alexei","$925,000","$925,000",3,22,G,,2029,,RFA,2025-26,J.P. Barry
+683,"Merkulov, Georgi","$925,000","$925,000",3,23,C,,2028,,RFA,2024-25,Paul Theofanous
+684,"Lohrei, Mason","$925,000","$925,000",2,23,D,,2028,,RFA,2024-25,Brian & Scott Bartlett
+685,"Wallinder, William","$925,000","$925,000",3,22,D,,2030,,RFA,2025-26,Craig Oster
+686,"Commesso, Drew","$925,000","$925,000",3,22,G,,2030,,RFA,2025-26,Peter Fish
+687,"Ufko, Ryan","$925,000","$925,000",3,21,D,,2030,,RFA,2026-27,John Kofi Osei-Tutu
+688,"Colangelo, Sam","$925,000","$925,000",2,22,RW,,2029,,RFA,2024-25,Pete Rutili
+689,"Levi, Devon","$925,000","$925,000",3,22,G,,2029,,RFA,2024-25,Ian Pulver
+690,"Sillinger, Cole","$925,000","$925,000",3,21,C,,2028,,RFA,2023-24,Craig Oster
+691,"Hall, Curtis","$925,000","$925,000",3,24,C,,2027,,UFA no QO,2023-24,Clark Maclean
+692,"O'Connor, Drew","$925,000","$925,000",2,26,LW,,2025,RFA +arb,UFA,2024-25,Matt Keator
+693,"Bourgault, Xavier","$925,000","$925,000",3,21,C,,2030,,RFA,2024-25,Philippe Lecavalier
+694,"McDonough, Aidan","$925,000","$925,000",2,24,LW,,2027,,UFA no QO,2023-24,Glen Giovanucci
+695,"Dobes, Jakub","$925,000","$925,000",2,23,G,,2028,,RFA,2024-25,Allain Roy
+696,"Ceulemans, Corson","$925,000","$925,000",3,21,D,,2030,,RFA,2025-26,Allain Roy
+697,"Hughes, Luke","$925,000","$925,000",3,20,D,,2030,,RFA,2024-25,Pat Brisson
+698,"Raymond, Lucas","$925,000","$925,000",3,22,RW,,2028,,RFA,2023-24,J.P. Barry
+699,"Savoie, Carter","$925,000","$925,000",3,22,LW,,2029,,UFA no QO,2023-24,Gerry Johannson
+700,"Trivigno, Bobby","$925,000","$925,000",2,25,LW,,2026,,UFA no QO,2023-24,Pete Rutili
+701,"Svechkov, Fyodor","$925,000","$925,000",3,21,C,,2030,,RFA,2025-26,Daniel Milstein
+702,"Beecher, John","$925,000","$925,000",3,23,C,,2028,,RFA,2024-25,Cameron Stewart
+703,"Peart, Jack","$925,000","$925,000",3,21,D,,2030,,RFA,2026-27,
+704,"Buium, Shai","$925,000","$925,000",3,21,D,,2030,,RFA,2026-27,Kurt Overhardt
+705,"Broz, Tristan","$925,000","$925,000",3,21,C,,2030,,RFA,2026-27,Ben Hankinson
+706,"Brisson, Brendan","$925,000","$925,000",3,22,LW,,2029,,RFA,2024-25,J.P. Barry
+707,"Kapanen, Oliver","$925,000","$925,000",3,21,C,,2031,,RFA,2026-27,Simo Niiranen
+708,"Askarov, Yaroslav","$925,000","$925,000",3,22,G,,2029,,RFA,2024-25,Daniel Milstein
+709,"LaCombe, Jackson","$925,000","$925,000",2,23,D,,2028,RFA,RFA,2025-26,Pat Brisson
+710,"Khusnutdinov, Marat","$925,000","$925,000",2,22,C,,2030,,RFA,2024-25,J.P. Barry
+711,"Faber, Brock","$925,000","$925,000",3,21,D,,2030,,RFA,2024-25,Brian & Scott Bartlett
+712,"Rizzo, Massimo","$925,000","$925,000",2,23,C,,2028,,RFA,2025-26,Pat Brisson
+713,"Nystrom, Joel","$925,000","$925,000",2,22,D,,2029,,RFA,2025-26,
+714,"Fensore, Domenick","$925,000","$925,000",2,22,D,,2029,,RFA,2024-25,Pete Rutili
+715,"Coronato, Matt","$925,000","$925,000",3,21,RW,,2030,,RFA,2024-25,John Kofi Osei-Tutu
+716,"Wallstedt, Jesper","$925,000","$925,000",3,21,G,,2030,,RFA,2024-25,Gerry Johannson
+717,"Johnson, Ryan","$925,000","$925,000",2,23,D,,2029,,RFA,2024-25,
+718,"Samoskevich, Mackie","$925,000","$925,000",3,21,RW,,2030,,RFA,2024-25,Pat Brisson
+719,"Mølgaard, Oscar Fisker","$923,333","$870,000",3,19,C,,2032,,RFA,2026-27,Claude Lemieux
+720,"Lutz, Julian","$923,333","$870,000",3,20,LW,,2031,,RFA,2026-27,Allain Roy
+721,"Dragicevic, Lukas","$923,333","$870,000",3,19,D,,2032,,RFA,2026-27,Gerry Johannson
+722,"Rehkopf, Carson","$923,333","$870,000",3,19,C,,2032,,RFA,2026-27,Ryan Barnes
+723,"Zmolek, Will","$920,000","$920,000",1,25,D,,2026,,UFA no QO,2023-24,Chris McAlpine
+724,"Molendyk, Tanner","$918,333","$950,000",3,19,D,,2032,,RFA,2026-27,Scott Norton
+725,"Edstrom, David","$918,333","$950,000",3,19,C,,2032,,RFA,2026-27,Craig Oster
+726,"Bichsel, Lian","$918,333","$950,000",3,20,D,,2031,,RFA,2026-27,Margaretha van der Stroom Holdener
+727,"Musty, Quentin","$918,333","$950,000",3,19,LW,,2033,,RFA,2026-27,Eric Faion
+728,"Nemec, Simon","$918,333","$950,000",3,20,D,,2030,,RFA,2025-26,J.P. Barry
+729,"Honzek, Samuel","$918,333","$950,000",3,19,LW,,2032,,RFA,2026-27,Gerry Johannson
+730,"Bonk, Oliver","$918,333","$950,000",3,19,D,,2032,,RFA,2026-27,Paul Capizzano
+731,"Mintyukov, Pavel","$918,333","$950,000",3,20,D,,2030,,RFA,2025-26,Daniel Milstein
+732,"Korchinski, Kevin","$918,333","$950,000",3,20,D,,2030,,RFA,2025-26,David Kaye
+733,"Nadeau, Bradly","$918,333","$950,000",3,19,C,,2032,,RFA,2026-27,Philip Reid
+734,"Lekkerimaki, Jonathan","$918,333","$950,000",3,20,RW,,2032,,RFA,2026-27,Gerry Johannson
+735,"Sale, Eduard","$918,333","$950,000",3,19,RW,,2032,,RFA,2026-27,Michael Deutsch
+736,"Bystedt, Filip","$918,333","$950,000",3,20,C,,2031,,RFA,2026-27,
+737,"Barlow, Colby","$918,333","$950,000",3,19,LW,,2032,,RFA,2026-27,John Walters
+738,"Jiricek, David","$918,333","$950,000",3,20,D,,2030,,RFA,2025-26,Allan Walsh
+739,"Danielson, Nate","$918,333","$950,000",3,19,C,,2032,,RFA,2026-27,Gregory Landry
+740,"Reinbacher, David","$918,333","$950,000",3,19,D,,2032,,RFA,2026-27,Andrew Maloney
+741,"Dvorský, Dalibor","$918,333","$950,000",3,19,C,,2032,,RFA,2026-27,J.P. Barry
+742,"Morrow, Scott","$916,667","$925,000",3,21,D,,2030,,RFA,2025-26,Pat Brisson
+743,"Kleven, Tyler","$916,667","$925,000",3,22,D,,2029,,RFA,2024-25,Craig Oster
+744,"Benning, Michael","$916,667","$925,000",3,22,D,,2029,,RFA,2024-25,Brian & Scott Bartlett
+745,"Kaiser, Wyatt","$916,667","$925,000",3,22,D,,2030,,RFA,2024-25,Edward Ward
+746,"Legault, Charles-Alexis","$915,833","$870,000",3,20,D,,2031,,RFA,2026-27,Philippe Lecavalier
+747,"Barkey, Denver","$913,333","$870,000",3,19,C,,2032,,RFA,2026-27,Michael Curran
+748,"Slaggert, Landon","$912,500","$925,000",2,22,LW,,2029,,RFA,2024-25,Brian & Scott Bartlett
+749,"Tuch, Luke","$912,500","$900,000",2,22,LW,,2029,,RFA,2025-26,Brian & Scott Bartlett
+750,"Romanov, Georgii","$910,000","$950,000",2,24,G,,2027,,RFA,2024-25,Craig Oster
+751,"Farinacci, John","$910,000","$950,000",2,23,C,,2028,,RFA,2024-25,Pat Brisson
+752,"Malmstrom, Anton","$910,000","$950,000",2,24,D,,2027,,RFA,2024-25,Todd Reynolds
+753,"Halttunen, Kasper","$908,333","$920,000",3,19,RW,,2032,,RFA,2026-27,Lewis Gross
+754,"Behrens, Sean","$905,833","$867,500",3,21,D,,2030,,RFA,2026-27,
+755,"Mazur, Carter","$905,833","$925,000",3,22,LW,,2029,,RFA,2025-26,Shawn Hunwick
+756,"Blake, Jackson","$905,833","$925,000",3,21,RW,,2031,,RFA,2025-26,Neil Sheehy
+757,"Funk, Zac","$905,000","$870,000",3,21,LW,,2031,,RFA,2026-27,
+758,"Cowan, Easton","$904,667","$923,500",3,19,C,,2032,,RFA,2026-27,Andrew Maloney
+759,"Andrae, Emil","$903,333","$892,500",3,22,D,,2029,,RFA,2025-26,Lewis Gross
+760,"Morin, Etienne","$903,333","$895,000",3,19,D,,2032,,RFA,2026-27,Randy Robitaille
+761,"Strömgren, William","$900,833","$892,500",3,21,LW,,2030,,RFA,2025-26,Craig Oster
+762,"Atkinson, Cam","$900,000","$900,000",1,35,RW,,2016,UFA,UFA,2024-25,Jordan Neumann & George Bazos
+763,"Ryan, Derek","$900,000","$900,000",2,37,C,,2014,UFA,UFA,2024-25,Derek Ryan
+764,"Ludwinski, Paul","$900,000","$895,000",3,20,C,,2031,,RFA,2026-27,Wade Arnott
+765,"Lyon, Alex","$900,000","$900,000",2,31,G,,2020,UFA,UFA,2024-25,Pete Rutili
+766,"Nieto, Matt","$900,000","$900,000",2,31,LW,,2020,UFA,UFA,2024-25,Darren Ferris
+767,"McCarron, Michael","$900,000","$900,000",2,29,RW,,2022,UFA,UFA,2025-26,Wade Arnott
+768,"Brannstrom, Erik","$900,000","$900,000",1,24,D,,2027,UFA no QO,RFA +arb,2024-25,Craig Oster
+769,"Bryson, Jacob","$900,000","$900,000",1,26,D,,2025,UFA no QO,UFA,2024-25,Allain Roy
+770,"Stienburg, Matthew","$898,750","$927,500",2,23,C,,2028,,RFA,2024-25,Andrew Maloney
+771,"Guzda, Mack","$897,500","$925,000",3,23,G,,2028,,UFA no QO,2023-24,Tobin Wright
+772,"Beniers, Matthew","$897,500","$842,500",3,21,C,,2029,,RFA,2023-24,Pat Brisson
+773,"Pyyhtia, Mikael","$897,500","$925,000",3,22,LW,,2029,,RFA,2024-25,Andy Scott
+774,"Evans, Ryker","$897,500","$925,000",3,22,D,,2029,,RFA,2024-25,Brian & Scott Bartlett
+775,"Ahac, Layton","$897,500","$925,000",3,23,D,,2028,,UFA no QO,2023-24,Ross Gurney
+776,"Farrell, Sean","$897,500","$925,000",3,22,C,,2029,,RFA,2024-25,Pat Brisson
+777,"Kumpulainen, Rasmus","$897,500","$870,000",3,19,C,,,,RFA,2026-27,Ian Pulver
+778,"Heineman, Emil","$897,500","$925,000",3,22,LW,,2029,,RFA,2024-25,Matt Keator
+779,"Myatovic, Nico","$896,667","$870,000",3,19,LW,,2032,,RFA,2026-27,Scott Norton
+780,"Lardis, Nick","$896,667","$870,000",3,19,LW,,2033,,RFA,2026-27,David Gagner
+781,"Engström, Adam","$896,667","$870,000",3,20,D,,2031,,RFA,2026-27,
+782,"McAllister, Ryan","$896,667","$870,000",3,22,C,,2029,,RFA,2025-26,Richard Evans
+783,"Gibson, Andrew","$896,667","$870,000",3,19,D,,2032,,RFA,2026-27,Dave Maloney
+784,"Raty, Aku","$896,250","$925,000",2,23,RW,,2029,,RFA +arb,2024-25,Ian Pulver
+785,"Kovalenko, Nikolai","$896,250","$867,500",2,24,RW,,2027,,RFA +arb,2024-25,Paul Theofanous
+786,"Saarela, Antti","$896,250","$925,000",2,23,C,,2028,,RFA +arb,2024-25,
+787,"Rolston, Ryder","$895,000","$892,500",3,22,C,,2029,,RFA,2025-26,Brian & Scott Bartlett
+788,"Cagnoni, Luca","$895,000","$870,000",3,19,D,,2032,,RFA,2026-27,William Kawam
+789,"Kaliyev, Arthur","$894,167","$832,500",3,23,RW,,2028,,RFA,2023-24,Ian Pulver
+790,"Perfetti, Cole","$894,167","$832,500",3,22,C,,2029,,RFA,2023-24,Cameron Stewart
+791,"Mercer, Dawson","$894,167","$925,000",3,22,C,,2028,,RFA,2023-24,Pat Brisson
+792,"Jarvis, Seth","$894,167","$925,000",3,22,C,,2028,,RFA,2023-24,Gerry Johannson
+793,"Mukhamadullin, Shakir","$894,167","$832,500",3,22,D,,2029,,RFA,2024-25,Craig Oster
+794,"McTavish, Mason","$894,167","$832,500",3,21,C,,2029,,RFA,2024-25,Patrick Morris
+795,"Bourque, Mavrik","$894,167","$832,500",3,22,C,,2029,,RFA,2024-25,Dom Deblois
+796,"Johnston, Wyatt","$894,167","$832,500",3,21,C,,2029,,RFA,2024-25,Andy Scott
+797,"Edvinsson, Simon","$894,167","$925,000",3,21,D,,2030,,RFA,2025-26,J.P. Barry
+798,"Rosén, Isak","$894,167","$925,000",3,21,C,,2030,,RFA,2025-26,J.P. Barry
+799,"Guenther, Dylan","$894,167","$832,500",3,21,RW,,2030,,RFA,2024-25,Kevin Epp
+800,"Jarventie, Roby","$894,167","$832,500",3,22,LW,,2030,,RFA,2024-25,Mark Gandler & Todd Diamond
+801,"Holtz, Alexander","$894,167","$832,500",3,22,RW,,2029,,RFA,2024-25,Craig Oster
+802,"Lucius, Chaz","$894,167","$925,000",3,21,C,,2030,,RFA,2025-26,Craig Oster
+803,"Firkus, Jagger","$891,666","$870,000",3,20,RW,,2031,,RFA,2026-27,Kevin Epp
+804,"Goyette, David","$891,666","$870,000",3,20,C,,2031,,RFA,2026-27,Andy Scott
+805,"Nyman, Jani","$891,666","$870,000",3,20,RW,,2032,,RFA,2026-27,
+806,"Kokko, Niklas","$891,666","$870,000",3,20,G,,2031,,RFA,2026-27,Jerry Buckley
+807,"Primeau, Cayden","$890,000","$1,100,000",3,25,G,,2026,RFA,RFA +arb,2024-25,Paul Theofanous
+808,"Protas, Ilya","$889,167","$872,500",3,18,LW,,2034,,RFA,2026-27,Daniel Milstein
+809,"Blomqvist, Joel","$886,667","$867,500",3,22,G,,2029,,RFA,2025-26,Michael Curran
+810,"Allen, Cam","$886,667","$870,000",3,19,D,,2032,,RFA,2026-27,Paul Capizzano
+811,"Pickering, Owen","$886,667","$950,000",3,20,D,,2031,,RFA,2026-27,Gregory Landry
+812,"Gaucher, Nathan","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,Philippe Lecavalier
+813,"Geekie, Conor","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,Judd Moldaver
+814,"Savoie, Matthew","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,Gerry Johannson
+815,"Mateychuk, Denton","$886,666","$950,000",3,20,D,,2032,,RFA,2026-27,Gerry Johannson
+816,"Mesar, Filip","$886,666","$950,000",3,20,RW,,2031,,RFA,2026-27,J.P. Barry
+817,"Wright, Shane","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,Cameron Stewart
+818,"Kulich, Jiri","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,J.P. Barry
+819,"Kasper, Marco","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,Ian Pulver
+820,"Östlund, Noah","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,J.P. Barry
+821,"Lamoureux, Maveric","$886,666","$950,000",3,20,D,,2031,,RFA,2026-27,Dom Deblois
+822,"Schaefer, Reid","$886,666","$950,000",3,20,LW,,2031,,RFA,2026-27,Eustace King
+823,"Öhgren, Liam","$886,666","$950,000",3,20,LW,,2031,,RFA,2026-27,Brian & Scott Bartlett
+824,"Lambert, Brad","$886,666","$950,000",3,20,C,,2031,,RFA,2026-27,Richard Curran
+825,"Kemell, Joakim","$886,666","$950,000",3,20,RW,,2031,,RFA,2026-27,Craig Oster
+826,"Petman, Ville","$883,750","$842,500",2,24,C,,2027,,UFA no QO,2023-24,Allain Roy
+827,"McLaughlin, Blake","$883,750","$925,000",2,24,LW,,2027,,UFA no QO,2023-24,Ben Hankinson
+828,"Fanti, Ryan","$883,750","$842,500",2,24,G,,2027,,UFA no QO,2023-24,Jordan Neumann & George Bazos
+829,"Johansson, Filip","$883,750","$842,500",2,24,D,,2027,,UFA no QO,2023-24,Craig Oster
+830,"Mitchell, Travis","$882,500","$895,000",2,24,D,,2027,,RFA,2024-25,Edward Ward
+831,"Bjarnason, Carson","$881,667","$870,000",3,19,G,,2032,,RFA,2026-27,Michael Kaye
+832,"Pulkkinen, Jesse","$880,833","$872,500",3,19,D,,2032,,RFA,2026-27,Daniel Milstein
+833,"Pinelli, Luca","$878,333","$870,000",3,19,C,,2032,,RFA,2026-27,Patrick Morris
+834,"Kyrou, Christian","$878,333","$870,000",3,20,D,,2031,,RFA,2025-26,David Gagner
+835,"Clang, Calle","$878,333","$925,000",3,22,G,,2029,,RFA,2024-25,Claude Lemieux
+836,"Beaucage, Alex","$878,333","$867,500",3,23,RW,,2029,,UFA no QO,2023-24,Robert Sauve
+837,"Bertucci, Tristan","$878,333","$870,000",3,19,D,,,,RFA,2026-27,John Walters
+838,"Lopina, Josh","$878,333","$925,000",3,23,C,,2028,,RFA,2024-25,Kurt Overhardt
+839,"Clara, Damian","$878,333","$870,000",3,19,G,,2032,,RFA,2026-27,Ian Pulver
+840,"Soderblom, Elmer","$878,333","$925,000",3,23,LW,,2029,,RFA,2024-25,Patrik Aronsson
+841,"Misiak, Martin","$878,333","$870,000",3,19,C,,2032,,RFA,2026-27,
+842,"Chibrikov, Nikita","$875,833","$867,500",3,21,LW,,2030,,RFA,2025-26,Daniel Milstein
+843,"Murray, Matt","$875,000","$875,000",1,30,G,,2021,UFA,UFA,2024-25,Robert Hooper
+844,"Mailloux, Logan","$875,000","$925,000",3,21,D,,2030,,RFA,2025-26,Darren Ferris
+845,"Quillan, Jacob","$875,000","$875,000",2,22,C,,2049,,RFA,2025-26,Jerry Buckley
+846,"Portillo, Erik","$875,000","$875,000",2,23,G,,2028,,RFA,2023-24,Pat Brisson
+847,"Hlavaj, Samuel","$875,000","$870,000",2,23,G,,2028,,RFA,2025-26,
+848,"Schmid, Akira","$875,000","$875,000",2,24,G,,2027,UFA no QO,RFA,2025-26,Allain Roy
+849,"Jones, Martin","$875,000","$875,000",1,34,G,,2017,UFA,UFA,2023-24,Ray (Raynold) Petkau
+850,"George, Carter","$875,000","$875,000",3,18,G,,2033,,RFA,2026-27,Robert Hooper
+851,"Grebyonkin, Nikita","$875,000","$875,000",3,21,LW,,2030,,RFA,2025-26,Daniel Milstein
+852,"Brunicke, Harrison","$875,000","$875,000",3,18,D,,2033,,RFA,2026-27,Daren Hermiston
+853,"Belliveau, Isaac","$875,000","$875,000",3,21,D,,2030,,RFA,2025-26,Olivier Fortier
+854,"Laferriere, Alex","$875,000","$875,000",3,22,RW,,2029,,RFA,2024-25,Michael Curran
+855,"Howe, Tanner","$875,000","$875,000",3,18,LW,,2033,,RFA,2026-27,Gregory Landry
+856,"Webber, Cade","$875,000","$875,000",2,23,D,,2028,,RFA,2024-25,Peter Fish
+857,"Bordeleau, Thomas","$874,125","$874,125",1,22,C,,2029,RFA,RFA,2024-25,Pat Brisson
+858,"Nesterenko, Nikita","$874,125","$874,125",1,22,C,,2029,RFA,RFA,2024-25,Jordan Neumann & George Bazos
+859,"Cristall, Andrew","$873,333","$870,000",3,19,LW,,2032,,RFA,2026-27,Murray Koontz
+860,"Saarinen, Kim","$872,500","$872,500",3,18,G,,2034,,RFA,2026-27,Claude Lemieux
+861,"Bradley, Chase","$872,500","$872,500",2,22,LW,,2029,,RFA,2025-26,Peter Fish
+862,"Dvorak, Jakub","$870,000","$900,000",3,19,D,,2032,,RFA,2026-27,Craig Oster
+863,"Johannesson, Samuel","$870,000","$870,000",2,23,D,,2028,,RFA,2025-26,Claude Lemieux
+864,"Morrison, Logan","$870,000","$870,000",3,22,C,,2030,,RFA,2025-26,Dave Maloney
+865,"Pekarcik, Juraj","$870,000","$870,000",3,18,C,,2033,,RFA,2026-27,Gerry Johannson
+866,"Doucet, Alexandre","$870,000","$870,000",3,22,C,,2029,,RFA,2025-26,Simo Niiranen
+867,"Sasson, Max","$870,000","$870,000",2,23,C,,2028,,RFA,2024-25,Keith McKittrick
+868,"Nielsen, Tristen","$870,000","$870,000",2,24,C,,2027,,RFA +arb,2024-25,
+869,"Henriksson, Karl","$870,000","$842,500",3,23,C,,2028,,RFA,2023-24,Craig Oster
+870,"Szturc, Gabriel","$870,000","$870,000",3,20,C,,2031,,RFA,2026-27,
+871,"Poitras, Matthew","$870,000","$870,000",3,20,C,,2031,,RFA,2025-26,John Walters
+872,"Lilleberg, Emil","$870,000","$870,000",2,23,D,,2028,,RFA +arb,2024-25,Peter Wallen
+873,"Fulp, Aidan","$870,000","$870,000",2,24,D,,2027,,RFA,2024-25,Richard Evans
+874,"Toporowski, Luke","$870,000","$870,000",2,23,LW,,2028,,RFA +arb,2024-25,
+875,"Hyry, Arttu","$870,000","$870,000",2,23,RW,,2028,,RFA,2025-26,
+876,"Merela, Waltteri","$870,000","$870,000",1,26,RW,,2026,,RFA +arb,2023-24,Mark Gandler & Todd Diamond
+877,"Ostman, Victor","$870,000","$870,000",2,23,G,,2028,,RFA,2025-26,
+878,"Krys, Luke","$870,000","$870,000",2,23,D,,2028,,RFA,2025-26,Peter Fish
+879,"Stefan, James","$870,000","$870,000",3,21,RW,,2031,,RFA,2026-27,Paul Capizzano
+880,"Thiesing, Cam","$870,000","$870,000",2,23,C,,2028,,RFA,2025-26,Pete Rutili
+881,"Okuliar, Oliver","$870,000","$870,000",1,24,LW,,2027,,RFA,2024-25,
+882,"Matikka, Miko","$870,000","$870,000",3,20,RW,,2031,,RFA,2026-27,Markus Lehto
+883,"Robertson, Tucker","$870,000","$870,000",3,21,C,,2030,,RFA,2025-26,Patrick Morris
+884,"Neuchev, Viktor","$870,000","$870,000",3,20,LW,,2031,,RFA,2025-26,Craig Oster
+885,"Innala, Jere","$870,000","$870,000",1,26,LW,,2025,,UFA,2024-25,Simo Niiranen
+886,"Maggio, Matt","$870,000","$870,000",3,21,RW,,2030,,RFA,2025-26,Andrew Maloney
+887,"Mancini, Victor","$870,000","$870,000",2,22,D,,2029,,RFA,2025-26,Kurt Overhardt
+888,"Gill, Dyllan","$870,000","$870,000",3,20,D,,2031,,RFA,2026-27,Andrew Maloney
+889,"Squires, Cam","$870,000","$870,000",3,19,RW,,2032,,RFA,2026-27,Andrew Maloney
+890,"Mueller, Ty","$870,000","$870,000",3,21,C,,2030,,RFA,2026-27,
+891,"Nurmi, Jesse","$870,000","$870,000",3,19,LW,,2032,,RFA,2026-27,Daniel Milstein
+892,"Dube, Pierrick","$870,000","$870,000",2,23,RW,,2028,,RFA +arb,2024-25,
+893,"Punnett, Connor","$870,000","$870,000",3,21,D,,2030,,RFA,2026-27,Ryan Barnes
+894,"Sedoff, Christoffer","$870,000","$870,000",3,22,D,,2029,,RFA,2025-26,Mark Gandler & Todd Diamond
+895,"Brennan, Tyler","$870,000","$870,000",3,20,G,,2031,,RFA,2025-26,Kurt Overhardt
+896,"Pavel, Ondrej","$870,000","$870,000",2,23,C,,2028,,RFA,2024-25,Richard Evans
+897,"Felton, Christian","$870,000","$870,000",1,24,D,,2027,,RFA,2024-25,Jerry Buckley
+898,"McDonald, Kyle","$870,000","$870,000",3,22,RW,,2029,,RFA,2025-26,
+899,"Roelens, Milo","$870,000","$870,000",3,21,C,,2030,,RFA,2026-27,Dom Deblois
+900,"Ignatjew, Waltteri","$870,000","$870,000",1,24,G,,2027,,RFA,2024-25,Mark Gandler & Todd Diamond
+901,"Smejkal, Jiri","$870,000","$870,000",1,27,LW,,2024,,UFA,2023-24,Craig Oster
+902,"Roed, Lleyton","$870,000","$870,000",2,22,LW,,2030,,RFA,2025-26,Neil Sheehy
+903,"Sylvegard, Marcus","$870,000","$870,000",1,25,RW,,2026,,RFA,2024-25,Claude Lemieux
+904,"Rychlovsky, Jakub","$870,000","$870,000",2,23,LW,,2029,,RFA,2025-26,
+905,"Nelson, Jaxon","$870,000","$870,000",1,24,C,,2027,,RFA,2024-25,Pat Brisson
+906,"Morton, Sam","$870,000","$870,000",1,25,LW,,2027,,RFA,2024-25,Dean Grillo
+907,"Wendt, Dylan","$870,000","$870,000",2,23,RW,,2028,,RFA,2025-26,Cameron Stewart
+908,"Hryckowian, Justin","$870,000","$870,000",2,23,C,,2028,,RFA,2025-26,Neil Sheehy
+909,"Suchanek, Tomas","$870,000","$870,000",3,21,G,,2030,,RFA,2026-27,Allan Walsh
+910,"Skoog, Wilmer","$870,000","$870,000",1,25,C,,2027,,RFA,2024-25,Craig Oster
+911,"Kaskimäki, Aleksanteri","$870,000","$870,000",3,20,C,,2031,,RFA,2026-27,Mark Gandler & Todd Diamond
+912,"Badinka, Dominik","$869,050","$872,500",3,18,D,,2033,,RFA,2026-27,J.P. Barry
+913,"Cardwell, Ethan","$867,500","$867,500",3,21,RW,,2030,,RFA,2025-26,Ian Pulver
+914,"Ottavainen, Ville","$867,500","$867,500",3,22,D,,2030,,RFA,2025-26,Andy Scott
+915,"Duke, Dylan","$867,500","$867,500",3,21,C,,2030,,RFA,2026-27,Pat Brisson
+916,"Torgersson, Daniel","$867,500","$892,500",3,22,LW,,2029,,RFA,2024-25,
+917,"Bavaro, Drew","$867,500","$867,500",1,24,D,,2027,,RFA,2024-25,Peter Fish
+918,"Chmelar, Jaroslav","$867,500","$867,500",3,21,RW,,,,RFA,2026-27,Jerry Buckley
+919,"Bankier, Caedan","$867,500","$867,500",3,21,C,,2030,,RFA,2025-26,Rick Valette
+920,"Loof, Leo","$867,500","$867,500",3,22,D,,2029,,RFA,2025-26,Craig Oster
+921,"Lennox, Tristan","$867,500","$867,500",3,21,G,,2030,,RFA,2025-26,Patrick Morris
+922,"Huuhtanen, Niko","$867,500","$867,500",3,21,RW,,2030,,RFA,2026-27,Mark Gandler & Todd Diamond
+923,"Novikov, Nikita","$867,500","$867,500",3,21,D,,2031,,RFA,2025-26,Rick Komarow
+924,"Chrona, Magnus","$867,500","$867,500",2,23,G,,2028,,RFA,2024-25,Andrew Maloney
+925,"Peterson, Dylan","$867,500","$867,500",2,22,C,,2029,,RFA,2025-26,Randy Robitaille
+926,"Berard, Brett","$867,500","$867,500",3,21,LW,,2030,,RFA,2025-26,Brian & Scott Bartlett
+927,"Tuomisto, Antti","$867,500","$867,500",2,23,D,,2028,,RFA +arb,2024-25,Mika Rautakallio
+928,"Struble, Jayden","$867,500","$867,500",2,22,D,,2029,,RFA,2024-25,Philippe Lecavalier
+929,"Robertsson, Simon","$867,500","$867,500",3,21,RW,,2030,,RFA,2026-27,Claude Lemieux
+930,"Duran, Riley","$867,500","$867,500",2,22,C,,2029,,RFA,2025-26,Peter Fish
+931,"Ertel, Justin","$867,500","$867,500",3,21,LW,,,,RFA,2026-27,
+932,"Crozier, Maxwell","$867,500","$867,500",2,24,D,,2027,,RFA,2024-25,Richard Evans
+933,"Málek, Jakub","$867,500","$867,500",2,22,G,,2029,,RFA,2025-26,Gerry Johannson
+934,"Ford, Parker","$867,500","$867,500",2,24,C,,2028,,RFA,2024-25,Marc Levine
+935,"Liukas, Eetu","$867,500","$867,500",3,21,LW,,2030,,RFA,2025-26,Markus Lehto
+936,"Kuntar, Trevor","$867,500","$867,500",2,23,C,,2028,,RFA,2024-25,Pat Brisson
+937,"Misyul, Daniil","$867,500","$867,500",2,23,D,,2028,,RFA +arb,2024-25,Scott Greenspun
+938,"Groshev, Maxim","$867,500","$867,500",3,22,RW,,2029,,RFA,2025-26,Daniel Milstein
+939,"Grubbe, Jayden","$867,500","$867,500",3,21,C,,2030,,RFA,2025-26,Kevin Epp
+940,"Jefferies, Alex","$867,500","$867,500",2,22,LW,,2029,,RFA,2025-26,Peter Fish
+941,"Xhekaj, Florian","$866,667","$870,000",3,20,LW,,2031,,RFA,2026-27,Brian & Scott Bartlett
+942,"Stancl, Jakub","$866,667","$865,000",3,19,LW,,2032,,RFA,2026-27,
+943,"Haight, Hunter","$865,833","$870,000",3,20,C,,2031,,RFA,2026-27,Patrick Morris
+944,"Price, Caden","$865,833","$867,500",3,18,D,,2033,,RFA,2026-27,Jason Davidson
+945,"Alscher, Marek","$865,000","$870,000",3,20,D,,2031,,RFA,2026-27,Allain Roy
+946,"Luneau, Tristan","$865,000","$870,000",3,20,D,,2031,,RFA,2026-27,Dom Deblois
+947,"Sidorov, Yegor","$865,000","$865,000",3,20,C,,2031,,RFA,2026-27,Daniel Milstein
+948,"Gauthier, Ethan","$865,000","$870,000",3,19,RW,,2032,,RFA,2026-27,Pat Brisson
+949,"Wahlberg, Anton","$865,000","$870,000",3,19,C,,2033,,RFA,2026-27,Lewis Gross
+950,"Nordh, Noel","$865,000","$865,000",3,19,LW,,2032,,RFA,2026-27,Lewis Gross
+951,"Warren, Noah","$865,000","$870,000",3,20,D,,2032,,RFA,2026-27,Philippe Lecavalier
+952,"Hayes, Gavin","$865,000","$870,000",3,20,LW,,2031,,RFA,2026-27,Eddie Mio
+953,"Masters, Kyle","$865,000","$865,000",3,21,D,,2030,,RFA,2025-26,Allain Roy
+954,"Nause, Evan","$864,167","$892,500",3,21,D,,2030,,RFA,2025-26,Ian Pulver
+955,"Seider, Moritz","$863,334","$832,500",3,23,D,,2028,,RFA,2023-24,Claude Lemieux
+956,"Harley, Thomas","$863,334","$832,500",3,23,D,,2029,,RFA,2023-24,Andy Scott
+957,"Tomasino, Philip","$863,334","$832,500",3,23,C,,2029,,RFA,2023-24,Wade Arnott
+958,"Pelletier, Jakob","$863,334","$832,500",3,23,LW,,2028,,RFA,2023-24,Olivier Fortier
+959,"Krebs, Peyton","$863,334","$832,500",3,23,C,,2028,,RFA,2023-24,Kevin Epp
+960,"Soderstrom, Victor","$863,334","$832,500",3,23,D,,2028,,RFA,2023-24,Darren Ferris
+961,"Thomson, Lassi","$863,334","$832,500",3,23,D,,2028,,RFA,2023-24,Craig Oster
+962,"Tracey, Brayden","$863,334","$832,500",3,23,LW,,2028,,UFA no QO,2023-24,Michael Kaye
+963,"Zary, Connor","$863,334","$832,500",3,22,C,,2029,,RFA,2024-25,Michael Kaye
+964,"Greig, Ridly","$863,334","$832,500",3,22,C,,2030,,RFA,2024-25,Kevin Epp
+965,"Lapierre, Hendrix","$863,334","$832,500",3,22,C,,2029,,RFA,2024-25,Philippe Lecavalier
+966,"Othmann, Brennan","$863,334","$832,500",3,21,LW,,2030,,RFA,2025-26,Patrick Morris
+967,"L'Heureux, Zachary","$863,334","$832,500",3,21,LW,,2030,,RFA,2025-26,Allan Walsh
+968,"Quinn, Jack","$863,334","$832,500",3,22,RW,,2029,,RFA,2024-25,Randy Robitaille
+969,"Boucher, Tyler","$863,334","$832,500",3,21,RW,,2030,,RFA,2025-26,Jerry Buckley
+970,"Lysell, Fabian","$863,334","$832,500",3,21,RW,,2030,,RFA,2025-26,Gerry Johannson
+971,"Foerster, Tyson","$863,334","$832,500",3,22,RW,,2029,,RFA,2024-25,Murray Koontz
+972,"Guhle, Kaiden","$863,334","$832,500",3,22,D,,2029,,RFA,2024-25,Allain Roy
+973,"Perreault, Jacob","$863,334","$832,500",3,22,RW,,2029,,RFA,2024-25,Pat Brisson
+974,"Stillman, Chase","$863,334","$832,500",3,21,RW,,2030,,RFA,2025-26,Paul Capizzano
+975,"Bolduc, Zachary","$863,334","$832,500",3,21,C,,2030,,RFA,2025-26,
+976,"Cossa, Sebastian","$863,334","$832,500",3,21,G,,2030,,RFA,2025-26,Gerry Johannson
+977,"Clarke, Brandt","$863,334","$832,500",3,21,D,,2030,,RFA,2025-26,Randy Robitaille
+978,"Lambos, Carson","$863,334","$832,500",3,21,D,,2030,,RFA,2025-26,J.P. Barry
+979,"Olausson, Oskar","$863,334","$832,500",3,21,C,,2030,,RFA,2025-26,Peter Wallen
+980,"Rossi, Marco","$863,334","$832,500",3,22,C,,2029,,RFA,2024-25,Ian Pulver
+981,"Andonovski, Matthew","$863,333","$855,000",3,19,D,,2032,,RFA,2026-27,
+982,"Akey, Beau","$863,333","$870,000",3,19,D,,2032,,RFA,2026-27,Robert Hooper
+983,"Väisänen, Kalle","$863,333","$860,000",3,21,LW,,2030,,RFA,2026-27,
+984,"Eklund, William","$863,333","$832,500",3,21,C,,2030,,RFA,2025-26,Mark Gandler & Todd Diamond
+985,"Spacek, David","$862,500","$862,500",3,21,D,,2030,,RFA,2025-26,J.P. Barry
+986,"Washkurak, Keean","$862,500","$890,000",3,23,C,,2029,,UFA no QO,2023-24,
+987,"Trikozov, Gleb","$862,500","$862,500",3,20,LW,,2032,,RFA,2026-27,Daniel Milstein
+988,"Gunler, Noel","$862,500","$862,500",3,22,RW,,2029,,RFA,2024-25,Peter Wallen
+989,"Wheatcroft, Chase","$862,500","$870,000",3,22,C,,2029,,RFA,2025-26,Vlad Shushkovsky
+990,"Davidson, Jared","$862,500","$860,000",2,22,C,,2030,,RFA,2025-26,Allain Roy
+991,"Edmonds, Lucas","$861,667","$870,000",3,23,RW,,2028,,RFA,2024-25,Ryan Barnes
+992,"Milne, Michael","$861,667","$870,000",3,21,LW,,2030,,RFA,2024-25,Ross Gurney
+993,"Burke, Nolan","$861,667","$870,000",3,21,C,,2030,,RFA,2024-25,Wade Arnott
+994,"Murashov, Sergei","$861,110","$861,110",3,20,G,,2031,,RFA,2026-27,Rick Komarow
+995,"Gendron, Alexis","$860,000","$860,000",3,20,RW,,2031,,RFA,2025-26,Pat Brisson
+996,"Ungar, Connor","$860,000","$860,000",2,22,G,,2029,,RFA,2025-26,Daren Hermiston
+997,"Brunet, Frédéric","$860,000","$860,000",3,20,D,,2031,,RFA,2025-26,Paul Corbeil
+998,"Guryev, Artem","$860,000","$860,000",3,21,D,,2030,,RFA,2025-26,Dave Maloney
+999,"Del Bel Belluz, Luca","$859,999","$870,000",3,20,C,,2031,,RFA,2026-27,Pat Brisson
+1000,"Dumais, Jordan","$859,999","$870,000",3,20,RW,,2031,,RFA,2026-27,Allain Roy
+1001,"Szuber, Maksymilian","$859,167","$860,000",3,21,D,,2030,,RFA,2025-26,Allan Walsh
+1002,"Dufour, William","$859,167","$867,500",3,22,RW,,2029,,RFA,2024-25,Olivier Fortier
+1003,"Kisakov, Alexander","$859,167","$867,500",3,21,LW,,2030,,RFA,2024-25,J.P. Barry
+1004,"Norlinder, Mattias","$859,167","$842,500",3,24,D,,2027,,UFA no QO,2023-24,J.P. Barry
+1005,"Luypen, Jalen","$859,167","$867,500",3,22,C,,2029,,RFA,2024-25,Murray Koontz
+1006,"Frasca, Jordan","$859,167","$867,500",3,23,C,,2029,,RFA,2024-25,John Walters
+1007,"MacArthur, Bennett","$859,167","$867,500",3,23,LW,,2028,,RFA,2024-25,Andrew Maloney
+1008,"Korczak, Ryder","$859,167","$867,500",3,21,C,,2030,,RFA,2024-25,Rick Valette
+1009,"Glover, Ty","$859,167","$867,500",3,23,C,,2028,,RFA,2024-25,Edward Ward
+1010,"Staios, Nathan","$859,167","$867,500",3,23,D,,2028,,RFA,2024-25,Patrick Morris
+1011,"Nikkanen, Henri","$859,167","$867,500",3,23,C,,2028,,RFA,2024-25,Mika Rautakallio
+1012,"Rybinski, Henrik","$859,167","$867,500",3,23,C,,2028,,RFA,2024-25,Michael O'Rafferty
+1013,"Hanas, Cross","$859,167","$867,500",3,22,C,,2029,,RFA,2024-25,J.P. Barry
+1014,"Svejkovsky, Lukas","$859,167","$867,500",3,22,C,,2029,,RFA,2024-25,Richard Evans
+1015,"Gauthier, Taylor","$859,167","$867,500",3,23,G,,2028,,RFA,2024-25,Allain Roy
+1016,"Trineyev, Bogdan","$859,167","$867,500",3,22,LW,,2029,,RFA,2024-25,
+1017,"Kartye, Tye","$859,167","$867,500",3,23,C,,2028,,RFA,2024-25,Andy Scott
+1018,"Uens, Zachary","$859,167","$867,500",3,23,D,,2028,,RFA,2024-25,David Gagner
+1019,"McCue, Max","$858,333","$857,500",3,21,C,,2030,,RFA,2026-27,Joseph Resnick
+1020,"Butler, Cameron","$858,333","$857,500",3,22,RW,,2029,,RFA,2025-26,Wade Arnott
+1021,"Pitre, Coulson","$858,333","$860,000",3,19,RW,,2032,,RFA,2026-27,Daniel Milstein
+1022,"Vikman, Jesper","$858,000","$858,000",3,22,G,,2029,,RFA,2025-26,Gerry Johannson
+1023,"Robert, Felix","$857,500","$870,000",2,25,C,,2027,,UFA no QO,2023-24,Olivier Fortier
+1024,"Bell, Parker","$857,500","$857,500",3,20,LW,,2031,,RFA,2025-26,Gerry Johannson
+1025,"White, Gavin","$857,500","$870,000",3,21,D,,2030,,RFA,2025-26,Ross Gurney
+1026,"Trudeau, William","$856,667","$860,000",3,21,D,,2030,,RFA,2024-25,Philippe Lecavalier
+1027,"Hirvonen, Roni","$856,667","$860,000",3,22,C,,2029,,RFA,2024-25,Mika Rautakallio
+1028,"Niemela, Topi","$856,667","$860,000",3,22,D,,2029,,RFA,2024-25,Mika Rautakallio
+1029,"Peterka, John-Jason","$855,834","$832,500",3,22,C,,2029,,RFA,2024-25,Allan Walsh
+1030,"O'Rourke, Ryan","$855,834","$832,500",3,22,D,,2029,,RFA,2024-25,Joseph Resnick
+1031,"Schwindt, Cole","$855,833","$892,500",3,23,C,,2028,,RFA,2023-24,Patrick Morris
+1032,"Del Mastro, Ethan","$855,833","$867,500",3,21,D,,2030,,RFA,2025-26,Wade Arnott
+1033,"Vilmanis, Sandis","$855,000","$855,000",3,20,LW,,,,RFA,2026-27,Peter Wallen
+1034,"Iskhakov, Ruslan","$855,000","$867,500",2,24,C,,2028,,RFA +arb,2023-24,Daniel Milstein
+1035,"Salminen, Oskari","$855,000","$867,500",2,24,G,,2027,,UFA no QO,2023-24,Mark Gandler & Todd Diamond
+1036,"Seppala, Peetro","$855,000","$867,500",2,24,D,,2028,,RFA +arb,2023-24,Andrew Maloney
+1037,"Lindbom, Olof","$855,000","$867,500",2,24,G,,2028,,UFA no QO,2023-24,J.P. Barry
+1038,"Kondelik, Jachym","$855,000","$842,500",2,24,C,,2027,,RFA,2023-24,
+1039,"Ollas, Hugo","$855,000","$855,000",2,22,G,,,,RFA,2025-26,Peter Wallen
+1040,"Sjalin, Calle","$855,000","$867,500",2,24,D,,2027,,UFA no QO,2023-24,J.P. Barry
+1041,"Zhuravlyov, Danila","$855,000","$867,500",2,24,D,,2027,,UFA,2023-24,
+1042,"Johansson, Simon","$855,000","$867,500",2,25,D,,2026,,UFA no QO,2023-24,Kurt Overhardt
+1043,"Gylander, Carter","$855,000","$855,000",2,23,G,,2028,,RFA,2025-26,Gerry Johannson
+1044,"Kinnunen, Santtu","$855,000","$842,500",2,25,D,,2026,,UFA no QO,2023-24,Simo Niiranen
+1045,"Hentges, Sam","$855,000","$842,500",2,25,C,,2027,,UFA no QO,2023-24,Edward Ward
+1046,"Simoneau, Xavier","$855,000","$855,000",2,23,C,,2028,,RFA +arb,2024-25,Simo Niiranen
+1047,"Beck, Owen","$853,333","$870,000",3,20,C,,2031,,RFA,2026-27,Olivier Fortier
+1048,"Wiebe, Jaxsen","$852,500","$852,500",3,22,RW,,2029,,RFA,2025-26,Jason Davidson
+1049,"Dean, Zach","$852,500","$832,500",3,21,C,,2030,,RFA,2025-26,Pat Brisson
+1050,"Buteyets, Vyacheslav","$852,500","$852,500",2,22,G,,2029,,RFA,2025-26,Peter Wallen
+1051,"Lawrence, Kaleb","$852,500","$852,500",3,21,C,,2030,,RFA,2026-27,
+1052,"Jamsen, Aatu","$852,500","$852,500",2,22,RW,,2030,,RFA,2025-26,Jerry Buckley
+1053,"Demek, Jakub","$851,683","$852,000",3,21,RW,,2030,,RFA,2025-26,Gregory Landry
+1054,"Hofer, Ryan","$851,667","$855,000",3,22,C,,2029,,RFA,2025-26,Jonah Boston
+1055,"Hanzel, Jeremy","$851,667","$855,000",3,21,D,,,,RFA,2026-27,
+1056,"Akhtyamov, Artur","$851,667","$850,000",3,22,G,,2029,,RFA,2025-26,Daniel Milstein
+1057,"Tverberg, Ryan","$851,667","$850,000",3,22,C,,2029,,RFA,2025-26,John Walters
+1058,"Lipkin, Sam","$851,667","$850,000",3,21,LW,,2030,,RFA,2026-27,John Kofi Osei-Tutu
+1059,"Peksa, Vyacheslav","$851,667","$850,000",3,21,G,,2030,,RFA,2025-26,Peter Wallen
+1060,"Del Gaizo, Marc","$850,833","$867,500",3,24,D,,2027,,RFA +arb,2023-24,Michael Curran
+1061,"Boyko, Talyn","$850,833","$860,000",3,21,G,,2030,,RFA,2024-25,Ritchie Winter
+1062,"Parssinen, Juuso","$850,833","$842,500",3,23,C,,2028,,RFA,2023-24,Jerry Buckley
+1063,"Angle, Tyler","$850,833","$867,500",3,23,C,,2028,,UFA no QO,2023-24,Patrick Morris
+1064,"Alnefelt, Hugo","$850,833","$842,500",3,23,G,,2028,,RFA,2023-24,Lewis Gross
+1065,"Vukojevic, Michael","$850,833","$867,500",3,23,D,,2028,,UFA no QO,2023-24,Robert Hooper
+1066,"Cajkovic, Maxim","$850,833","$842,500",3,23,RW,,2028,,UFA no QO,2023-24,Daniel Milstein
+1067,"Bauer, Tyrel","$850,000","$855,000",3,22,D,,2029,,RFA,2024-25,Gregory Landry
+1068,"Gregor, Noah","$850,000","$850,000",1,26,C,,2026,UFA no QO,RFA +arb,2024-25,Craig Oster
+1069,"Cederqvist, Filip","$850,000","$866,667",2,23,LW,,2028,,UFA no QO,2023-24,
+1070,"Malinski, Sam","$850,000","$850,000",2,26,D,,2026,,RFA +arb,2024-25,Richard Evans
+1071,"Hirose, Taro","$850,000","$850,000",2,28,LW,,2023,RFA +arb,UFA,2023-24,Allain Roy
+1072,"Roobroeck, Dylan","$850,000","$850,000",3,20,C,,2032,,RFA,2026-27,Dave Maloney
+1073,"Silovs, Arturs","$850,000","$900,000",2,23,G,,2027,RFA,RFA,2025-26,Paul Theofanous
+1074,"Greer, A.J.","$850,000","$925,000",2,27,LW,,2024,UFA,UFA,2025-26,Philippe Lecavalier
+1075,"Kraws, Benjamin","$850,000","$850,000",1,24,G,,2028,,RFA,2024-25,
+1076,"Wolf, Dustin","$850,000","$850,000",2,23,G,,2028,RFA,RFA,2025-26,Pat Brisson
+1077,"Jurmo, Joni","$850,000","$850,000",2,22,D,,2029,,RFA,2025-26,Ian Pulver
+1078,"Kozak, Tyson","$850,000","$855,556",3,21,C,,2030,,RFA,2024-25,Kurt Overhardt
+1079,"Jaaska, Juha","$850,000","$850,000",1,26,LW,,2025,,UFA,2024-25,
+1080,"Balinskis, Uvis","$850,000","$850,000",2,28,D,,2024,UFA,UFA,2025-26,Daniel Milstein
+1081,"Gurianov, Denis","$850,000","$850,000",1,27,RW,,2024,UFA no QO,UFA,2023-24,Mark Gandler & Todd Diamond
+1082,"Seminoff, Matthew","$850,000","$850,000",3,20,RW,,2031,,RFA,2025-26,Gerry Johannson
+1083,"Attard, Ronald","$850,000","$925,000",2,25,D,,2026,RFA +arb,RFA +arb,2024-25,Richard Evans
+1084,"Holmstrom, Simon","$850,000","$850,000",1,23,RW,,2028,RFA,RFA,2024-25,J.P. Barry
+1085,"Girgensons, Zemgus","$850,000","$1,000,000",3,30,C,M-NTC,2020,UFA,UFA,2026-27,Paul Capizzano
+1086,"Saville, Isaiah","$849,667","$858,000",3,23,G,,2028,,RFA,2024-25,Brian & Scott Bartlett
+1087,"Fairbrother, Gianni","$848,333","$860,000",3,23,D,,2028,,UFA no QO,2023-24,Allain Roy
+1088,"Foudy, Jean-Luc","$847,500","$832,500",3,22,C,,2029,,RFA,2024-25,Thane Campbell
+1089,"Grans, Helge","$847,500","$832,500",3,22,D,,2029,,RFA,2024-25,Kurt Overhardt
+1090,"Sourdif, Justin","$847,500","$832,500",3,22,RW,,2029,,RFA,2024-25,Dave Cowan
+1091,"Knazko, Samuel","$847,500","$832,500",3,22,D,,2030,,RFA,2024-25,Gerry Johannson
+1092,"Novak, Pavel","$846,667","$855,000",3,22,RW,,2029,,RFA,2024-25,J.P. Barry
+1093,"Plasek, Karel","$846,667","$830,000",3,24,LW,,2028,,RFA,2023-24,Michael Deutsch
+1094,"Kerins, Rory","$846,667","$855,000",3,22,C,,2029,,RFA,2024-25,John Walters
+1095,"Edstrom, Adam","$846,667","$855,000",3,23,C,,2028,,RFA +arb,2024-25,Matt Keator
+1096,"Zherenko, Vadim","$846,667","$855,000",3,23,G,,2028,,RFA,2024-25,J.P. Barry
+1097,"Samson, Ethan","$846,667","$865,000",3,20,D,,2031,,RFA,2025-26,Gerry Johannson
+1098,"Kokkonen, Mikko","$846,667","$855,000",3,23,D,,2028,,RFA,2024-25,Markus Lehto
+1099,"Stranges, Antonio","$846,667","$830,000",3,22,LW,,2029,,RFA,2024-25,Brian & Scott Bartlett
+1100,"Savoie, Samuel","$846,666","$870,000",3,20,LW,,2031,,RFA,2026-27,Dom Deblois
+1101,"Ziemmer, Koehn","$845,833","$875,000",3,19,RW,,2032,,RFA,2026-27,Gerry Johannson
+1102,"Khazheyev, Ruslan","$845,000","$845,000",3,19,G,,2032,,RFA,2026-27,Daniel Milstein
+1103,"Roest, Austin","$845,000","$845,000",3,20,RW,,,,RFA,2026-27,
+1104,"Ivan, Ivan","$845,000","$845,000",2,22,C,,2030,,RFA,2025-26,Allan Walsh
+1105,"Finnie, Emmitt","$845,000","$845,000",3,19,C,,2032,,RFA,2026-27,
+1106,"Pinelli, Francesco","$845,000","$867,500",3,21,C,,2030,,RFA,2025-26,Andy Scott
+1107,"Ansons, Raivis","$844,167","$852,500",3,22,RW,,2029,,RFA,2024-25,Daniel Milstein
+1108,"Zellweger, Olen","$844,167","$832,500",3,20,D,,2031,,RFA,2025-26,Dave Cowan
+1109,"Chiasson, Jake","$843,333","$845,000",3,21,C,,2030,,RFA,2025-26,Kevin Epp
+1110,"Bjorklund, Garin","$843,333","$850,000",3,22,G,,2029,,RFA,2024-25,Gerry Johannson
+1111,"Hildeby, Dennis","$843,333","$855,000",3,23,G,,2029,,RFA,2024-25,Craig Oster
+1112,"Cranley, Will","$841,667","$850,000",3,22,G,,2029,,RFA,2024-25,Dave Maloney
+1113,"Milic, Thomas","$841,667","$835,000",3,21,G,,2030,,RFA,2026-27,Gerry Johannson
+1114,"Dureau, Jaydon","$841,667","$850,000",3,23,LW,,2028,,RFA,2024-25,Michael Kaye
+1115,"Malatesta, James","$841,666","$862,500",3,21,LW,,2030,,RFA,2025-26,Philippe Lecavalier
+1116,"Furlong, Jake","$841,666","$862,500",3,20,D,,2031,,RFA,2026-27,Allain Roy
+1117,"Kuefler, Daylan","$840,000","$840,000",3,22,LW,,2029,,RFA,2025-26,Allain Roy
+1118,"Lindbom, Carl","$840,000","$840,000",3,21,G,,2030,,RFA,2025-26,J.P. Barry
+1119,"Rindell, Axel","$838,750","$825,000",2,24,D,,2027,,UFA,2023-24,Mark Gandler & Todd Diamond
+1120,"Ellis, Max","$838,750","$852,500",2,24,RW,,2027,,UFA no QO,2023-24,Matt Federico
+1121,"Miftakhov, Amir","$838,333","$855,000",3,24,G,,2027,,RFA,2023-24,Daniel Milstein
+1122,"Filmon, Josh","$838,333","$870,000",3,20,LW,,2031,,RFA,2026-27,Craig Oster
+1123,"McConnell-Barker, Bryce","$838,333","$870,000",3,20,C,,2031,,RFA,2026-27,Patrick Morris
+1124,"Mynio, Sawyer","$838,333","$870,000",3,19,D,,2032,,RFA,2026-27,Allain Roy
+1125,"Lombardi, Amadeus","$838,333","$870,000",3,21,C,,2030,,RFA,2025-26,Daniel Milstein
+1126,"Pieniniemi, Emil","$838,333","$870,000",3,19,D,,2032,,RFA,2026-27,Lewis Gross
+1127,"George, Isaiah","$838,333","$870,000",3,20,D,,2031,,RFA,2026-27,J.P. Barry
+1128,"Buchinger, Michael","$838,333","$870,000",3,20,D,,2031,,RFA,2026-27,Paul Capizzano
+1129,"Lind, Kalan","$838,333","$870,000",3,19,LW,,2032,,RFA,2026-27,Gerry Johannson
+1130,"Pettersson, Elias","$838,333","$870,000",3,20,D,,2031,,RFA,2026-27,Joakim Persson
+1131,"Caulfield, Judd","$837,500","$837,500",2,23,RW,,2028,,RFA,2024-25,Pat Brisson
+1132,"Annunen, Justus","$837,500","$800,000",2,24,G,,2027,RFA +arb,RFA +arb,2025-26,Allain Roy
+1133,"Krygier, Cole","$837,500","$837,500",2,24,D,,2027,,RFA,2024-25,Pat Brisson
+1134,"Poirier, Remi","$836,667","$845,000",3,22,G,,2029,,RFA,2024-25,Mathieu Curadeau
+1135,"Vilen, Topias","$836,667","$867,500",3,21,D,,2030,,RFA,2025-26,Jerry Buckley
+1136,"Bloom, Josh","$836,667","$867,500",3,21,LW,,2030,,RFA,2025-26,Patrick Morris
+1137,"Nelson, Ty","$836,667","$867,500",3,20,D,,2031,,RFA,2026-27,Dave Maloney
+1138,"Honka, Anttoni","$836,667","$835,000",3,23,D,,2028,,RFA +arb,2024-25,Cliff Mander
+1139,"Fleming, Joe","$836,667","$867,500",3,21,D,,2030,,RFA,2025-26,Jerry Buckley
+1140,"Räty, Aatu","$836,667","$800,000",3,21,C,,2030,,RFA,2024-25,Ian Pulver
+1141,"Russell, Mitchell","$836,667","$845,000",3,23,RW,,2028,,RFA,2024-25,John Walters
+1142,"Laroque, Gannon","$836,667","$867,500",3,21,D,,2031,,RFA,2025-26,Ray (Raynold) Petkau
+1143,"Kidney, Riley","$836,667","$867,500",3,21,C,,2030,,RFA,2025-26,Jason Harshaw
+1144,"Harrison, Brett","$836,667","$867,500",3,21,C,,2030,,RFA,2025-26,Pat Brisson
+1145,"Nadeau, Olivier","$836,667","$867,500",3,21,RW,,2030,,RFA,2025-26,David Gagner
+1146,"Nikolaev, Ilya","$836,667","$845,000",3,23,C,,2028,,RFA,2024-25,Daniel Milstein
+1147,"Neighbours, Jake","$835,834","$832,500",3,22,LW,,2029,,RFA,2024-25,Dave Cowan
+1148,"Wiesblatt, Ozzy","$835,833","$832,500",3,22,RW,,2029,,RFA,2024-25,Dave Cowan
+1149,"Gustafsson, David","$835,000","$835,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Craig Oster
+1150,"Cicek, Nick","$835,000","$822,500",2,24,D,,2027,,UFA no QO,2023-24,Allain Roy
+1151,"Ovchinnikov, Dmitry","$835,000","$855,000",3,22,LW,,2030,,UFA no QO,2023-24,Shumi Babaev
+1152,"Pettersson, Oskar","$835,000","$865,000",3,20,RW,,2031,,RFA,2026-27,Mark Gandler & Todd Diamond
+1153,"Kastelic, Mark","$835,000","$870,000",2,25,C,,2026,RFA +arb,RFA +arb,2024-25,Brian & Scott Bartlett
+1154,"Roy, Joshua","$835,000","$860,000",3,21,C,,2031,,RFA,2025-26,Olivier Fortier
+1155,"Komarov, Vsevolod","$835,000","$865,000",3,20,D,,2031,,RFA,2026-27,Daniel Milstein
+1156,"Gogolev, Pavel","$834,167","$852,500",3,24,LW,,2027,,RFA,2023-24,Randy Robitaille
+1157,"Steeves, Alex","$834,167","$825,000",3,24,C,,2027,,RFA +arb,2023-24,Allain Roy
+1158,"Klimovich, Danila","$833,333","$800,000",3,21,C,,2030,,RFA,2025-26,Daniel Milstein
+1159,"Unger Sörum, Felix","$831,667","$860,000",3,18,RW,,2033,,RFA,2026-27,Claude Lemieux
+1160,"Edward, Jackson","$831,667","$860,000",3,20,D,,2031,,RFA,2026-27,Paul Capizzano
+1161,"Tuomaala, Samu","$830,833","$800,000",3,21,RW,,2030,,RFA,2025-26,Mark Gandler & Todd Diamond
+1162,"Mast, Ryan","$830,556","$855,000",3,21,D,,2030,,RFA,2025-26,Keith McKittrick
+1163,"Wagner, Fabian","$830,556","$860,000",3,20,C,,2031,,RFA,2026-27,Kurt Overhardt
+1164,"DiVincentiis, Domenic","$830,556","$860,000",3,20,G,,2031,,RFA,2026-27,J.P. Barry
+1165,"Ciona, Lucas","$830,000","$857,500",3,21,LW,,2030,,RFA,2025-26,Tobin Wright
+1166,"Gustafson, Jordan","$830,000","$857,500",3,20,C,,2031,,RFA,2026-27,
+1167,"Hinds, Tyson","$829,444","$855,000",3,21,D,,2030,,RFA,2025-26,Allain Roy
+1168,"Gushchin, Danil","$828,334","$775,000",3,22,RW,,2029,,RFA,2024-25,Mark Gandler & Todd Diamond
+1169,"Oksentyuk, Yevgeni","$828,333","$820,000",3,23,RW,,2028,,RFA,2023-24,Daniel Milstein
+1170,"Brabenec, Jakub","$828,333","$857,500",3,20,LW,,2031,,RFA,2025-26,Michael Deutsch
+1171,"Newkirk, Reece","$828,333","$845,000",3,23,C,,2028,,UFA no QO,2023-24,Richard Evans
+1172,"Solovyov, Ilya","$828,333","$820,000",3,24,D,,2028,,RFA +arb,2023-24,Daniel Milstein
+1173,"Mysak, Jan","$828,333","$775,000",3,22,C,,2029,,RFA,2024-25,Allan Walsh
+1174,"Thompson, Jack","$828,333","$775,000",3,22,D,,2029,,RFA,2024-25,Ian Pulver
+1175,"Cuylle, Will","$828,333","$775,000",3,22,LW,,2029,,RFA,2024-25,David Gagner
+1176,"Sebrango, Donovan","$828,333","$775,000",3,22,D,,2029,,RFA,2024-25,
+1177,"Hunt, Daemon","$828,333","$775,000",3,22,D,,2029,,RFA,2024-25,
+1178,"Viro, Eemil","$828,333","$775,000",3,22,D,,2029,,RFA,2024-25,Andy Scott
+1179,"Garand, Dylan","$828,333","$775,000",3,22,G,,2029,,RFA,2024-25,Richard Evans
+1180,"Davies, Joshua","$828,333","$855,000",3,20,LW,,2031,,RFA,2026-27,
+1181,"Wanner, Max","$828,333","$855,000",3,21,D,,2030,,RFA,2025-26,Gerry Johannson
+1182,"Winterton, Ryan","$828,333","$855,000",3,20,C,,2031,,RFA,2025-26,John Walters
+1183,"Cataford, Mathieu","$828,333","$855,000",3,19,RW,,2032,,RFA,2026-27,Pat Brisson
+1184,"Dickinson, Tanner","$826,667","$775,000",3,22,C,,2029,,RFA,2024-25,Richard Evans
+1185,"Booth, Angus","$826,667","$852,500",3,20,D,,2031,,RFA,2026-27,
+1186,"Melanson, Jacob","$826,111","$852,500",3,21,RW,,2030,,RFA,2025-26,Bryan Dube
+1187,"Chadwick, Noah","$826,111","$850,000",3,19,D,,2032,,RFA,2026-27,Scott Norton
+1188,"Aman, Nils","$825,000","$775,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Matt Keator
+1189,"Pastujov, Sasha","$825,000","$775,000",3,21,RW,,2031,,RFA,2025-26,Wade Arnott
+1190,"Addison, Calen","$825,000","$825,000",1,24,D,,2027,RFA,UFA no QO,2023-24,Craig Oster
+1191,"Kudryavtsev, Kirill","$825,000","$850,000",3,20,D,,2031,,RFA,2026-27,Daniel Milstein
+1192,"Cogliano, Andrew","$825,000","$825,000",1,37,C,,2014,UFA,UFA,2023-24,Paul Capizzano
+1193,"Primeau, Mason","$825,000","$840,000",3,23,C,,2029,,UFA no QO,2023-24,
+1194,"Warren, Marshall","$825,000","$825,000",2,23,D,,2028,,RFA,2025-26,
+1195,"Allan, Nolan","$825,000","$775,000",3,21,D,,2030,,RFA,2025-26,Jason Davidson
+1196,"Arcuri, Francesco","$825,000","$850,000",3,21,C,,2030,,RFA,2025-26,Patrick Morris
+1197,"Dach, Colton","$825,000","$775,000",3,21,C,,2030,,RFA,2025-26,Gerry Johannson
+1198,"Alexeyev, Alexander","$825,000","$875,000",2,24,D,,2027,RFA,RFA +arb,2024-25,Craig Oster
+1199,"Comrie, Eric","$825,000","$800,000",2,29,G,,2023,UFA,UFA,2025-26,Ray (Raynold) Petkau
+1200,"Gilbert, Dennis","$825,000","$825,000",1,27,D,,2024,UFA,UFA,2024-25,Brian & Scott Bartlett
+1201,"Copley, Pheonix","$825,000","$825,000",1,32,G,,2019,UFA,UFA,2024-25,Gerry Johannson
+1202,"Kelly, Parker","$825,000","$825,000",2,25,LW,,2026,UFA no QO,UFA,2025-26,Allain Roy
+1203,"Chayka, Daniil","$825,000","$775,000",3,21,D,,2030,,RFA,2025-26,Daniel Milstein
+1204,"Bjorgvik-Holm, Ole Julian","$825,000","$775,000",3,22,D,,2029,,RFA,2024-25,Scott Norton
+1205,"Svozil, Stanislav","$825,000","$775,000",3,21,D,,2030,,RFA,2025-26,Craig Oster
+1206,"Korczak, Kaedan","$825,000","$825,000",2,23,D,,2028,RFA,RFA,2025-26,Rick Valette
+1207,"Onyebuchi, Montana","$825,000","$825,000",2,24,D,,2027,,RFA +arb,2024-25,
+1208,"Biakabutuka, Jérémie","$825,000","$825,000",3,22,D,,2029,,RFA,2025-26,Allan Walsh
+1209,"Robidas, Justin","$825,000","$825,000",3,21,C,,2030,,RFA,2025-26,Philippe Lecavalier
+1210,"Duehr, Walker","$825,000","$875,000",2,26,RW,,2025,RFA +arb,UFA,2024-25,Dean Grillo
+1211,"Stastney, Spencer","$825,000","$825,000",2,24,D,,2027,RFA +arb,RFA +arb,2025-26,Pete Rutili
+1212,"Foote, Nolan","$825,000","$825,000",1,23,LW,,2028,RFA,RFA,2024-25,Kurt Overhardt
+1213,"Ostapchuk, Zack","$825,000","$775,000",3,21,LW,,2030,,RFA,2025-26,Gerry Johannson
+1214,"Parise, Zach","$825,000","$825,000",1,40,LW,,2012,UFA,UFA,2023-24,Wade Arnott
+1215,"Young, Ty","$825,000","$850,000",3,19,G,,2032,,RFA,2026-27,Ray (Raynold) Petkau
+1216,"Desnoyers, Elliot","$825,000","$775,000",3,22,LW,,2029,,RFA,2024-25,Philippe Lecavalier
+1217,"Tikkanen, Henrik","$823,750","$823,750",2,23,G,,2028,,RFA,2025-26,Mark Gandler & Todd Diamond
+1218,"Tieksola, Tuukka","$823,333","$815,000",3,23,RW,,2028,,UFA no QO,2023-24,Ian Pulver
+1219,"Poirier, Jeremie","$823,333","$775,000",3,22,D,,2029,,RFA,2024-25,Allain Roy
+1220,"Tullio, Tyler","$823,333","$775,000",3,22,C,,2029,,RFA,2024-25,Cameron Stewart
+1221,"Stonehouse, Brady","$821,667","$845,000",3,20,RW,,2032,,RFA,2026-27,Paul Capizzano
+1222,"Daoust, Philippe","$821,667","$830,000",3,22,C,,2029,,RFA,2024-25,Allain Roy
+1223,"Hemmerling, Ben","$821,111","$845,000",3,20,RW,,2031,,RFA,2026-27,Ross Gurney
+1224,"Teply, Michael","$820,000","$842,500",3,23,LW,,2028,,UFA no QO,2023-24,
+1225,"Rempe, Matt","$820,000","$775,000",3,22,C,,2029,,RFA,2024-25,Gerry Johannson
+1226,"Merilainen, Leevi","$820,000","$775,000",3,22,G,,2029,,RFA,2024-25,Jerry Buckley
+1227,"Chromiak, Martin","$820,000","$775,000",3,22,RW,,2030,,RFA,2024-25,J.P. Barry
+1228,"Millman, Mason","$818,333","$840,000",3,23,D,,2029,,UFA no QO,2023-24,Joseph Resnick
+1229,"Villeneuve, William","$817,778","$775,000",3,22,D,,2029,,RFA,2024-25,David Gagner
+1230,"Petruzzelli, Keith","$817,500","$780,000",2,25,G,,2026,,UFA no QO,2023-24,Jerry Buckley
+1231,"Alexandrov, Nikita","$816,667","$775,000",3,23,C,,2028,,RFA,2023-24,Patrick Morris
+1232,"Bains, Arshdeep","$816,667","$825,000",3,23,LW,,2028,,RFA,2024-25,Harkie Singh
+1233,"Minten, Fraser","$816,666","$875,000",3,20,C,,2032,,RFA,2026-27,Gregory Landry
+1234,"Salomonsson, Elias","$815,000","$870,000",3,19,D,,2032,,RFA,2026-27,Peter Wallen
+1235,"Odelius, Calle","$815,000","$870,000",3,20,D,,2031,,RFA,2026-27,Peter Wallen
+1236,"Persson, Ludwig","$814,999","$870,000",3,20,C,,2031,,RFA,2026-27,Craig Oster
+1237,"Suzdalev, Alexander","$814,999","$870,000",3,20,C,,2031,,RFA,2026-27,Craig Oster
+1238,"Grushnikov, Artyom","$814,167","$775,000",3,21,D,,2030,,RFA,2025-26,Craig Oster
+1239,"Stankoven, Logan","$814,167","$775,000",3,21,C,,2030,,RFA,2025-26,Gerry Johannson
+1240,"Iorio, Vincent","$814,167","$775,000",3,21,D,,2030,,RFA,2025-26,
+1241,"Coe, Brandon","$813,725","$813,725",1,22,RW,,2029,RFA,RFA,2024-25,Andy Scott
+1242,"Kirk, Liam","$813,333","$805,000",3,24,LW,,2027,,RFA,2023-24,Daniel Milstein
+1243,"Dostal, Lukas","$812,500","$850,000",2,24,G,,2027,RFA,RFA +arb,2024-25,Michael Deutsch
+1244,"Pezzetta, Michael","$812,500","$825,000",2,26,LW,,2025,RFA +arb,UFA,2024-25,Paul Capizzano
+1245,"Poulter, Isaac","$812,500","$830,000",2,22,G,,2029,,RFA +arb,2024-25,
+1246,"Daws, Nicolas","$812,500","$775,000",2,23,G,,2028,RFA,RFA,2025-26,Paul Capizzano
+1247,"Jones, Zachary","$812,500","$825,000",2,23,D,,2028,RFA,RFA +arb,2024-25,Shawn Hunwick
+1248,"Greaves, Jet","$812,500","$800,000",2,23,G,,2028,RFA +arb,RFA +arb,2025-26,Cameron Stewart
+1249,"Alexander, Gage","$810,000","$825,000",3,22,G,,2030,,RFA,2024-25,Gerry Johannson
+1250,"Clayton, Cole","$810,000","$810,000",1,24,D,,2027,,RFA,2024-25,
+1251,"Seeley, Ronan","$810,000","$775,000",3,22,D,,2030,,RFA,2024-25,Kevin Epp
+1252,"Abramov, Mikhail","$809,444","$830,000",3,23,C,,2028,,RFA,2023-24,Daniel Milstein
+1253,"Sýkora, Adam","$806,666","$870,000",3,19,LW,,2032,,RFA,2026-27,Gerry Johannson
+1254,"Helenius, Samuel","$805,833","$775,000",3,21,C,,2030,,RFA,2025-26,Daniel Milstein
+1255,"Koivunen, Ville","$805,833","$775,000",3,21,C,,2030,,RFA,2025-26,Ian Pulver
+1256,"Schmidt, Roman","$805,833","$775,000",3,21,D,,2030,,RFA,2025-26,Daniel Milstein
+1257,"Heimosalmi, Aleksi","$805,833","$775,000",3,21,D,,2030,,RFA,2025-26,Markus Lehto
+1258,"Toure, Djibril","$805,000","$810,000",3,21,D,,2030,,RFA,2025-26,
+1259,"Perets, Yaniv","$805,000","$805,000",2,24,G,,2027,,RFA,2024-25,Ian Pulver
+1260,"Bernard-Docker, Jacob","$805,000","$825,000",2,24,D,,2027,RFA,RFA +arb,2024-25,Brian & Scott Bartlett
+1261,"Sapovaliv, Matyas","$803,334","$860,000",3,20,C,,2031,,RFA,2026-27,Daniel Milstein
+1262,"Hamara, Tomas","$803,334","$860,000",3,20,D,,2031,,RFA,2026-27,Allan Walsh
+1263,"Zhilkin, Danny","$803,333","$870,000",3,20,C,,2031,,RFA,2026-27,Daniel Milstein
+1264,"Petrov, Matvei","$803,333","$775,000",3,21,RW,,2030,,RFA,2025-26,Daniel Milstein
+1265,"Gaudet, Marc-Andre","$802,500","$860,000",3,20,D,,2031,,RFA,2026-27,Jason Harshaw
+1266,"Matier, Jack","$801,667","$775,000",3,21,D,,2030,,RFA,2025-26,Patrick Morris
+1267,"Voit, Ty","$800,556","$775,000",3,21,C,,2030,,RFA,2025-26,Michael Curran
+1268,"Kressler, Braeden","$800,556","$775,000",3,21,C,,2030,,RFA,2025-26,Daniel Milstein
+1269,"Wheeler, Blake","$800,000","$800,000",1,37,RW,NTC,2014,UFA,UFA,2023-24,Matt Keator
+1270,"Lewis, Trevor","$800,000","$800,000",1,37,C,,2014,UFA,UFA,2024-25,Wade Arnott
+1271,"Fleury, Cale","$800,000","$825,000",2,25,D,,2026,RFA +arb,RFA +arb,2024-25,Gregory Landry
+1272,"Glendening, Luke","$800,000","$800,000",2,35,C,,2016,UFA,UFA,2024-25,Shawn Hunwick
+1273,"Salo, Robin","$800,000","$750,000",2,25,D,,2026,RFA +arb,UFA-Group6,2023-24,Lewis Gross
+1274,"Koivula, Otto","$800,000","$750,000",2,25,LW,,2026,RFA +arb,UFA-Group6,2023-24,Mark Gandler & Todd Diamond
+1275,"Steen, Oskar","$800,000","$800,000",2,26,C,,2025,RFA +arb,UFA-Group6,2023-24,Joakim Persson
+1276,"Schmidt, Nate","$800,000","$800,000",1,33,D,,2019,UFA,UFA,2024-25,Matt Keator
+1277,"Jankowski, Mark","$800,000","$775,000",2,29,C,,2022,UFA,UFA,2025-26,Wade Arnott
+1278,"Smith, Givani","$800,000","$800,000",2,26,RW,,2025,UFA no QO,UFA,2024-25,Eustace King
+1279,"Bonino, Nick","$800,000","$800,000",1,36,C,,2015,UFA,UFA,2023-24,Peter Fish
+1280,"Heinola, Ville","$800,000","$775,000",2,23,D,,2028,RFA,RFA +arb,2025-26,Allain Roy
+1281,"Chaffee, Mitchell","$800,000","$800,000",2,26,RW,,2025,UFA-Group6 +arb,UFA,2025-26,Donald Meehan
+1282,"Giordano, Mark","$800,000","$800,000",2,40,D,,2011,UFA,UFA,2023-24,Ritchie Winter
+1283,"Tucker, Tyler","$800,000","$800,000",2,24,D,,2027,RFA,UFA-Group6,2024-25,Ryan Barnes
+1284,"Clarke, Graeme","$800,000","$800,000",1,23,RW,,2028,RFA,RFA,2024-25,Randy Robitaille
+1285,"Wotherspoon, Parker","$800,000","$800,000",1,26,D,,2025,UFA-Group6 +arb,UFA,2024-25,Kevin Epp
+1286,"Carlsson, Lucas","$800,000","$800,000",2,27,D,,2025,UFA-Group6,UFA,2025-26,Peter Wallen
+1287,"de Haan, Calvin","$800,000","$800,000",1,33,D,,2018,UFA,UFA,2024-25,Andy Scott
+1288,"Johnsson, Andreas","$800,000","$800,000",1,29,LW,,2022,UFA,UFA,2023-24,Kevin Epp
+1289,"Kessel, Matthew","$800,000","$800,000",2,24,D,,2027,RFA +arb,RFA +arb,2025-26,Lewis Gross
+1290,"Vesey, Jimmy","$800,000","$800,000",2,31,LW,,2020,UFA,UFA,2024-25,Peter Fish
+1291,"Motte, Tyler","$800,000","$800,000",1,29,C,,2022,UFA,UFA,2024-25,Pat Brisson
+1292,"Eyssimont, Michael","$800,000","$800,000",2,27,C,,2024,UFA-Group6,UFA,2024-25,Kurt Overhardt
+1293,"Schuldt, Jimmy","$800,000","$800,000",1,29,D,,2022,UFA,UFA,2024-25,Ben Hankinson
+1294,"Poturalski, Andrew","$800,000","$800,000",2,30,C,,2021,UFA,UFA,2025-26,Brian & Scott Bartlett
+1295,"Dermott, Travis","$800,000","$800,000",1,27,D,,2024,UFA no QO,UFA,2023-24,David Gagner
+1296,"Puljujarvi, Jesse","$800,000","$825,000",2,26,RW,,2024,UFA no QO,UFA,2024-25,Markus Lehto
+1297,"Bolduc, Samuel","$800,000","$800,000",2,23,D,,2028,RFA,RFA +arb,2024-25,Philippe Lecavalier
+1298,"Stalock, Alex","$800,000","$800,000",1,37,G,,2015,UFA,UFA,2023-24,Ben Hankinson
+1299,"Anderson, Joey","$800,000","$800,000",2,26,RW,,2025,UFA no QO,UFA,2025-26,Jay Grossman
+1300,"Avon, Jon-Randall","$800,000","$775,000",3,21,C,,2031,,RFA,2025-26,Ian Pulver
+1301,"Holmberg, Pontus","$800,000","$825,000",2,25,C,,2026,RFA +arb,RFA +arb,2024-25,Michael Deutsch
+1302,"Bailey, Justin","$800,000","$800,000",1,29,RW,,2023,UFA,UFA,2024-25,Pat Brisson
+1303,"Brown, Patrick","$800,000","$800,000",2,32,C,,2019,UFA,UFA,2024-25,Ian Pulver
+1304,"Foote, Callan","$800,000","$800,000",1,25,D,,2026,UFA no QO,UFA no QO,2023-24,Kurt Overhardt
+1305,"Schwindt, Kai","$798,334","$845,000",3,20,LW,,2031,,RFA,2026-27,Patrick Morris
+1306,"Robins, Tristen","$797,500","$775,000",3,22,RW,,2029,,RFA,2024-25,Gerry Johannson
+1307,"Evangelista, Luke","$797,500","$775,000",3,22,RW,,2029,,RFA,2024-25,David Gagner
+1308,"Finley, Jack","$797,500","$775,000",3,21,C,,2030,,RFA,2024-25,
+1309,"Wisdom, Zayde","$797,500","$775,000",3,22,RW,,2030,,RFA,2024-25,Matt Federico
+1310,"Robertson, Nicholas","$796,667","$765,000",3,22,LW,,2029,,RFA,2023-24,Pat Brisson
+1311,"Donovan, Jorian","$796,666","$840,000",3,20,D,,2031,,RFA,2026-27,Patrick Morris
+1312,"Kuzmin, Dmitri","$795,556","$775,000",3,21,D,,2030,,RFA,2025-26,Daniel Milstein
+1313,"Thornton, Anson","$795,556","$775,000",3,21,G,,2030,,RFA,2025-26,J.P. Barry
+1314,"Driedger, Chris","$795,000","$795,000",1,30,G,,2021,UFA,UFA,2024-25,Gerry Johannson
+1315,"Ponomarev, Vasiliy","$795,000","$775,000",3,22,C,,2029,,RFA,2024-25,Daniel Milstein
+1316,"Prokop, Luke","$793,333","$775,000",3,22,D,,2029,,RFA,2024-25,Gerry Johannson
+1317,"Cormier, Lukas","$793,333","$775,000",3,22,D,,2029,,RFA,2024-25,Jason Harshaw
+1318,"Murray, Blake","$791,667","$780,000",3,23,C,,2029,,UFA no QO,2023-24,Ian Pulver
+1319,"Weinstein, Saige","$791,667","$800,000",3,19,D,,2032,,RFA,2026-27,Scott Norton
+1320,"Mendel, Griffin","$790,000","$790,000",1,25,D,,2026,,UFA no QO,2023-24,J.P. Barry
+1321,"Afanasyev, Egor","$789,167","$750,000",3,23,LW,,2028,,RFA,2023-24,Daniel Milstein
+1322,"Kniazev, Artemi","$789,167","$775,000",3,23,D,,2028,,UFA no QO,2023-24,Daniel Milstein
+1323,"Okhotyuk, Nikita","$789,167","$775,000",3,23,D,,2028,,RFA,2023-24,Daniel Milstein
+1324,"Hamaliuk, Dillon","$789,167","$775,000",3,23,LW,,2028,,UFA no QO,2023-24,Jeff Helperl
+1325,"Hanley, Joel","$787,500","$800,000",2,33,D,,2018,UFA,UFA,2024-25,Lewis Gross
+1326,"Brodzinski, Jonny","$787,500","$775,000",2,31,C,,2020,UFA,UFA,2025-26,Pat Brisson
+1327,"Harkins, Jansen","$787,500","$775,000",2,27,C,,2024,UFA,UFA,2025-26,Cameron Stewart
+1328,"Lycksell, Olle","$787,500","$800,000",2,24,C,,2027,RFA +arb,RFA +arb,2024-25,
+1329,"Lethemon, John","$787,500","$787,500",1,28,G,,2024,RFA +arb,UFA,2023-24,Keith McKittrick
+1330,"Stecher, Troy","$787,500","$775,000",2,30,D,,2021,UFA,UFA,2025-26,Eustace King
+1331,"Ginning, Adam","$787,500","$775,000",2,24,D,,2027,RFA +arb,RFA +arb,2025-26,Patrik Aronsson
+1332,"McIsaac, Jared","$787,500","$787,500",1,24,D,,2027,RFA,UFA no QO,2023-24,Pat Brisson
+1333,"Harpur, Ben","$787,500","$800,000",2,29,D,,2022,UFA,UFA,2024-25,David Gagner
+1334,"Newpower, Wyatt","$787,500","$787,500",1,26,D,,2025,RFA +arb,UFA-Group6,2023-24,
+1335,"Hirose, Akito","$787,500","$800,000",2,25,D,,2026,RFA,RFA +arb,2024-25,Allain Roy
+1336,"Jones, Hunter","$787,500","$787,500",1,23,G,,2028,RFA,UFA no QO,2023-24,Dave Maloney
+1337,"Lauko, Jakub","$787,500","$800,000",2,24,C,,2027,RFA,RFA +arb,2024-25,J.P. Barry
+1338,"Pitlick, Tyler","$787,500","$787,500",1,32,C,,2019,UFA,UFA,2023-24,Ben Hankinson
+1339,"Gauthier, Julien","$787,500","$800,000",2,26,RW,,2025,UFA no QO,UFA,2024-25,Allain Roy
+1340,"Lalonde, Nolan","$785,556","$820,000",3,20,G,,2031,,RFA,2026-27,Paul Capizzano
+1341,"Allison, Wade","$785,000","$750,000",2,26,RW,,2025,RFA +arb,UFA-Group6,2023-24,Thomas Lynn
+1342,"Kallionkieli, Marcus","$784,722","$750,000",3,23,LW,,2028,,RFA,2023-24,Jay Grossman
+1343,"Mutter, Navrin","$776,667","$785,000",3,23,LW,,2028,,RFA,2024-25,Andrew Maloney
+1344,"Watson, Austin","$776,665","$776,665",1,32,C,,2019,UFA,UFA,2023-24,Murray Koontz
+1345,"Roos, Filip","$775,000","$775,000",1,25,D,,2026,UFA no QO,RFA +arb,2024-25,Patrik Aronsson
+1346,"Sokolov, Egor","$775,000","$775,000",1,24,LW,,2027,RFA +arb,UFA-Group6,2024-25,Andy Scott
+1347,"Walker, Nathan","$775,000","$775,000",2,30,LW,,2021,UFA,UFA,2025-26,Allan Walsh
+1348,"Gignac, Brandon","$775,000","$775,000",2,26,C,,2025,UFA no QO,UFA,2024-25,Allain Roy
+1349,"Haman Aktell, Hardy","$775,000","$775,000",1,26,D,,2026,RFA +arb,RFA +arb,2024-25,Craig Oster
+1350,"Comtois, Max","$775,000","$775,000",1,25,LW,,2026,UFA no QO,UFA no QO,2023-24,Allain Roy
+1351,"Walsh, Reilly","$775,000","$775,000",1,25,D,,2026,UFA-Group6,UFA-Group6,2024-25,Matt Keator
+1352,"Regenda, Pavol","$775,000","$775,000",1,24,LW,,2027,RFA +arb,RFA +arb,2024-25,J.P. Barry
+1353,"Paquette-Bisson, Tobie","$775,000","$775,000",1,27,D,,2024,UFA no QO,UFA,2024-25,Allain Roy
+1354,"Mahura, Josh","$775,000","$775,000",1,26,D,,2025,UFA no QO,UFA,2024-25,Gregory Landry
+1355,"Crevier, Louis","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,Paul Corbeil
+1356,"Samorukov, Dmitri","$775,000","$775,000",1,25,D,,2026,UFA no QO,UFA-Group6,2023-24,Patrick Morris
+1357,"Meyers, Ben","$775,000","$775,000",1,25,C,,2026,UFA-Group6,UFA-Group6,2024-25,Daniel Plante
+1358,"Keyser, Kyle","$775,000","$775,000",1,25,G,,2026,RFA +arb,UFA-Group6,2023-24,Richard Evans
+1359,"Geertsen, Mason","$775,000","$775,000",2,29,LW,,2022,UFA,UFA,2024-25,Paul Capizzano
+1360,"Pinho, Brian","$775,000","$775,000",1,29,C,,2022,UFA,UFA,2023-24,Matt Keator
+1361,"Abruzzese, Nicholas","$775,000","$775,000",2,25,C,,2026,RFA,RFA +arb,2024-25,John Kofi Osei-Tutu
+1362,"Phillips, Isaak","$775,000","$775,000",1,22,D,,2029,RFA,RFA,2024-25,Paul Capizzano
+1363,"Pilon, Garrett","$775,000","$775,000",2,26,C,,2025,UFA-Group6 +arb,UFA,2025-26,David Kaye
+1364,"Stillman, Riley","$775,000","$775,000",1,26,D,,2025,UFA no QO,UFA,2024-25,Paul Capizzano
+1365,"Mitchell, Ian","$775,000","$775,000",1,25,D,,2026,RFA +arb,RFA +arb,2024-25,Gregory Landry
+1366,"Gleason, Ben","$775,000","$775,000",2,26,D,,2025,UFA-Group6 +arb,UFA,2024-25,Paul Capizzano
+1367,"Mayhew, Gerald","$775,000","$775,000",1,31,C,,2020,UFA,UFA,2023-24,Patrick Morris
+1368,"Limoges, Alex","$775,000","$775,000",1,26,C,,2025,RFA +arb,UFA,2024-25,Lewis Gross
+1369,"Skinner, Hunter","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,Ryan Barnes
+1370,"Imama, Bokondji","$775,000","$775,000",1,28,LW,,2024,UFA,UFA,2024-25,Allan Walsh
+1371,"Laberge, Samuel","$775,000","$775,000",1,27,C,,2024,UFA,UFA,2024-25,
+1372,"Ylonen, Jesse","$775,000","$775,000",1,24,RW,,2027,UFA no QO,RFA +arb,2024-25,Ian Pulver
+1373,"Thomas, Akil","$775,000","$775,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Eustace King
+1374,"MacLean, Kyle","$775,000","$775,000",3,25,C,,2026,RFA +arb,UFA,2026-27,Michael Curran
+1375,"Hellberg, Magnus","$775,000","$775,000",1,33,G,,2018,UFA,UFA,2024-25,Kurt Overhardt
+1376,"Lavoie, Raphael","$775,000","$775,000",1,23,C,,2028,RFA +arb,RFA +arb,2024-25,Philippe Lecavalier
+1377,"Murray, Brett","$775,000","$775,000",1,26,LW,,2026,UFA-Group6,UFA-Group6,2024-25,David Gagner
+1378,"Woo, Jett","$775,000","$775,000",1,24,D,,2028,RFA +arb,RFA +arb,2024-25,Eustace King
+1379,"Connauton, Kevin","$775,000","$775,000",2,34,D,,2017,UFA,UFA,2025-26,Jarrett Bousquet
+1380,"Brazeau, Justin","$775,000","$775,000",2,26,RW,,2025,,UFA,2024-25,John Walters
+1381,"Sillinger, Owen","$775,000","$775,000",1,26,C,,2025,,UFA,2024-25,
+1382,"Fasching, Hudson","$775,000","$775,000",2,29,RW,,2023,UFA,UFA,2024-25,Brian & Scott Bartlett
+1383,"Middleton, Keaton","$775,000","$775,000",2,26,D,,2025,UFA-Group6,UFA,2024-25,Joseph Resnick
+1384,"Reinhardt, Cole","$775,000","$775,000",1,24,LW,,2027,RFA +arb,UFA-Group6,2024-25,Scott Norton
+1385,"Entwistle, Mackenzie","$775,000","$775,000",1,25,RW,,2027,UFA no QO,RFA +arb,2024-25,Paul Capizzano
+1386,"Klapka, Adam","$775,000","$775,000",1,23,RW,,2028,RFA +arb,RFA +arb,2024-25,Gerry Johannson
+1387,"Christiansen, Jake","$775,000","$775,000",1,24,D,,2027,RFA +arb,UFA-Group6,2024-25,
+1388,"Barre-Boulet, Alex","$775,000","$775,000",1,27,C,,2024,UFA,UFA,2024-25,Paul Corbeil
+1389,"MacEachern, MacKenzie","$775,000","$775,000",2,30,LW,,2021,UFA,UFA,2024-25,Lewis Gross
+1390,"Dello, Tory","$775,000","$775,000",1,27,D,,2024,,UFA,2024-25,Allain Roy
+1391,"Butcher, Will","$775,000","$775,000",1,29,D,,2022,UFA,UFA,2023-24,Brian & Scott Bartlett
+1392,"Cormier, Evan","$775,000","$775,000",1,26,G,,2025,UFA,UFA-Group6,2023-24,Allain Roy
+1393,"Agozzino, Andrew","$775,000","$775,000",2,33,LW,,2018,UFA,UFA,2025-26,Ian Pulver
+1394,"Patera, Jiri","$775,000","$775,000",2,25,G,,2026,UFA-Group6 +arb,UFA,2025-26,Joe Caligiuri
+1395,"Jobst, Mason","$775,000","$775,000",1,30,C,,2021,UFA,UFA,2024-25,Lewis Gross
+1396,"Lundmark, Simon","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,Kurt Overhardt
+1397,"Megna, Jaycob","$775,000","$775,000",1,31,D,,2020,UFA,UFA,2024-25,Daniel Plante
+1398,"Rousek, Lukas","$775,000","$775,000",2,25,RW,,2026,RFA +arb,RFA +arb,2024-25,Daniel Milstein
+1399,"Hunt, Dryden","$775,000","$775,000",2,28,LW,,2023,UFA,UFA,2024-25,Allain Roy
+1400,"Prosvetov, Ivan","$775,000","$775,000",1,25,G,,2026,RFA +arb,UFA-Group6,2023-24,Craig Oster
+1401,"Reichel, Kristian","$775,000","$775,000",2,26,C,,2025,RFA +arb,UFA-Group6,2023-24,
+1402,"Huntington, Jimmy","$775,000","$775,000",1,25,C,,2026,UFA no QO,UFA-Group6,2024-25,Paul Corbeil
+1403,"Polin, Jason","$775,000","$775,000",1,25,RW,,2026,RFA +arb,RFA +arb,2024-25,Richard Evans
+1404,"Johnstone, Marc","$775,000","$775,000",2,28,RW,,2023,,UFA,2024-25,John Kofi Osei-Tutu
+1405,"Abate, Joey","$775,000","$775,000",1,25,LW,,2026,,UFA no QO,2023-24,
+1406,"Jonsson-Fjallby, Axel","$775,000","$775,000",2,26,LW,,2025,UFA-Group6 +arb,UFA,2024-25,J.P. Barry
+1407,"Dunne, Joshua","$775,000","$775,000",2,25,C,,2026,UFA-Group6,UFA,2025-26,Todd Reynolds
+1408,"Barron, Travis","$775,000","$775,000",1,26,LW,,2026,UFA-Group6,UFA-Group6,2024-25,Ryan Barnes
+1409,"Smith, Nathan","$775,000","$775,000",1,25,C,,2026,UFA-Group6 +arb,UFA-Group6,2024-25,Richard Evans
+1410,"Campbell, Jack","$775,000","$775,000",1,32,G,,2019,UFA,UFA,2024-25,Kurt Overhardt
+1411,"Lucchini, Jake","$775,000","$775,000",2,29,C,,2022,UFA,UFA,2025-26,Michael O'Rafferty
+1412,"Kiviranta, Joel","$775,000","$775,000",1,28,LW,,2023,UFA,UFA,2024-25,Mika Rautakallio
+1413,"Johansson, Albert","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,
+1414,"Maillet, Philippe","$775,000","$775,000",1,31,C,,2020,UFA,UFA,2023-24,Allain Roy
+1415,"Oesterle, Jordan","$775,000","$775,000",2,32,D,,2019,UFA,UFA,2025-26,Matt Federico
+1416,"Juulsen, Noah","$775,000","$775,000",2,27,D,,2024,UFA-Group6 +arb,UFA,2024-25,Jason Davidson
+1417,"Caggiula, Drake","$775,000","$775,000",2,30,LW,,2021,UFA,UFA,2024-25,Justin Duberman
+1418,"Carcone, Michael","$775,000","$775,000",2,28,C,,2023,UFA,UFA,2024-25,Murray Koontz
+1419,"Jenik, Jan","$775,000","$775,000",1,23,C,,2028,RFA +arb,RFA +arb,2024-25,Allan Walsh
+1420,"Sutter, Riley","$775,000","$775,000",1,24,RW,,2027,RFA +arb,UFA-Group6,2024-25,J.P. Barry
+1421,"Bellemare, Pierre-Edouard","$775,000","$775,000",1,39,C,,2012,UFA,UFA,2023-24,Kevin Magnuson
+1422,"Gawanke, Leon","$775,000","$775,000",1,25,D,,2026,RFA +arb,UFA-Group6,2023-24,Claude Lemieux
+1423,"Madden, Tyler","$775,000","$775,000",1,24,C,,2027,UFA no QO,UFA-Group6,2024-25,Pete Rutili
+1424,"Henman, Luke","$775,000","$775,000",1,24,C,,2027,RFA +arb,UFA-Group6,2024-25,Chad Levitt
+1425,"Keeper, Brady","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2023-24,Dean Grillo
+1426,"Hinostroza, Vinnie","$775,000","$775,000",2,30,RW,,2021,UFA,UFA,2025-26,Pete Rutili
+1427,"Stephens, Mitchell","$775,000","$775,000",2,27,C,,2024,UFA,UFA,2025-26,John Walters
+1428,"Kiersted, Matt","$775,000","$775,000",1,26,D,,2025,UFA-Group6 +arb,UFA,2024-25,Neil Sheehy
+1429,"Shaw, Mason","$775,000","$775,000",1,25,C,,2026,UFA no QO,RFA +arb,2024-25,Kevin Epp
+1430,"Aho, Sebastian","$775,000","$775,000",2,28,D,,2023,UFA,UFA,2025-26,Claude Lemieux
+1431,"Skarek, Jakub","$775,000","$775,000",2,24,G,,2027,RFA,RFA +arb,2024-25,Darren Ferris
+1432,"Hutton, Grant","$775,000","$800,000",3,29,D,,2023,UFA,UFA,2024-25,Allain Roy
+1433,"Smallman, Spencer","$775,000","$775,000",1,27,RW,,2024,UFA,UFA,2024-25,Clark Maclean
+1434,"Lajoie, Maxime","$775,000","$775,000",1,26,D,,2025,UFA no QO,UFA,2024-25,Craig Oster
+1435,"Larsson, Filip","$775,000","$775,000",2,26,G,,2025,UFA no QO,UFA,2025-26,Kurt Overhardt
+1436,"Reedy, Scott","$775,000","$775,000",1,25,C,,2026,RFA +arb,UFA-Group6,2023-24,Pat Brisson
+1437,"Back, Oskar","$775,000","$775,000",1,24,C,,2027,RFA +arb,UFA-Group6,2024-25,J.P. Barry
+1438,"Hofer, Joel","$775,000","$775,000",2,24,G,,2028,RFA,RFA +arb,2024-25,Gerry Johannson
+1439,"Murray, Matthew","$775,000","$775,000",1,26,G,,2025,UFA no QO,UFA,2024-25,
+1440,"Robertson, Matthew","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,J.P. Barry
+1441,"Ryan, Joakim","$775,000","$775,000",1,31,D,,2020,UFA,UFA,2024-25,Paul Theofanous
+1442,"Fleury, Haydn","$775,000","$775,000",1,28,D,,2024,UFA,UFA,2024-25,Gerry Johannson
+1443,"Gettinger, Timothy","$775,000","$775,000",1,26,LW,,2025,UFA-Group6 +arb,UFA,2024-25,Ryan Barnes
+1444,"Capobianco, Kyle","$775,000","$775,000",2,27,D,,2025,UFA-Group6,UFA,2025-26,Paul Capizzano
+1445,"Priskie, Chase","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2024-25,Lewis Gross
+1446,"Malott, Jeff","$775,000","$775,000",2,28,LW,,2024,UFA,UFA,2025-26,Richard Evans
+1447,"Hoefenmayer, Noel","$775,000","$775,000",1,25,D,,2026,RFA +arb,RFA +arb,2024-25,Allain Roy
+1448,"McGing, Hugh","$775,000","$775,000",2,26,LW,,2026,UFA-Group6 +arb,UFA,2025-26,Richard Evans
+1449,"Pettersen, Emilio","$775,000","$775,000",1,24,C,,2027,RFA +arb,UFA-Group6,2024-25,Shawn Hunwick
+1450,"Ruhwedel, Chad","$775,000","$775,000",1,34,D,,2017,UFA,UFA,2024-25,Jordan Neumann & George Bazos
+1451,"Legare, Nathan","$775,000","$775,000",1,23,RW,,2028,RFA,RFA,2024-25,Mathieu Curadeau
+1452,"Puustinen, Valtteri","$775,000","$775,000",2,25,RW,,2026,UFA-Group6,UFA,2025-26,Markus Lehto
+1453,"Jost, Tyson","$775,000","$775,000",1,26,C,,2024,UFA,UFA,2024-25,J.P. Barry
+1454,"Olofsson, Fredrik","$775,000","$775,000",1,28,LW,,2023,UFA,UFA,2023-24,Claude Lemieux
+1455,"Bayreuther, Gavin","$775,000","$775,000",1,30,D,,2021,UFA,UFA,2023-24,Brian & Scott Bartlett
+1456,"Kemp, Philip","$775,000","$775,000",2,25,D,,2026,RFA +arb,RFA +arb,2024-25,Jordan Neumann & George Bazos
+1457,"Callahan, Michael","$775,000","$775,000",1,24,D,,2027,RFA +arb,RFA +arb,2024-25,
+1458,"Kinkaid, Keith","$775,000","$775,000",1,35,G,,2017,UFA,UFA,2023-24,Allain Roy
+1459,"Johansson, Jonas","$775,000","$775,000",2,28,G,,2023,UFA,UFA,2024-25,Matt Keator
+1460,"Andersson, Lias","$775,000","$775,000",1,25,C,,2025,UFA no QO,UFA no QO,2023-24,Jarrett Bousquet
+1461,"Brouillard, Nikolas","$775,000","$775,000",1,29,D,,2022,UFA,UFA,2024-25,Allain Roy
+1462,"Hollowell, Mac","$775,000","$775,000",1,25,D,,2026,UFA-Group6 +arb,UFA-Group6,2024-25,Daniel Milstein
+1463,"Petrovic, Alexander","$775,000","$775,000",2,32,D,,2019,UFA,UFA,2025-26,Drew Shore
+1464,"Hughes, Connor","$775,000","$775,000",1,27,G,,2024,,UFA,2024-25,
+1465,"Lemieux, Brendan","$775,000","$775,000",1,28,LW,,2023,UFA,UFA,2024-25,Claude Lemieux
+1466,"Schmelzer, Ryan","$775,000","$775,000",2,31,C,,2021,,UFA,2025-26,Michael Curran
+1467,"Mcgregor, Ryan","$775,000","$775,000",1,25,C,,2026,RFA +arb,UFA-Group6,2023-24,
+1468,"Lyle, Brady","$775,000","$775,000",1,25,D,,2026,UFA no QO,UFA-Group6,2023-24,Ian Pulver
+1469,"Hamblin, James","$775,000","$775,000",2,25,LW,,2026,RFA +arb,UFA,2025-26,Rick Valette
+1470,"Asplund, Rasmus","$775,000","$775,000",1,26,C,,2025,UFA no QO,UFA,2024-25,Claude Lemieux
+1471,"DeSimone, Nick","$775,000","$775,000",1,29,D,,2022,UFA,UFA,2024-25,Allan Walsh
+1472,"Kral, Filip","$775,000","$775,000",1,24,D,,2027,UFA no QO,RFA,2024-25,Craig Oster
+1473,"Wagner, Chris","$775,000","$775,000",1,33,RW,,2018,UFA,UFA,2024-25,Justin Duberman
+1474,"McCormick, Max","$775,000","$775,000",2,32,LW,,2019,UFA,UFA,2025-26,Ritchie Winter
+1475,"Ludvig, John","$775,000","$775,000",2,24,D,,2028,RFA,RFA +arb,2024-25,Gerry Johannson
+1476,"Guenette, Maxence","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,Dom Deblois
+1477,"Belpedio, Louie","$775,000","$775,000",2,28,D,,2023,UFA,UFA,2024-25,Patrick Morris
+1478,"Guttman, Cole","$775,000","$775,000",1,25,C,,2026,RFA +arb,RFA +arb,2024-25,Pat Brisson
+1479,"Belzile, Alex","$775,000","$775,000",2,32,RW,,2019,UFA,UFA,2024-25,Allain Roy
+1480,"Crookshank, Angus","$775,000","$775,000",1,24,LW,,2027,RFA +arb,RFA +arb,2024-25,Ross Gurney
+1481,"McWard, Cole","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,Allain Roy
+1482,"Jacobs, Josh","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2023-24,Brian & Scott Bartlett
+1483,"Friedman, Mark","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2024-25,Ian Pulver
+1484,"Cholowski, Dennis","$775,000","$775,000",1,26,D,,2025,RFA +arb,UFA,2024-25,Allain Roy
+1485,"MacEwen, Zack","$775,000","$775,000",3,28,C,,2024,UFA no QO,UFA,2025-26,Doug Shepherd
+1486,"Weissbach, Linus","$775,000","$775,000",1,26,LW,,2025,RFA +arb,UFA-Group6,2023-24,Matt Keator
+1487,"Reinke, Mitch","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2023-24,Ben Hankinson
+1488,"Pysyk, Mark","$775,000","$775,000",1,32,D,,2019,UFA,UFA,2023-24,Craig Oster
+1489,"Mandolese, Kevin","$775,000","$775,000",1,23,G,,2028,RFA +arb,RFA +arb,2024-25,Philippe Lecavalier
+1490,"Morelli, Mason","$775,000","$775,000",2,28,C,,2023,,UFA,2024-25,Allain Roy
+1491,"Nylander, Alexander","$775,000","$775,000",1,26,C,,2025,RFA +arb,UFA no QO,2023-24,Lewis Gross
+1492,"Lagesson, William","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2024-25,Allan Walsh
+1493,"Halonen, Brian","$775,000","$775,000",2,25,LW,,2026,RFA +arb,UFA,2025-26,Jeff Helperl
+1494,"Dowling, Justin","$775,000","$775,000",2,33,C,,2018,UFA,UFA,2024-25,Allain Roy
+1495,"Frk, Martin","$775,000","$775,000",1,30,RW,,2021,UFA,UFA,2024-25,Allan Walsh
+1496,"Olofsson, Gustav","$775,000","$775,000",2,29,D,,2022,UFA,UFA,2024-25,Ben Hankinson
+1497,"Sandstrom, Felix","$775,000","$775,000",1,27,G,,2024,UFA,UFA,2024-25,
+1498,"Gawdin, Glenn","$775,000","$775,000",2,27,C,,2024,UFA,UFA,2025-26,Dave Cowan
+1499,"Chartier, Rourke","$775,000","$775,000",1,28,C,,2023,UFA,UFA,2023-24,Timothy Hodgson
+1500,"Gambrell, Dylan","$775,000","$775,000",1,27,C,,2024,UFA,UFA,2024-25,Kurt Overhardt
+1501,"Sweezey, Billy","$775,000","$775,000",2,28,D,,2023,UFA,UFA,2025-26,Peter Fish
+1502,"Smith, Ty","$775,000","$775,000",1,24,D,,2027,RFA +arb,RFA +arb,2024-25,Gerry Johannson
+1503,"Leonard, John","$775,000","$775,000",1,26,LW,,2026,UFA no QO,UFA-Group6,2023-24,Matt Keator
+1504,"Bjornfot, Tobias","$775,000","$775,000",2,23,D,,2028,RFA,RFA +arb,2024-25,Joakim Persson
+1505,"Gaunce, Brendan","$775,000","$775,000",2,30,C,,2021,UFA,UFA,2025-26,Paul Capizzano
+1506,"Suzuki, Ryan","$775,000","$775,000",1,23,C,,2028,RFA,RFA,2024-25,David Gagner
+1507,"Zohorna, Radim","$775,000","$775,000",1,28,C,,2023,UFA,UFA,2023-24,Craig Oster
+1508,"Andonovski, Corey","$775,000","$775,000",1,25,RW,,2026,RFA +arb,RFA +arb,2024-25,Joseph Resnick
+1509,"Kampfer, Steven","$775,000","$775,000",1,35,D,,2016,UFA,UFA,2023-24,Shawn Hunwick
+1510,"Condotta, Lucas","$775,000","$775,000",2,26,C,,2025,RFA +arb,UFA,2024-25,Jordan Neumann & George Bazos
+1511,"Hutchinson, Michael","$775,000","$775,000",1,34,G,,2017,UFA,UFA,2023-24,Andy Scott
+1512,"Blumel, Matej","$775,000","$775,000",1,24,LW,,2027,RFA +arb,RFA +arb,2024-25,J.P. Barry
+1513,"Cecconi, Joseph","$775,000","$775,000",1,27,D,,2024,UFA,UFA,2024-25,Richard Evans
+1514,"Clague, Kale","$775,000","$775,000",1,26,D,,2025,RFA +arb,UFA,2024-25,Judd Moldaver
+1515,"Lockwood, William","$775,000","$775,000",2,26,RW,,2025,UFA-Group6 +arb,UFA,2024-25,Shawn Hunwick
+1516,"McLaughlin, Marc","$775,000","$775,000",1,25,C,,2027,RFA +arb,UFA-Group6,2024-25,Matt Keator
+1517,"Martin, Spencer","$775,000","$775,000",1,29,G,,2022,UFA,UFA,2024-25,Paul Capizzano
+1518,"Rosburg, Jerad","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2023-24,Brian & Scott Bartlett
+1519,"Hicketts, Joe","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2024-25,Allain Roy
+1520,"Suter, Ryan","$775,000","$775,000",1,39,D,,2012,UFA,UFA,2024-25,Neil Sheehy
+1521,"Johnson, Jack","$775,000","$775,000",1,37,D,,2014,UFA,UFA,2024-25,Pat Brisson
+1522,"Tokarski, Dustin","$775,000","$775,000",1,34,G,,2017,UFA,UFA,2023-24,Jerry Buckley
+1523,"Ward, Taylor","$775,000","$775,000",1,26,RW,,2025,RFA +arb,UFA,2024-25,Justin Duberman
+1524,"Di Giuseppe, Phillip","$775,000","$775,000",2,30,LW,,2021,UFA,UFA,2024-25,Paul Capizzano
+1525,"Hayden, John","$775,000","$775,000",1,29,C,,2022,UFA,UFA,2024-25,Pat Brisson
+1526,"Mackey, Connor","$775,000","$775,000",2,27,D,,2024,UFA,UFA,2025-26,Kevin Magnuson
+1527,"Wolanin, Christian","$775,000","$775,000",2,29,D,,2022,UFA,UFA,2024-25,Pat Brisson
+1528,"Gaudette, Adam","$775,000","$775,000",1,27,C,,2024,UFA,UFA,2024-25,Matt Keator
+1529,"Bowers, Shane","$775,000","$775,000",2,25,C,,2027,RFA +arb,RFA +arb,2025-26,Judd Moldaver
+1530,"Hodgson, Hayden","$775,000","$775,000",1,28,RW,,2023,UFA,UFA,2024-25,Patrick Morris
+1531,"Beaudin, Nicolas","$775,000","$775,000",1,24,D,,2027,RFA,UFA,2023-24,Pat Brisson
+1532,"Blankenburg, Nick","$775,000","$775,000",2,26,D,,2025,UFA-Group6,UFA,2025-26,Blake Robson
+1533,"Fix-Wolansky, Trey","$775,000","$775,000",2,25,RW,,2026,RFA +arb,RFA +arb,2024-25,Michael Kaye
+1534,"True, Alexander","$775,000","$775,000",1,27,C,,2025,UFA-Group6 +arb,UFA-Group6,2023-24,Claude Lemieux
+1535,"Santini, Steven","$775,000","$775,000",1,29,D,,2022,UFA,UFA,2024-25,Jordan Neumann & George Bazos
+1536,"Brisebois, Guillaume","$775,000","$775,000",2,27,D,,2025,UFA-Group6,UFA,2024-25,Pat Brisson
+1537,"Hogberg, Marcus","$775,000","$775,000",2,29,G,,2022,UFA no QO,UFA,2025-26,Joakim Persson
+1538,"Richards, Justin","$775,000","$775,000",1,26,C,,2025,UFA-Group6 +arb,UFA-Group6,2023-24,Ben Hankinson
+1539,"Dell, Aaron","$775,000","$775,000",1,35,G,,2016,UFA,UFA,2023-24,Ray (Raynold) Petkau
+1540,"Mermis, Dakota","$775,000","$775,000",1,30,D,,2021,UFA,UFA,2024-25,Kurt Overhardt
+1541,"White, Colin","$775,000","$775,000",1,27,C,,2024,UFA no QO,UFA,2023-24,Philippe Lecavalier
+1542,"Bjork, Marcus","$775,000","$775,000",1,26,D,,2025,RFA +arb,UFA no QO,2023-24,Lewis Gross
+1543,"Sautner, Ashton","$775,000","$775,000",1,30,D,,2021,UFA,UFA,2023-24,Jeff Helperl
+1544,"Pederson, Lane","$775,000","$775,000",2,27,C,,2025,UFA-Group6 +arb,UFA,2024-25,Jason Davidson
+1545,"Day, Sean","$775,000","$775,000",1,26,D,,2025,UFA-Group6,UFA-Group6,2023-24,Patrick Sullivan
+1546,"Studnicka, Jack","$775,000","$775,000",1,25,C,,2026,UFA no QO,RFA +arb,2024-25,Ryan Barnes
+1547,"Crotty, Cameron","$775,000","$775,000",1,25,D,,2026,UFA-Group6 +arb,UFA-Group6,2024-25,Murray Koontz
+1548,"Aamodt, Wyatt","$775,000","$775,000",1,26,D,,2025,RFA +arb,UFA,2024-25,Ian Pulver
+1549,"Rodrigue, Olivier","$775,000","$775,000",1,24,G,,2028,RFA +arb,RFA +arb,2024-25,Pat Brisson
+1550,"Carrick, Connor","$775,000","$775,000",1,30,D,,2021,UFA,UFA,2024-25,Patrick Morris
+1551,"Hughes, Cameron","$775,000","$775,000",1,27,C,,2024,UFA,UFA,2024-25,Gerry Johannson
+1552,"Fitzgerald, Casey","$775,000","$775,000",2,27,D,,2024,UFA,UFA,2025-26,Craig Oster
+1553,"Moverare, Jacob","$775,000","$775,000",2,25,D,,2026,UFA-Group6 +arb,UFA,2025-26,Kevin Epp
+1554,"Gadjovich, Jonah","$775,000","$775,000",2,25,LW,,2026,RFA +arb,UFA,2025-26,Jason Harshaw
+1555,"Bongiovanni, Wyatt","$775,000","$775,000",1,25,C,,2027,RFA +arb,RFA +arb,2024-25,Brian & Scott Bartlett
+1556,"Kuhlman, Karson","$775,000","$775,000",1,28,C,,2023,UFA,UFA,2023-24,Thomas Lynn
+1557,"Blidh, Anton","$775,000","$775,000",2,29,LW,,2022,UFA,UFA,2024-25,Claude Lemieux
+1558,"Karlstrom, Fredrik","$775,000","$775,000",1,26,C,,2025,UFA-Group6,UFA,2024-25,Markus Lehto
+1559,"Gardner, Rhett","$775,000","$775,000",2,28,C,,2023,UFA,UFA,2024-25,David Kaye
+1560,"Kelemen, Milos","$775,000","$775,000",1,25,LW,,2027,RFA +arb,RFA +arb,2024-25,J.P. Barry
+1561,"Shore, Devin","$775,000","$775,000",1,30,C,,2022,UFA,UFA,2024-25,Todd Reynolds
+1562,"Giles, Patrick","$775,000","$775,000",2,24,RW,,2027,RFA +arb,RFA +arb,2025-26,Shawn Hunwick
+1563,"Sogaard, Mads","$775,000","$775,000",2,23,G,,2028,RFA,RFA,2025-26,Claude Lemieux
+1564,"Kallgren, Erik","$775,000","$775,000",1,27,G,,2024,UFA-Group6 +arb,UFA,2023-24,Matt Keator
+1565,"McIntyre, Zane","$775,000","$775,000",1,32,G,,2020,UFA,UFA,2023-24,Ray (Raynold) Petkau
+1566,"Myers, Philippe","$775,000","$775,000",1,27,D,,2024,UFA,UFA,2024-25,Allain Roy
+1567,"Anderson-Dolan, Jaret","$775,000","$775,000",2,24,C,,2027,UFA no QO,RFA +arb,2025-26,Dave Cowan
+1568,"Dipietro, Michael","$775,000","$775,000",1,25,G,,2025,UFA-Group6 +arb,UFA,2024-25,Darren Ferris
+1569,"Aspirot, Jonathan","$775,000","$775,000",1,25,D,,2026,UFA no QO,UFA-Group6,2024-25,
+1570,"Khaira, Jujhar","$775,000","$775,000",1,30,LW,,2022,UFA,UFA,2023-24,Kurt Overhardt
+1571,"Dineen, Cam","$775,000","$775,000",2,26,D,,2025,UFA-Group6 +arb,UFA,2025-26,Michael Curran
+1572,"Mete, Victor","$775,000","$775,000",1,26,D,,2024,UFA no QO,UFA no QO,2023-24,Darren Ferris
+1573,"Gagner, Sam","$775,000","$775,000",1,35,C,,2014,UFA,UFA,2023-24,Judd Moldaver
+1574,"Groulx, Benoit-Olivier","$775,000","$775,000",1,24,C,,2027,UFA no QO,UFA-Group6,2024-25,Pat Brisson
+1575,"Viel, Jeffrey","$775,000","$775,000",2,27,LW,,2024,UFA,UFA,2025-26,Allain Roy
+1576,"Carrick, Trevor","$775,000","$775,000",1,30,D,,2022,UFA,UFA,2023-24,Todd Reynolds
+1577,"Gatcomb, Marc","$775,000","$775,000",1,25,C,,2027,,RFA,2024-25,
+1578,"Maltsev, Mikhail","$775,000","$775,000",1,26,C,,2025,UFA-Group6 +arb,UFA-Group6,2023-24,Paul Theofanous
+1579,"Villalta, Matt","$775,000","$775,000",2,25,G,,2026,UFA-Group6 +arb,UFA,2025-26,Andy Scott
+1580,"Fortier, Gabriel","$775,000","$775,000",1,24,LW,,2027,RFA +arb,UFA-Group6,2024-25,Erik Lupien
+1581,"Pachal, Brayden","$775,000","$775,000",2,24,D,,2027,RFA +arb,RFA +arb,2024-25,Ross Gurney
+1582,"Coghlan, Dylan","$775,000","$775,000",1,26,D,,2025,RFA +arb,UFA,2024-25,Craig Oster
+1583,"Rees, Jamieson","$775,000","$775,000",1,23,C,,2028,RFA,RFA,2024-25,Wade Arnott
+1584,"Toninato, Dominic","$775,000","$775,000",2,30,C,,2021,UFA,UFA,2024-25,Neil Sheehy
+1585,"Seney, Brett","$775,000","$775,000",1,28,LW,,2023,UFA,UFA,2024-25,Pete Rutili
+1586,"Sabourin, Scott","$775,000","$775,000",2,32,RW,,2020,UFA,UFA,2024-25,Patrick Morris
+1587,"Mattinen, Nicolas","$775,000","$775,000",1,26,D,,2025,,UFA,2024-25,
+1588,"St. Ivany, Jack","$775,000","$775,000",3,25,D,,2027,RFA +arb,UFA,2026-27,Pat Brisson
+1589,"Frank, Ethen","$775,000","$775,000",2,26,C,,2025,RFA +arb,UFA,2025-26,Matt Federico
+1590,"Kolyachonok, Vladislav","$775,000","$775,000",2,23,D,,2028,RFA,RFA,2025-26,Daniel Milstein
+1591,"Megna, Jayson","$775,000","$775,000",1,34,C,,2017,UFA,UFA,2023-24,Daniel Plante
+1592,"Caamano, Nicholas","$775,000","$775,000",1,25,LW,,2026,RFA +arb,UFA-Group6,2023-24,Robert Hooper
+1593,"Abols, Rodrigo","$775,000","$775,000",1,28,C,,2023,UFA,UFA,2024-25,Lewis Gross
+1594,"Holm, Arvid","$775,000","$775,000",1,25,G,,2026,UFA no QO,UFA-Group6,2023-24,Matt Keator
+1595,"Karlsson, Linus","$775,000","$775,000",1,24,C,,2027,RFA +arb,RFA +arb,2024-25,
+1596,"McIlrath, Dylan","$775,000","$775,000",2,32,D,,2019,UFA,UFA,2024-25,Craig Oster
+1597,"Johnson, Reese","$775,000","$775,000",1,26,C,,2026,UFA no QO,RFA +arb,2024-25,Michael O'Rafferty
+1598,"Livingstone, Jake","$775,000","$775,000",2,25,D,,2026,RFA,RFA +arb,2024-25,Richard Evans
+1599,"Grigals, Gustav","$775,000","$775,000",1,26,G,,2026,,UFA no QO,2023-24,
+1600,"Carpenter, Ryan","$775,000","$775,000",1,33,C,,2018,UFA,UFA,2023-24,Daniel Plante
+1601,"Davies, Jeremy","$775,000","$775,000",1,27,D,,2024,UFA,UFA,2024-25,Ian Pulver
+1602,"Bemstrom, Emil","$775,000","$775,000",1,25,C,,2026,UFA no QO +arb,RFA,2024-25,Claude Lemieux
+1603,"Erne, Adam","$775,000","$775,000",1,29,LW,,2022,UFA,UFA,2023-24,Ritchie Winter
+1604,"Tynan, TJ","$775,000","$775,000",1,32,C,,2019,UFA,UFA,2024-25,Pete Rutili
+1605,"Larsson, Jacob","$775,000","$775,000",1,27,D,,2024,UFA no QO,UFA,2023-24,Kevin Epp
+1606,"Raska, Adam","$775,000","$775,000",1,22,RW,,2029,RFA,RFA,2024-25,Allan Walsh
+1607,"Clurman, Nathan","$775,000","$775,000",1,26,D,,2025,UFA-Group6 +arb,UFA,2024-25,Matt Federico
+1608,"Peterson, Jacob","$775,000","$775,000",1,25,C,,2027,RFA +arb,UFA no QO,2023-24,Craig Oster
+1609,"Regula, Alec","$775,000","$775,000",1,24,D,,2028,RFA +arb,RFA +arb,2024-25,Brian & Scott Bartlett
+1610,"Gruden, Jonathan","$775,000","$775,000",2,24,LW,,2027,RFA +arb,RFA +arb,2025-26,Pat Brisson
+1611,"Philp, Luke","$775,000","$775,000",1,28,C,,2023,UFA,UFA,2024-25,Allain Roy
+1612,"Nosek, Tomas","$775,000","$775,000",1,31,LW,,2020,UFA,UFA,2024-25,J.P. Barry
+1613,"Hatakka, Santeri","$775,000","$775,000",1,23,D,,2028,RFA,RFA,2024-25,J.P. Barry
+1614,"McCartney, Ben","$775,000","$775,000",1,23,LW,,2029,RFA,RFA,2024-25,Allain Roy
+1615,"Hardman, Mike","$775,000","$775,000",2,25,C,,2026,UFA-Group6,UFA,2025-26,Jerry Buckley
+1616,"Rathbone, Jack","$775,000","$775,000",1,25,D,,2026,UFA-Group6 +arb,UFA-Group6,2024-25,Jerry Buckley
+1617,"Weatherby, Jasper","$775,000","$775,000",1,26,C,,2025,UFA no QO,UFA-Group6,2023-24,Pat Brisson
+1618,"Snively, Joe","$775,000","$775,000",1,28,LW,,2023,UFA,UFA,2024-25,Pete Rutili
+1619,"Turcotte, Alex","$775,000","$775,000",3,23,C,,2028,RFA,RFA,2026-27,Pat Brisson
+1620,"Highmore, Matthew","$775,000","$775,000",1,28,C,,2023,UFA,UFA,2024-25,Allan Walsh
+1621,"Stevens, Nolan","$775,000","$775,000",1,28,C,,2024,UFA,UFA,2023-24,Brian & Scott Bartlett
+1622,"Phillips, Matthew","$775,000","$775,000",1,26,RW,,2025,UFA-Group6 +arb,UFA,2024-25,Allain Roy
+1623,"Studenic, Marian","$775,000","$775,000",1,25,LW,,2026,UFA no QO,UFA-Group6,2023-24,Allan Walsh
+1624,"Douglas, Curtis","$775,000","$775,000",2,24,C,,2027,RFA +arb,RFA +arb,2025-26,Patrick Morris
+1625,"Kuznetsov, Yan","$775,000","$775,000",1,22,D,,2029,RFA,RFA,2024-25,Mark Gandler & Todd Diamond
+1626,"Koppanen, Joona","$775,000","$775,000",2,26,C,,2025,UFA-Group6 +arb,UFA,2024-25,Markus Lehto
+1627,"Laczynski, Tanner","$775,000","$775,000",2,27,C,,2024,UFA,UFA,2025-26,Jason Davidson
+1628,"Makiniemi, Eetu","$775,000","$775,000",1,25,G,,2026,RFA +arb,UFA-Group6,2023-24,Murray Koontz
+1629,"Rafferty, Brogan","$775,000","$775,000",2,29,D,,2022,UFA,UFA,2024-25,Jordan Neumann & George Bazos
+1630,"Fagemo, Samuel","$775,000","$775,000",1,24,LW,,2027,RFA +arb,UFA-Group6,2024-25,Craig Oster
+1631,"Rifai, Marshall","$775,000","$775,000",2,26,D,,2025,,UFA,2024-25,
+1632,"Tomkins, Matt","$775,000","$775,000",2,30,G,,2021,UFA,UFA,2024-25,Brian & Scott Bartlett
+1633,"Richard, Anthony","$775,000","$775,000",2,27,C,,2024,UFA,UFA,2025-26,Philippe Lecavalier
+1634,"Grosenick, Troy","$775,000","$775,000",1,34,G,,2017,UFA,UFA,2024-25,Daniel Plante
+1635,"Miner, Trent","$775,000","$775,000",1,23,G,,2028,RFA,RFA,2024-25,Gregory Landry
+1636,"Schueneman, Corey","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2024-25,Richard Evans
+1637,"Tufte, Riley","$775,000","$775,000",1,26,LW,,2025,UFA-Group6 +arb,UFA,2024-25,Ben Hankinson
+1638,"Aston-Reese, Zach","$775,000","$775,000",1,30,C,,2022,UFA,UFA,2024-25,Daniel Milstein
+1639,"Walker, Samuel","$775,000","$775,000",1,25,C,,2026,RFA +arb,RFA +arb,2024-25,Neil Sheehy
+1640,"Laferriere, Mathias","$775,000","$775,000",1,24,C,,2027,RFA +arb,UFA-Group6,2024-25,Philippe Lecavalier
+1641,"Beckman, Adam","$775,000","$775,000",1,23,LW,,2028,RFA,RFA,2024-25,Michael Kaye
+1642,"Brown, Logan","$775,000","$775,000",1,26,C,,2025,UFA no QO,UFA no QO,2023-24,Judd Moldaver
+1643,"Lettieri, Vinni","$775,000","$775,000",2,29,C,,2022,UFA,UFA,2024-25,Ben Hankinson
+1644,"Swaney, Nick","$775,000","$775,000",1,26,RW,,2025,RFA +arb,UFA-Group6,2023-24,Ian Pulver
+1645,"Cotter, Paul","$775,000","$775,000",3,24,C,,2027,RFA,RFA +arb,2025-26,Keith McKittrick
+1646,"Matinpalo, Nikolas","$775,000","$775,000",1,25,D,,2026,RFA +arb,RFA +arb,2024-25,Murray Koontz
+1647,"Pouliot, Derrick","$775,000","$775,000",1,30,D,,2021,UFA,UFA,2024-25,Rick Valette
+1648,"Kirkland, Justin","$775,000","$775,000",1,28,C,,2024,UFA,UFA,2024-25,Craig Oster
+1649,"Delia, Collin","$775,000","$775,000",1,30,G,,2021,UFA,UFA,2024-25,Jerry Buckley
+1650,"Koch, Patrik","$775,000","$775,000",1,27,D,,2024,UFA,UFA,2024-25,Serge Payer
+1651,"Bishop, Clark","$775,000","$775,000",2,28,C,,2023,UFA,UFA,2024-25,Allain Roy
+1652,"Sawchenko, Zachary","$775,000","$775,000",1,26,G,,2025,UFA-Group6 +arb,UFA,2024-25,Patrick Sullivan
+1653,"Rosen, Calle","$775,000","$775,000",1,30,D,,2021,UFA,UFA,2024-25,Kurt Overhardt
+1654,"Pare, Cedric","$775,000","$775,000",1,25,C,,2026,,RFA,2024-25,
+1655,"Dries, Sheldon","$775,000","$775,000",2,30,C,,2021,UFA,UFA,2025-26,Richard Evans
+1656,"Goncalves, Gage","$775,000","$775,000",1,23,C,,2028,RFA,RFA,2024-25,Allain Roy
+1657,"Criscuolo, Kyle","$775,000","$775,000",1,32,C,,2019,UFA,UFA,2023-24,Marc Levine
+1658,"Meyer, Carson","$775,000","$775,000",1,27,RW,,2025,UFA-Group6,UFA,2024-25,Allain Roy
+1659,"Burke, Cal","$775,000","$775,000",1,27,C,,2024,UFA,UFA,2024-25,Kevin Magnuson
+1660,"Gibson, Mitchell","$775,000","$775,000",1,25,G,,2026,RFA +arb,RFA +arb,2024-25,Michael Curran
+1661,"Boyd, Travis","$775,000","$775,000",1,30,C,,2021,UFA,UFA,2024-25,Ben Hankinson
+1662,"Lee, Andre","$775,000","$775,000",1,24,LW,,2028,RFA +arb,RFA +arb,2024-25,
+1663,"Bellows, Kieffer","$775,000","$775,000",1,26,LW,,2025,UFA no QO,UFA,2024-25,Jay Grossman
+1664,"Jones, Ben","$775,000","$775,000",2,25,C,,2026,UFA-Group6,UFA,2025-26,Jason Harshaw
+1665,"Houser, Michael","$775,000","$775,000",1,31,G,,2020,UFA,UFA,2023-24,Paul Capizzano
+1666,"Luff, Matt","$775,000","$775,000",1,27,RW,,2024,UFA no QO,UFA,2023-24,Allan Walsh
+1667,"Kalynuk, Wyatt","$775,000","$775,000",1,27,D,,2024,UFA-Group6 +arb,UFA,2023-24,Daniel Milstein
+1668,"Damiani, Riley","$775,000","$775,000",1,24,C,,2027,RFA,UFA no QO,2023-24,Cameron Stewart
+1669,"Galchenyuk, Alex","$775,000","$775,000",1,30,C,,2019,UFA,UFA,2023-24,Pat Brisson
+1670,"Currie, Josh","$775,000","$775,000",1,31,C,,2020,UFA,UFA,2023-24,Allan Walsh
+1671,"Angello, Anthony","$775,000","$775,000",2,28,C,,2023,UFA,UFA,2024-25,Brian & Scott Bartlett
+1672,"Gravel, Kevin","$775,000","$775,000",2,32,D,,2019,UFA,UFA,2025-26,Dean Grillo
+1673,"Ellis, Colten","$775,000","$775,000",1,23,G,,2028,RFA,RFA,2024-25,Jason Harshaw
+1674,"Jones, Caleb","$775,000","$775,000",1,27,D,,2024,UFA,UFA,2024-25,Pat Brisson
+1675,"Lind, Kole","$775,000","$775,000",1,25,RW,,2026,UFA-Group6 +arb,UFA-Group6,2024-25,Gerry Johannson
+1676,"Denisenko, Grigori","$775,000","$775,000",2,24,LW,,2027,RFA,RFA +arb,2024-25,Daniel Milstein
+1677,"Stevenson, Clay","$775,000","$775,000",3,25,G,,2026,RFA +arb,UFA,2026-27,Michael O'Rafferty
+1678,"Ingham, Jacob","$775,000","$775,000",1,24,G,,2027,UFA no QO,UFA no QO,2023-24,Craig Oster
+1679,"Poulin, Samuel","$775,000","$775,000",2,23,RW,,2028,RFA,RFA,2025-26,Pat Brisson
+1680,"Subban, Malcolm","$775,000","$775,000",1,30,G,,2021,UFA,UFA,2023-24,Patrick Morris
+1681,"Tierney, Chris","$775,000","$775,000",1,30,C,,2021,UFA,UFA,2023-24,Joseph Resnick
+1682,"Thompson, Tyce","$775,000","$775,000",1,25,RW,,2027,RFA +arb,UFA-Group6,2024-25,Jerry Buckley
+1683,"Shea, Ryan","$775,000","$775,000",1,27,D,,2024,UFA,UFA,2024-25,Matt Keator
+1684,"Boqvist, Jesper","$775,000","$775,000",1,25,C,,2026,UFA no QO,RFA +arb,2024-25,Peter Wallen
+1685,"Foudy, Liam","$775,000","$775,000",1,24,C,,2027,UFA no QO,RFA,2024-25,Thane Campbell
+1686,"Irwin, Matt","$775,000","$775,000",1,36,D,,2015,UFA,UFA,2023-24,Ian Pulver
+1687,"Bussi, Brandon","$775,000","$775,000",1,26,G,,2025,RFA +arb,UFA,2024-25,John Kofi Osei-Tutu
+1688,"Koepke, Cole","$775,000","$775,000",1,26,LW,,2025,UFA-Group6,UFA,2024-25,Daniel Plante
+1689,"Nash, Riley","$775,000","$775,000",2,35,C,,2016,UFA,UFA,2024-25,Kurt Overhardt
+1690,"Cooley, Devin","$775,000","$775,000",2,27,G,,2024,UFA,UFA,2025-26,Daniel Milstein
+1691,"Dalpe, Zac","$775,000","$775,000",2,34,C,,2017,UFA,UFA,2024-25,Brian & Scott Bartlett
+1692,"Quinney, Gage","$775,000","$775,000",2,29,C,,2023,UFA,UFA,2024-25,Neil Sheehy
+1693,"Sanford, Zach","$775,000","$775,000",1,29,LW,,2022,UFA,UFA,2024-25,Jerry Buckley
+1694,"Biro, Brandon","$775,000","$775,000",1,26,LW,,2025,UFA-Group6,UFA,2024-25,Allain Roy
+1695,"Willman, Maxwell","$775,000","$775,000",1,29,C,,2022,UFA,UFA,2024-25,Peter Fish
+1696,"Carlile, Declan","$775,000","$775,000",2,24,D,,2027,RFA +arb,RFA +arb,2025-26,Peter Fish
+1697,"Philp, Noah","$775,000","$775,000",1,25,C,,2026,RFA +arb,RFA +arb,2024-25,Allain Roy
+1698,"Slavin, Josiah","$775,000","$775,000",2,25,LW,,2026,UFA no QO,UFA,2025-26,Kurt Overhardt
+1699,"MacDonald, Jacob","$775,000","$775,000",2,31,D,,2020,UFA,UFA,2025-26,Richard Evans
+1700,"Dansk, Oscar","$775,000","$775,000",1,30,G,,2021,UFA,UFA,2023-24,Craig Oster
+1701,"Poolman, Colton","$775,000","$775,000",1,28,D,,2023,UFA,UFA,2024-25,Dean Grillo
+1702,"White, Colton","$775,000","$775,000",2,27,D,,2024,UFA,UFA,2025-26,Joseph Resnick
+1703,"Wilsby, Adam","$775,000","$775,000",1,24,D,,2028,RFA +arb,RFA +arb,2024-25,
+1704,"Shepard, Hunter","$775,000","$775,000",2,28,G,,2023,UFA,UFA,2024-25,Jay Grossman
+1705,"Boqvist, Adam","$775,000","$775,000",1,24,D,,2027,UFA,RFA +arb,2024-25,Peter Wallen
+1706,"Scanlin, Brandon","$775,000","$775,000",2,25,D,,2026,UFA-Group6 +arb,UFA,2025-26,Richard Evans
+1707,"Domingue, Louis","$775,000","$775,000",1,32,G,,2019,UFA,UFA,2024-25,Allan Walsh
+1708,"Sgarbossa, Michael","$775,000","$775,000",2,32,C,,2020,UFA,UFA,2024-25,Paul Capizzano
+1709,"Blackwell, Colin","$775,000","$775,000",1,31,C,,2020,UFA,UFA,2024-25,Peter Fish
+1710,"Hagg, Robert","$775,000","$775,000",1,29,D,,2022,UFA,UFA,2024-25,Craig Oster
+1711,"Ahcan, Jack","$775,000","$775,000",2,27,D,,2024,UFA-Group6 +arb,UFA,2024-25,Pete Rutili
+1712,"Stezka, Ales","$775,000","$775,000",1,27,G,,2024,UFA,UFA,2024-25,
+1713,"Stauber, Jaxson","$775,000","$775,000",1,25,G,,2026,UFA no QO,RFA,2024-25,Richard Evans
+1714,"Thompson, Logan","$766,667","$775,000",3,27,G,,2024,RFA +arb,UFA,2024-25,Allain Roy
+1715,"Rondbjerg, Jonas","$766,667","$775,000",3,25,LW,,2026,RFA,RFA +arb,2024-25,Markus Lehto
+1716,"Kovacevic, Johnathan","$766,667","$775,000",3,27,D,,2025,RFA +arb,UFA,2024-25,Richard Evans
+1717,"Leschyshyn, Jake","$766,667","$775,000",3,25,C,,2026,RFA,RFA +arb,2024-25,Jason Davidson
+1718,"Woll, Joseph","$766,667","$775,000",3,26,G,,2026,RFA +arb,RFA +arb,2024-25,Allain Roy
+1719,"Marody, Cooper","$762,500","$775,000",2,27,C,,2024,UFA,UFA,2023-24,Brian & Scott Bartlett
+1720,"Griffith, Seth","$762,500","$750,000",2,31,C,,2020,UFA,UFA,2023-24,Paul Capizzano
+1721,"Czarnik, Austin","$762,500","$775,000",2,31,C,,2020,UFA,UFA,2023-24,Brian & Scott Bartlett
+1722,"Gust, Dave","$762,500","$775,000",2,30,RW,,2021,UFA,UFA,2023-24,Justin Duberman
+1723,"Brooks, Adam","$762,500","$775,000",2,28,C,,2023,UFA,UFA,2023-24,Jason Davidson
+1724,"Gross, Jordan","$762,500","$775,000",2,29,D,,2022,UFA,UFA,2023-24,Brian & Scott Bartlett
+1725,"Wideman, Chris","$762,500","$775,000",2,34,D,,2017,UFA,UFA,2023-24,Allain Roy
+1726,"Bitten, William","$762,500","$775,000",2,26,RW,,2026,RFA +arb,UFA-Group6,2023-24,Serge Payer
+1727,"Hunt, Brad","$762,500","$750,000",2,35,D,,2016,UFA,UFA,2023-24,Daniel Plante
+1728,"Ouellet, Xavier","$762,500","$750,000",2,31,D,,2021,UFA,UFA,2023-24,Ian Pulver
+1729,"Ruzicka, Adam","$762,500","$750,000",2,25,C,,2026,RFA,UFA,2023-24,Craig Oster
+1730,"Durandeau, Arnaud","$762,500","$750,000",2,25,LW,,2026,RFA,UFA-Group6,2023-24,Paul Corbeil
+1731,"Wotherspoon, Tyler","$762,500","$775,000",2,31,D,,2020,UFA,UFA,2023-24,Kevin Epp
+1732,"Dea, Jean-Sebastien","$762,500","$775,000",2,30,C,,2021,UFA,UFA,2023-24,Allain Roy
+1733,"Fogarty, Steven","$762,500","$750,000",2,31,C,,2020,UFA,UFA,2023-24,Neil Sheehy
+1734,"LaDue, Paul","$762,500","$775,000",2,31,D,,2020,UFA,UFA,2023-24,Ritchie Winter
+1735,"Andreoff, Andy","$762,500","$775,000",2,33,C,,2018,UFA,UFA,2023-24,Ian Pulver
+1736,"Appleby, Ken","$762,500","$775,000",2,29,G,,2022,UFA,UFA,2023-24,Jason Harshaw
+1737,"Rempal, Sheldon","$762,500","$750,000",2,29,RW,,2023,UFA,UFA,2023-24,Drew Shore
+1738,"McKegg, Greg","$762,500","$750,000",2,32,C,,2019,UFA,UFA,2023-24,David Gagner
+1739,"De Leo, Chase","$762,500","$750,000",2,28,LW,,2023,UFA,UFA,2023-24,Claude Lemieux
+1740,"Johansen, Lucas","$762,500","$775,000",2,26,D,,2025,RFA +arb,UFA-Group6,2023-24,Kurt Overhardt
+1741,"Malone, Brad","$762,500","$750,000",2,35,C,,2016,UFA,UFA,2023-24,Matthew Oates
+1742,"Petan, Nic","$762,500","$750,000",2,29,C,,2022,UFA,UFA,2023-24,Kevin Epp
+1743,"Froese, Byron","$762,500","$750,000",2,33,C,,2018,UFA,UFA,2023-24,Todd Reynolds
+1744,"Fedun, Taylor","$762,500","$750,000",2,36,D,,2015,UFA,UFA,2023-24,Peter Fish
+1745,"Elson, Turner","$762,500","$750,000",2,31,C,,2020,UFA,UFA,2023-24,Jason Davidson
+1746,"Renouf, Dan","$762,500","$775,000",2,30,D,,2021,UFA,UFA,2023-24,Todd Reynolds
+1747,"Clifford, Kyle","$762,500","$775,000",2,33,LW,,2017,UFA,UFA,2023-24,Todd Reynolds
+1748,"Peca, Matthew","$762,500","$775,000",2,31,C,,2020,UFA,UFA,2023-24,Jay Grossman
+1749,"McKeown, Roland","$762,500","$750,000",2,28,D,,2023,UFA,UFA,2023-24,Judd Moldaver
+1750,"Heatherington, Dillon","$762,500","$750,000",2,29,D,,2022,UFA,UFA,2023-24,J.P. Barry
+1751,"Niemelainen, Markus","$762,500","$775,000",2,26,D,,2025,RFA +arb,UFA-Group6,2023-24,Mark Gandler & Todd Diamond
+1752,"Katchouk, Boris","$758,333","$750,000",3,26,LW,,2025,RFA,UFA no QO,2023-24,Robert Hooper
+"
+
+",,,,,,,,,,,,
