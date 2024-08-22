@@ -64,7 +64,16 @@ def create_gamescore_toi(gamescore: float, time_on_ice: float) -> float:
     """
     # Gt game score per second of time on ice
     # Multiply gs_toi by 100k to make score more readable
-    return np.round(gamescore / time_on_ice * 100000)
+    gs_toi = np.round(gamescore / time_on_ice * 100000)
+
+    # Normalize score to be between 0 and 1000
+    # Rough max (min) for score is 250 (-250) (These are exagerated)
+    max_scale = 1000
+    max_score = 250
+    min_score = -250
+    gs_toi = (gs_toi - min_score) / (max_score - min_score) * max_scale
+
+    return gs_toi
 
 
 def create_action_date_target_data(playoff_season_year: int) -> datetime:
@@ -143,6 +152,9 @@ def create_target_variable_data(
 
     mp_playoff_data = mp_playoff_data.reset_index(drop=True)
 
+    # Rename season to "action_season"
+    mp_playoff_data = mp_playoff_data.rename(columns={"season": "action_season"})
+
     # For target variable only need player id, season, corsi per second of ice time
     # Include player name for readability
     return mp_playoff_data.loc[
@@ -151,8 +163,8 @@ def create_target_variable_data(
             "playerId",
             "name",
             "season_type",
-            "season",
             "situation",
+            "action_season",
             "action_date",
             "gamescore_toi",
         ],
@@ -165,14 +177,19 @@ if __name__ == "__main__":
     # Filter out data to use "all" situation rows
     # AKA we want the target variable to reflect all game situations
     target_variable_data = create_target_variable_data(
-        start_year=2015, min_games_played=4, situation="all"
+        start_year=2014, min_games_played=4, situation="all"
     )
     # Save target variable data
     target_variable_data.to_csv(
         os.path.join(DIRNAME, "training_data", "target_variable.csv")
     )
     print(max(target_variable_data["gamescore_toi"]))
-    print(target_variable_data.sort_values(by="gamescore_toi", ascending=False))
+    print(
+        target_variable_data.sort_values(by="gamescore_toi", ascending=False).head(20)
+    )
+    print(
+        target_variable_data.sort_values(by="gamescore_toi", ascending=False).tail(20)
+    )
 
     print(
         target_variable_data.groupby(["playerId", "name"])["gamescore_toi"]
@@ -180,4 +197,12 @@ if __name__ == "__main__":
         .sort_values(ascending=False)
         .reset_index(drop=False)
         .head(20)
+    )
+
+    print(
+        target_variable_data.groupby(["playerId", "name"])["gamescore_toi"]
+        .mean()
+        .sort_values(ascending=False)
+        .reset_index(drop=False)
+        .tail(20)
     )
