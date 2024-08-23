@@ -7,6 +7,7 @@ dirname = os.path.dirname(os.path.realpath(__file__))
 
 
 sys.path.append(dirname)
+from collect_data.read_local_data import read_mp_bio_data
 from common_data_pull import download_csv
 
 
@@ -51,6 +52,14 @@ def read_in_all_seasons_players_stats():
     for season in seasons:
         read_in_season_players_stats(season, "regular")
         read_in_season_players_stats(season, "playoffs")
+
+
+def get_player_name(player_id: int) -> str:
+    # read in MoneyPuck player bio data
+    mp_bio_data = read_mp_bio_data()
+    # Get palyers name
+    name_match = mp_bio_data.loc[mp_bio_data["playerId"] == player_id, "name"]
+    return name_match.values[0]
 
 
 if __name__ == "__main__":

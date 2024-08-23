@@ -38,9 +38,12 @@ def score_players(pipeline_folder_path: str, model_version: str) -> pd.DataFrame
     identifier_data.loc[:, "prediction"] = y_pred
     X = X.reset_index()
     all_scored_data = pd.merge(identifier_data, X, how="inner", on="index")
+    all_scored_data = all_scored_data.drop(columns=["index"])
 
     # Save scored date
     all_scored_data.to_csv(os.path.join(pipeline_folder_path, "scored_data.csv"))
+
+    print(all_scored_data.sort_values(by=["prediction"]))
 
 
 if __name__ == "__main__":
