@@ -48,7 +48,8 @@ def player_rankings_for_batch(data: pd.DataFrame):
     gs_rank = data.loc[:, ["playerId", "name", "prediction"]].sort_values(
         by=["prediction"], ascending=False
     )
-    print(gs_rank)
+    print(gs_rank.head(10))
+    print(gs_rank.tail(10))
 
     # Ranking by game score per dollar of salary
     print("\nPlayer Rankings for Batch by pred game score per salary:")
@@ -59,6 +60,17 @@ def player_rankings_for_batch(data: pd.DataFrame):
     )
     print(gs_cap_hit_rank.head(20))
     print(gs_cap_hit_rank.tail(20))
+
+
+def get_top_ufas(data: pd.DataFrame):
+    ufa_year = max(data["action_season"]) + 1
+    print(f"\nTop UFAs {ufa_year}")
+    ufa_players = data[
+        (data["ufa_year"] <= ufa_year)
+        & (data["expiry_status"].str.lower().str.contains("ufa"))
+        & (data["expiry_year"] == f"{ufa_year-1}-{str(ufa_year)[-2:]}")
+    ]
+    player_rankings_for_batch(ufa_players)
 
 
 def fuzzy_match_pd_col(
@@ -98,24 +110,26 @@ def fuzzy_match_pd_col(
     return df_1
 
 
-def add_salary_data(scored_data) -> pd.DataFrame:
+def add_contract_data(scored_data) -> pd.DataFrame:
     # read in salary data
-    salary_data = read_in_salary_data_puckpedia()
+    contract_data = read_in_salary_data_puckpedia()
 
     # modify name format
-    salary_data["name"] = salary_data["player"].apply(
+    contract_data["name"] = contract_data["player"].apply(
         lambda x: x.split(",")[1].strip() + " " + x.split(",")[0].strip()
     )
 
     # Select name and cap hit column
-    salary_data = salary_data.loc[:, ["name", "current_cap_hit"]]
+    contract_data = contract_data.loc[
+        :, ["name", "current_cap_hit", "ufa_year", "expiry_status", "expiry_year"]
+    ]
 
     # Fuzzy match names
-    scored_data = fuzzy_match_pd_col(scored_data, salary_data, "name")
+    scored_data = fuzzy_match_pd_col(scored_data, contract_data, "name")
 
     # Merge salary with data
-    salary_data = salary_data.rename(columns={"name": "matches"})
-    scored_data = pd.merge(scored_data, salary_data, on="matches", how="left")
+    contract_data = contract_data.rename(columns={"name": "matches"})
+    scored_data = pd.merge(scored_data, contract_data, on="matches", how="left")
     scored_data = scored_data.drop(columns=["matches"])
 
     # There are two names that are duplicated in the NHL: Sebastian Aho and Elias Pettersson
@@ -168,19 +182,23 @@ def batch_analysis(pipeline_folder_path: str):
         how="left",
     )
 
-    # Add salary data
-    scored_data = add_salary_data(scored_data)
+    # Add contract data (slary, ufa status, etc.)
+    scored_data = add_contract_data(scored_data)
     # Add game score per dollar of cap hit
-    print(scored_data)
+
     scored_data["pred_gs_toi_cap_hit"] = (
         scored_data["prediction"].values / scored_data["current_cap_hit"].values
     )
+    print(scored_data)
 
     # Get team rankings for batch
     team_rankings_for_batch(scored_data)
 
     # Get player rankings for batch
     player_rankings_for_batch(scored_data)
+
+    # Get top ufas for upcoming year
+    get_top_ufas(scored_data)
 
 
 if __name__ == "__main__":
