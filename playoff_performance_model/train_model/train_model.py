@@ -1,17 +1,32 @@
 import json
 import os
+import sys
+from datetime import datetime
+from functools import reduce
 from pathlib import Path
 
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import xgboost as xgb
+from sklearn.feature_selection import SelectKBest, mutual_info_regression
 from sklearn.metrics import root_mean_squared_error
 from sklearn.model_selection import GridSearchCV, train_test_split
 from xgboost import plot_importance
 
 # Get path of current file's directory
 DIRNAME = os.path.dirname(os.path.realpath(__file__))
+
+
+def select_features(features_df: pd.DataFrame, target: pd.Series, num_features: int):
+    # configure to select num_features
+    fs = SelectKBest(score_func=mutual_info_regression, k=num_features)
+    # learn relationship from training data
+    fs.fit(features_df, target)
+    # Get columns to keep and create new dataframe with those only
+    cols_idxs = fs.get_support(indices=True)
+    features_df_new = features_df.iloc[:, cols_idxs]
+    return features_df_new
 
 
 def train_model(model_version: str):
@@ -22,12 +37,15 @@ def train_model(model_version: str):
 
     # Identifier data will not be included in training or scoring
     identifier_cols = ["playerId", "action_season", "action_date"]
-    all_data = all_data.drop(columns=identifier_cols)
+    target_variable = "gamescore_toi"
+    y = all_data.loc[:, target_variable]
+    X = all_data.drop(columns=[*identifier_cols, target_variable])
+
+    # Select K best features for the model
+    X = select_features(X, y, 100)
 
     # Split data into train, test, and oot
-    target_variable = "gamescore_toi"
-    X = all_data.drop(columns=[target_variable]).copy()
-    y = all_data.loc[:, target_variable].copy()
+    y.copy()
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=123
     )
@@ -124,4 +142,4 @@ def train_model(model_version: str):
 
 
 if __name__ == "__main__":
-    train_model("version_1")
+    train_model("version_2")

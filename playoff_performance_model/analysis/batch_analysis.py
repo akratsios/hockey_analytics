@@ -17,7 +17,29 @@ from collect_data.read_local_data import read_in_salary_data_puckpedia
 
 
 def team_rankings_for_batch(data: pd.DataFrame):
-    pass
+    print("\nTeam Ranking by GS_TOI:")
+    team_rankings = (
+        data.groupby("team")["prediction"].sum().sort_values(ascending=False)
+    )
+    print(team_rankings)
+
+    print("\nTeam Ranking by mean GS_TOI:")
+    team_rankings = (
+        data.groupby("team")["prediction"].mean().sort_values(ascending=False)
+    )
+    print(team_rankings)
+
+    print("\nTeam Ranking by GS_TOI by cap hit:")
+    team_rankings = (
+        data.groupby("team")["pred_gs_toi_cap_hit"].sum().sort_values(ascending=False)
+    )
+    print(team_rankings)
+
+    print("\nTeam Ranking by mean GS_TOI by cap hit:")
+    team_rankings = (
+        data.groupby("team")["pred_gs_toi_cap_hit"].mean().sort_values(ascending=False)
+    )
+    print(team_rankings)
 
 
 def player_rankings_for_batch(data: pd.DataFrame):
@@ -133,6 +155,17 @@ def batch_analysis(pipeline_folder_path: str):
     scored_data["name"] = scored_data["playerId"].apply(lambda x: get_player_name(x))
     # If no MoneyPuck match to player name, then remove the row from analysis
     scored_data = scored_data[~scored_data["name"].isin(["", None])]
+
+    # Add team name from batch data
+    batch_data = pd.read_csv(
+        os.path.join(pipeline_folder_path, "batch_data.csv"), index_col=0
+    )
+    scored_data = pd.merge(
+        scored_data,
+        batch_data.loc[:, ["playerId", "team"]],
+        on="playerId",
+        how="left",
+    )
 
     # Add salary data
     scored_data = add_salary_data(scored_data)

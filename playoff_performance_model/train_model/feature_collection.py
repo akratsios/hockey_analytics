@@ -102,20 +102,38 @@ def add_offset_x_season_stats(
     return data
 
 
-def remove_empty_rows(data: pd.DataFrame) -> pd.DataFrame:
-    # TODO: Remove all rows that do not have enough data
-    return data
-
-
 def feature_selection_process(feature_data: pd.DataFrame) -> pd.DataFrame:
 
     # Keep identifying information
     identifier_cols = ["playerId", "action_season", "action_date"]
+    target_col = "gamescore_toi"
+    other_cols = [
+        c for c in feature_data.columns if c != target_col and c not in identifier_cols
+    ]
 
-    # Drop empty columns (60% empty threshold)
-    # TODO: Change this to a threshold?
+    # Remove rows with all missing data
+    # TODO: Impute data, don't just remove
+    feature_data = feature_data.dropna(subset=other_cols, how="any").reset_index(
+        drop=True
+    )
+    # Print null rates
+    # print(feature_data[["penalityMinutes"]])
+    # print(feature_data.isnull().mean().round(4).mul(100).sort_values(ascending=False))
+
+    # Save identifier data
+    identifier_data = feature_data.loc[:, identifier_cols]
+    # If present save the target data
+    if target_col in feature_data.columns:
+        target_data = feature_data.loc[:, target_col]
+    else:
+        target_data = pd.Series()
+    feature_data = feature_data.drop(
+        columns=[*identifier_cols, target_col], errors="ignore"
+    )
+
+    # Drop empty columns (30% empty threshold)
     empty_threshold = (
-        0.4  # 1 minus percentage empty to drop, so 60% empty is 0.1 for threshold
+        0.7  # 1 minus percentage empty to drop, so 60% empty is 0.4 for threshold
     )
     feature_data = feature_data.dropna(
         thresh=feature_data.shape[0] * empty_threshold, axis=1
@@ -123,7 +141,6 @@ def feature_selection_process(feature_data: pd.DataFrame) -> pd.DataFrame:
 
     # Drop all columns where all non empty data is the same value
     nunique = feature_data.nunique()
-    nunique = nunique.drop(identifier_cols)
     feature_data = feature_data.drop(nunique[nunique == 1].index, axis=1)
 
     # TODO: Categorical data, use label encoding
@@ -131,13 +148,19 @@ def feature_selection_process(feature_data: pd.DataFrame) -> pd.DataFrame:
     feature_data.loc[:, cat_cols] = feature_data.loc[:, cat_cols].astype("category")
     # TODO: TEMPORARY: DROP CATEGORICAL DATA
     # print(feature_data.dtypes)
-    feature_data = feature_data.drop(columns=cat_cols)
+    feature_data = feature_data.select_dtypes(exclude=["object"])
 
-    # TODO: Remove selected columns
+    # Remove selected columns
     cols_to_remove = ["season", "name"]
     feature_data = feature_data.drop(columns=cols_to_remove, errors="ignore")
 
-    return feature_data
+    # Add identifier cols back
+    if not target_data.empty:
+        final_data = pd.concat([identifier_data, target_data, feature_data], axis=1)
+    else:
+        final_data = pd.concat([identifier_data, feature_data], axis=1)
+
+    return final_data
 
 
 def get_model_features(feature_data: pd.DataFrame) -> pd.DataFrame:
