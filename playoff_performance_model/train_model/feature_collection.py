@@ -11,11 +11,65 @@ DIRNAME = os.path.dirname(os.path.realpath(__file__))
 
 # Insert path to all hockey analytics files
 sys.path.insert(0, os.path.join(DIRNAME, "../.."))
-from collect_data.read_local_data import read_mp_bio_data
+from collect_data.read_local_data import read_in_all_mp_data, read_mp_bio_data
 from common_functions.moneypuck_player_stats import (
     check_season_type_valid_mp,
     get_mp_player_data_for_year,
 )
+
+
+def get_past_x_seasons_average_score(
+    data: pd.DataFrame,
+    season_type: str,
+    columns: list,
+    num_seasons: int,
+    situation: str,
+) -> pd.DataFrame:
+    # make sure season type valid
+    check_season_type_valid_mp(season_type)
+
+    # Read in all moneypuck player data
+    mp_data = read_in_all_mp_data(season_type)
+
+    # Filter for situation
+    mp_data = mp_data.loc[mp_data["situation"] == situation]
+
+    # Filter columns
+    mp_data = mp_data.loc[:, ["playerId", "season", *columns]]
+
+    # Filter out unncessary players
+    mp_data = mp_data.loc[mp_data["playerId"].isin(data["playerId"].unique())]
+    mp_data = mp_data.reset_index(drop=True)
+
+    # new column names
+    col_mean_names = [
+        f"mean_{num_seasons}years_{season_type}_{situation}_{col}" for col in columns
+    ]
+    print("here")
+    data[col_mean_names] = data.apply(
+        lambda x: get_past_x_seasons_average_score_helper(
+            x["playerId"], x["action_season"], num_seasons, mp_data.copy()
+        ),
+        axis=1,
+        result_type="expand",
+    )
+    return data
+
+
+def get_past_x_seasons_average_score_helper(
+    player_id: int,
+    start_season: int,
+    num_seasons: int,
+    all_mp_player_data: pd.DataFrame,
+) -> pd.DataFrame:
+    # Only look at player data for given player id and appropriate seasons
+    player_data = all_mp_player_data.loc[
+        (all_mp_player_data["playerId"] == player_id)
+        & (all_mp_player_data["season"] < start_season)
+        & (all_mp_player_data["season"] >= start_season - num_seasons)
+    ]
+    # Get mean for each relevent column
+    return player_data.drop(columns=["playerId", "season"]).mean()
 
 
 def add_player_biographical_data_mp(data: pd.DataFrame) -> pd.DataFrame:
@@ -169,6 +223,20 @@ def get_model_features(feature_data: pd.DataFrame) -> pd.DataFrame:
     # TODO: Incorporate playoff data
     # TODO: Summary stats data (trends)
     feature_data = add_offset_x_season_stats(feature_data, "regular", -1)
+
+    # Get mean scores for past regular and playoff seasons
+    numeric_cols = feature_data.select_dtypes(include=np.number).columns.tolist()
+    numeric_cols = [
+        c
+        for c in numeric_cols
+        if c not in ["playerId", "action_season", "gamescore_toi", "season"]
+    ]
+    feature_data = get_past_x_seasons_average_score(
+        feature_data, "regular", numeric_cols, num_seasons=5, situation="all"
+    )
+    feature_data = get_past_x_seasons_average_score(
+        feature_data, "playoffs", numeric_cols, num_seasons=5, situation="all"
+    )
 
     # Add player biographical data (height, weight, age, etc.)
     feature_data = add_player_biographical_data_mp(feature_data)

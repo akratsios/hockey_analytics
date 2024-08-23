@@ -53,10 +53,11 @@ def player_rankings_for_batch(data: pd.DataFrame):
     # Ranking by game score per dollar of salary
     print("\nPlayer Rankings for Batch by pred game score per salary:")
     gs_cap_hit_rank = (
-        data.loc[:, ["playerId", "name", "prediction", "pred_gs_toi_cap_hit"]]
+        data.loc[:, ["playerId", "name", "team", "prediction", "pred_gs_toi_cap_hit"]]
         .sort_values(by=["pred_gs_toi_cap_hit"], ascending=False)
         .reset_index()
     )
+    print(gs_cap_hit_rank.head(20))
     print(gs_cap_hit_rank.tail(20))
 
 

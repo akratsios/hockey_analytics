@@ -53,4 +53,4 @@ if __name__ == "__main__":
     pipeline_folder_path = os.path.join(DIRNAME, "../pipeline_results", batch_name)
 
     # Score contracts in pipeline
-    score_players(pipeline_folder_path, model_version="version_1")
+    score_players(pipeline_folder_path, model_version="version_2")
