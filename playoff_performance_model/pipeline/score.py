@@ -48,7 +48,8 @@ def score_players(pipeline_folder_path: str, model_version: str) -> pd.DataFrame
 
 if __name__ == "__main__":
     # Test pipeline results
-    batch_name = "batch_2023-06-28"
+    action_date = "2024-06-29"
+    batch_name = f"batch_{action_date}"
     pipeline_folder_path = os.path.join(DIRNAME, "../pipeline_results", batch_name)
 
     # Score contracts in pipeline

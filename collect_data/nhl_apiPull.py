@@ -10,7 +10,7 @@ import pandas as pd
 DIRNAME = os.path.dirname(os.path.realpath(__file__))
 
 sys.path.insert(0, os.path.join(DIRNAME, ".."))
-from common_data_pull import download_json
+from collect_data.common_data_pull import download_json
 
 
 def read_in_current_team_roster(team_abr: str, season: int) -> pd.DataFrame:

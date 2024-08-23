@@ -59,7 +59,10 @@ def get_player_name(player_id: int) -> str:
     mp_bio_data = read_mp_bio_data()
     # Get palyers name
     name_match = mp_bio_data.loc[mp_bio_data["playerId"] == player_id, "name"]
-    return name_match.values[0]
+    if name_match.empty:
+        return ""
+    else:
+        return name_match.values[0]
 
 
 if __name__ == "__main__":

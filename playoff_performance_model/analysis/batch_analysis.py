@@ -131,6 +131,8 @@ def batch_analysis(pipeline_folder_path: str):
 
     # Add player name
     scored_data["name"] = scored_data["playerId"].apply(lambda x: get_player_name(x))
+    # If no MoneyPuck match to player name, then remove the row from analysis
+    scored_data = scored_data[~scored_data["name"].isin(["", None])]
 
     # Add salary data
     scored_data = add_salary_data(scored_data)
@@ -149,7 +151,8 @@ def batch_analysis(pipeline_folder_path: str):
 
 if __name__ == "__main__":
     # Test pipeline results
-    batch_name = "batch_2023-06-28"
+    action_date = "2024-06-29"
+    batch_name = f"batch_{action_date}"
     pipeline_folder_path = os.path.join(DIRNAME, "../pipeline_results", batch_name)
 
     # Run batch analysis
